@@ -1,0 +1,236 @@
+Label	Weight	Text
+l_general	6.168675	all set
+l_general	6.168675	calendar i ' ll be at the garage from 8 till 3 this saturday
+l_general	6.168675	go forward
+l_general	6.168675	add imax theater to my upcoming events
+l_general	6.168675	add oatmeal to shopping list .
+l_general	6.168675	go back on
+l_general	6.168675	is there any person i can talk to
+l_general	6.168675	what is the previous
+l_general	6.168675	schaumburg covenant church schaumburg illinois please
+l_general	6.168675	leave
+l_general	6.168675	opt for the left one
+l_general	6.168675	opt for the second
+l_general	6.168675	clear all items from the chores list .
+l_general	6.168675	the meeting will last for one hour
+l_general	6.168675	back to the last one
+l_general	6.168675	none of them thank you
+l_general	6.168675	i want to choose the first one
+l_general	6.168675	no no no no stop talking
+l_general	6.168675	a new note of name business solutions
+l_general	6.168675	i like upper right
+l_general	6.168675	back to last step
+l_general	6.168675	show me the next
+l_general	6.168675	is the distance betwee the zoo and my current location thirteen miles
+l_general	6.168675	i want right one
+l_general	6.168675	no go back to
+l_general	6.168675	clear my save notes
+l_general	6.168675	turn off
+l_general	6.168675	choose last
+l_general	6.168675	i ' m at home
+l_general	6.168675	select third
+l_general	6.168675	start it over
+l_general	6.168675	is there any help
+l_general	6.168675	go back to previous
+l_general	6.168675	show the next two options
+l_general	6.168675	and after that
+l_general	6.168675	it finished
+l_general	6.168675	tar
+l_general	6.168675	schedule appointment for tomorrow please
+l_general	6.168675	shut up be quiet
+l_general	6.168675	none
+l_general	6.168675	be quiet
+l_general	6.168675	come on stop
+l_general	6.168675	what's after that
+l_general	6.168675	never mind
+l_general	6.168675	what
+l_general	6.168675	i didn't hear repeat again
+l_general	6.168675	that ' s good
+l_general	6.168675	select the right one
+l_general	6.168675	select the third one
+l_general	6.168675	benefits
+l_general	6.168675	go away
+l_general	6.168675	please clear the untitled notes for me
+l_general	6.168675	just cancel it
+l_general	6.168675	opt for right one
+l_general	6.168675	neither of those
+l_general	6.168675	get directions to uniondale high school
+l_general	6.168675	nowhere just be quiet
+l_general	6.168675	sorry, don't do it
+l_general	6.168675	finished
+l_general	6.168675	nashville humane society rover please
+l_general	6.168675	vacation
+l_general	6.168675	okay i got it
+l_general	6.168675	travel
+l_general	6.168675	show me tomorrow ' s wedding party time
+l_general	6.168675	cancel it
+l_general	6.168675	i want to choose the last choice
+l_general	6.168675	no no cancel it
+l_general	6.168675	i want the right one
+l_general	6.168675	legal
+l_general	6.168675	i need help
+l_general	6.168675	i want the first
+l_general	6.168675	i love you to stop talking
+l_general	6.168675	quiet
+l_general	6.168675	i want to choose second one
+l_general	6.168675	no no go back to
+l_general	6.168675	back
+l_general	6.168675	my god shut up
+l_general	6.168675	turn over a new leaf
+l_general	6.168675	i want to talk to a real human
+l_general	6.168675	nothing never mind
+l_general	6.168675	go to the next three items
+l_general	6.168675	go to the previous one
+l_general	6.168675	put applebee ' s on favorite list
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+q_chitchat	4	Tell me how much you love me
+q_chitchat	4	Where are you
+q_chitchat	4	Can you sing
+q_chitchat	4	Am I a good person
+q_chitchat	4	Say something
+q_chitchat	4	Look at how smart you are
+q_chitchat	4	What's your favorite food
+q_chitchat	4	How do you feel about working late
+q_chitchat	4	What can you help me with
+q_chitchat	4	I am not your friend
+q_chitchat	4	Can you ask me a question
+q_chitchat	4	You're so stupid
+q_chitchat	4	You keep saying the same thing all the time
+q_chitchat	4	Hahaha
+q_chitchat	4	Till we meet again
+q_chitchat	4	Can I have a hug
+q_chitchat	4	You're an asshole
+q_chitchat	4	I am going on a run
+q_chitchat	4	I am tall
+q_chitchat	4	I'm so sleepy
+q_chitchat	4	What do you like to sing best
+q_chitchat	4	Kthx
+q_chitchat	4	Where do you live
+q_chitchat	4	Are you queer
+q_chitchat	4	What's your dad's name
+q_chitchat	4	What is love
+q_chitchat	4	Go to hell
+q_chitchat	4	You look ugly.
+q_chitchat	4	What are you doing later
+q_chitchat	4	I think you hate me.
+q_chitchat	4	I hate everything about you
+q_chitchat	4	What other bots do you know
+q_chitchat	4	Be funny
+q_chitchat	4	What's your favorite animal
+q_chitchat	4	You're boring
+q_chitchat	4	You don't interest me at all
+q_chitchat	4	Are you free
+q_chitchat	4	I'm in such a good mood
+q_chitchat	4	Here's a kiss for you
+q_chitchat	4	Cook me something
+q_chitchat	4	You're hilarious
+q_chitchat	4	You're gonna be unemployed soon
+q_chitchat	4	What kind of candy do you like
+q_chitchat	4	I'm all tuckered out
+q_chitchat	4	Omg sorry
+q_chitchat	4	Pardon me
+q_chitchat	4	No, that's not true
+q_chitchat	4	Haha
+q_chitchat	4	You're useless
+q_chitchat	4	That was funny
+q_chitchat	4	Who's your boss
+q_chitchat	4	Are you in love with me
+q_chitchat	4	Morning
+q_chitchat	4	What country are you in
+q_chitchat	4	What's new
+q_chitchat	4	You made no sense
+q_chitchat	4	That was correct
+q_chitchat	4	Inaccurate
+q_chitchat	4	Happy Halloween!
+q_chitchat	4	Can we chat
+q_chitchat	4	What do you even mean by that
+q_chitchat	4	What do you like to eat
+q_chitchat	4	Zip it!
+q_chitchat	4	Are you around
+q_chitchat	4	Do you know any songs
+q_chitchat	4	How intelligent are you
+q_chitchat	4	You fucked up
+q_chitchat	4	I want to spend the rest of my life with you
+q_chitchat	4	Accurate
+q_chitchat	4	Hello Alexa
+q_chitchat	4	How's your day
+q_chitchat	4	Hug me
+q_chitchat	4	I miss you so much!
+q_chitchat	4	You bore me
+q_chitchat	4	Do you like me
+q_chitchat	4	Are you real
+q_chitchat	4	Are you really happy
+q_chitchat	4	LOL
+q_chitchat	4	What's your boss' name
+q_chitchat	4	Everything you told me was false.
+q_chitchat	4	Do you know other digital agents
+q_chitchat	4	Who's your master
+q_chitchat	4	Love you!
+q_chitchat	4	Why are you so boring
+q_chitchat	4	I'm in love.
+q_chitchat	4	Where should I go on vacation
+q_chitchat	4	Are you my friend
+q_chitchat	4	I am hungry
+q_chitchat	4	That was a stupid answer.
+q_chitchat	4	My sincere thanks
+q_chitchat	4	Can you talk to me
+q_chitchat	4	What age are you
+q_chitchat	4	That doesn't make sense
+q_chitchat	4	Can you sneeze
+q_chitchat	4	I am bored
+q_chitchat	4	I got a new haircut
+q_chitchat	4	BRB
+q_chitchat	4	What are you doing
+q_chitchat	4	What's your name
+q_chitchat	4	BFFs forever
+q_chitchat	4	Who's your favorite team
+q_chitchat	4	How high can you jump
+q_chitchat	4	Give me a joke
+q_chitchat	4	Say something stupid
+q_chitchat	4	How beautiful am i
+q_chitchat	4	I just want to go to sleep
+q_chitchat	4	Have a good night
+q_chitchat	4	Night
+q_chitchat	4	You face sucks.
+q_chitchat	4	Are you selling my secrets
+q_chitchat	4	There's nothing to do
+q_chitchat	4	How are you today
+q_chitchat	4	What do you do
+q_chitchat	4	I think you're so pretty
+q_chitchat	4	Are you a lesbian
+q_chitchat	4	Thank you
+q_chitchat	4	I'm sorry
+q_chitchat	4	What is up
+q_chitchat	4	I thank you
+q_chitchat	4	Excuse a moi
+q_chitchat	4	What can you do
+q_chitchat	4	I wish I could hug you
+q_chitchat	4	Where are you from
+q_chitchat	4	When were you born
+q_chitchat	4	I wish I weren't so alone
+q_chitchat	4	It's a pleasure to meet you
+q_chitchat	4	Who made you
+q_chitchat	4	Are you a spy
+q_faq	36.57143	How do my rewards compare with those of my peers
+q_faq	36.57143	Does Microsoft provide tax seminars to employees to educate them about the financial impact of stock awards
+q_faq	36.57143	How important is visibility to earning higher rewards
+q_faq	36.57143	How do I report my jury duty time
+q_faq	36.57143	What confidentiality rules are in place for reporting
+q_faq	36.57143	Why do we expect individual rewards outcomes to vary year to year
+q_faq	36.57143	In New Hire When can a specific alias be requested
+q_faq	36.57143	How do my rewards compare with those of my peers
+q_faq	36.57143	Does Microsoft provide tax seminars to employees to educate them about the financial impact of stock awards
+q_faq	36.57143	How important is visibility to earning higher rewards
+q_faq	36.57143	How do I report my jury duty time
+q_faq	36.57143	What confidentiality rules are in place for reporting
+q_faq	36.57143	Why do we expect individual rewards outcomes to vary year to year
+q_faq	36.57143	In New Hire When can a specific alias be requested

@@ -1,0 +1,207 @@
+Label	Weight	Text
+l_general	8.827586	choose anyone
+l_general	8.827586	show the next one
+l_general	8.827586	just cancel
+l_general	8.827586	be quiet
+l_general	8.827586	select no.5
+l_general	8.827586	oh my god shut up
+l_general	8.827586	sorry
+l_general	8.827586	i need some assist
+l_general	8.827586	i want to choose second one
+l_general	8.827586	i want the second one
+l_general	8.827586	just be
+l_general	8.827586	back
+l_general	8.827586	any of it
+l_general	8.827586	i want the fourth choice
+l_general	8.827586	select any of it
+l_general	8.827586	say again please
+l_general	8.827586	select a random one
+l_general	8.827586	previous one please
+l_general	8.827586	select upper
+l_general	8.827586	opt for the second choice
+l_general	8.827586	previous one
+l_general	8.827586	what's up next
+l_general	8.827586	be quiet now
+l_general	8.827586	go away
+l_general	8.827586	neither thank you
+l_general	8.827586	i like the third
+l_general	8.827586	please help
+l_general	8.827586	nobody cares stop talking
+l_general	8.827586	finished with
+l_general	8.827586	restart
+l_general	8.827586	how can i get it
+l_general	8.827586	i want the right one
+l_general	8.827586	i want bottom
+l_general	8.827586	no cancel cancel
+l_general	8.827586	is there any real human
+l_general	8.827586	none of those
+l_general	8.827586	what
+l_general	8.827586	could you say it again
+l_general	8.827586	select lower one
+l_general	8.827586	can i talk to a person
+l_general	8.827586	what's before that
+l_general	8.827586	turn off stop
+l_general	8.827586	shut up
+l_general	8.827586	any help
+l_general	8.827586	stop talking
+l_general	8.827586	nothing never mind
+l_general	8.827586	i want to choose the right
+l_general	8.827586	i don't want to select any one
+l_general	8.827586	shut your mouth
+l_general	8.827586	choose no.2
+l_general	8.827586	i like the first one
+l_general	8.827586	please do nothing
+l_general	8.827586	they look bad, can you give me other choices
+l_general	8.827586	back to last
+l_general	8.827586	contact support
+l_general	8.827586	contact the customer service
+l_general	8.827586	never mind
+l_general	8.827586	quiet now
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+q_chitchat	4	Are you a lesbian
+q_chitchat	4	Do I look okay
+q_chitchat	4	What do you like to eat
+q_chitchat	4	Are you spying on me
+q_chitchat	4	What state are you from
+q_chitchat	4	I'm so glad to meet you
+q_chitchat	4	Human or robot
+q_chitchat	4	You're so basic
+q_chitchat	4	I appreciate it
+q_chitchat	4	Do you pee
+q_chitchat	4	You're boring
+q_chitchat	4	Great!
+q_chitchat	4	That's not funny.
+q_chitchat	4	You are fired
+q_chitchat	4	You are my best friend
+q_chitchat	4	What makes you think that
+q_chitchat	4	Later alligator
+q_chitchat	4	Are you with the FBI
+q_chitchat	4	Hiya
+q_chitchat	4	I beg your pardon
+q_chitchat	4	I love New York.
+q_chitchat	4	Give me a joke
+q_chitchat	4	I'm in such a good mood
+q_chitchat	4	Are you young
+q_chitchat	4	Are you hungry
+q_chitchat	4	Say a silly thing
+q_chitchat	4	You're smart
+q_chitchat	4	There's nothing to do
+q_chitchat	4	I'm bored out of my mind
+q_chitchat	4	What did you do yesterday
+q_chitchat	4	What do you think about Alexa
+q_chitchat	4	You are so bad at this.
+q_chitchat	4	Do you think I should ask her out
+q_chitchat	4	Do you like Siri
+q_chitchat	4	That was right
+q_chitchat	4	You're awful
+q_chitchat	4	How much more awesome can you get
+q_chitchat	4	What's the meaning of life
+q_chitchat	4	How intelligent are you
+q_chitchat	4	Do you like apples
+q_chitchat	4	You're not funny.
+q_chitchat	4	You can't work for me anymore
+q_chitchat	4	Evening
+q_chitchat	4	I'm pissed
+q_chitchat	4	I'm a lesbian
+q_chitchat	4	Are you with the NSA
+q_chitchat	4	That wasn't funny.
+q_chitchat	4	How's your day
+q_chitchat	4	I'm just kidding around
+q_chitchat	4	Are you a fan of country music
+q_chitchat	4	You're gonna be unemployed soon
+q_chitchat	4	I am tall
+q_chitchat	4	You're the best
+q_chitchat	4	What do you think about AI
+q_chitchat	4	I'm sad today
+q_chitchat	4	Do you play games
+q_chitchat	4	Where should I go on vacation
+q_chitchat	4	Are you Skynet
+q_chitchat	4	I think you're swell
+q_chitchat	4	Give me a high five
+q_chitchat	4	Who's your boss
+q_chitchat	4	How smart you are
+q_chitchat	4	Good night to you
+q_chitchat	4	Having a good day
+q_chitchat	4	I'm joyous
+q_chitchat	4	Inaccurate
+q_chitchat	4	Look at how smart you are
+q_chitchat	4	Can you read my mind
+q_chitchat	4	Do you have boogers
+q_chitchat	4	Why do you think that
+q_chitchat	4	Why not
+q_chitchat	4	High five!
+q_chitchat	4	There
+q_chitchat	4	I'm famished
+q_chitchat	4	I need a kiss
+q_chitchat	4	I'm cracking up
+q_chitchat	4	I'm afraid I'm gonna have to let you go.
+q_chitchat	4	I'm just playing
+q_chitchat	4	What's your purpose
+q_chitchat	4	I'm ready for bed
+q_chitchat	4	What's your age
+q_chitchat	4	Are you a girl or a boy
+q_chitchat	4	Who are you
+q_chitchat	4	Excuse a moi
+q_chitchat	4	Who's your favorite singer
+q_chitchat	4	I adore you
+q_chitchat	4	Ask me anything.
+q_chitchat	4	You're so cool
+q_chitchat	4	Tell me a joke
+q_chitchat	4	Nighty night
+q_chitchat	4	Love you!
+q_chitchat	4	You're so boring
+q_chitchat	4	Are you a guy
+q_chitchat	4	Can you sleep
+q_chitchat	4	Joke's on you
+q_chitchat	4	What's wrong with you
+q_chitchat	4	That doesn't make sense
+q_chitchat	4	Can we chat
+q_chitchat	4	What are you up to
+q_chitchat	4	I hate everything about you
+q_chitchat	4	Good evening
+q_chitchat	4	Welcome to springtime!
+q_chitchat	4	Are you human
+q_chitchat	4	Which people made you
+q_chitchat	4	Ask me a question.
+q_chitchat	4	Who's your dad
+q_chitchat	4	Do you want to rule the world
+q_chitchat	4	Are you my friend
+q_chitchat	4	Do you have siblings
+q_chitchat	4	Do you know other chatbots
+q_chitchat	4	What should I do
+q_chitchat	4	Yes, that's right
+q_chitchat	4	Are you available
+q_chitchat	4	I'm so lonely
+q_chitchat	4	How high can you jump
+q_chitchat	4	What's your dad's name
+q_chitchat	4	What do you even mean by that
+q_chitchat	4	That's so wrong.
+q_chitchat	4	Aren't you cheerful
+q_chitchat	4	I didn't mean that
+q_chitchat	4	Do you like Cortana
+q_chitchat	4	Shush!
+q_chitchat	4	Are you prettier than me
+q_chitchat	4	False
+q_chitchat	4	Do you think you're smarter than me
+q_chitchat	4	Hug me
+q_chitchat	4	What is up
+q_chitchat	4	Am I a fool
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template

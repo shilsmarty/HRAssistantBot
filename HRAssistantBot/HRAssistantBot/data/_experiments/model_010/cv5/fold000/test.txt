@@ -1,0 +1,227 @@
+Label	Weight	Text
+l_general	6.551282	choose anyone
+l_general	6.551282	open help
+l_general	6.551282	i want to choose second one
+l_general	6.551282	baby just be quiet
+l_general	6.551282	what's after that
+l_general	6.551282	start over
+l_general	6.551282	i want bottom
+l_general	6.551282	opt for the second
+l_general	6.551282	quiet
+l_general	6.551282	turn off stop
+l_general	6.551282	my god shut up
+l_general	6.551282	i want third one
+l_general	6.551282	i ' m at home
+l_general	6.551282	just cancel it
+l_general	6.551282	cancel never mind
+l_general	6.551282	finished
+l_general	6.551282	i want more
+l_general	6.551282	opt for the lower choice
+l_general	6.551282	distance from taco bell to my location
+l_general	6.551282	i want the right one
+l_general	6.551282	no go back to
+l_general	6.551282	no cancel
+l_general	6.551282	okay i got it
+l_general	6.551282	where i am driving right now
+l_general	6.551282	show me the road to the church
+l_general	6.551282	a new note please
+l_general	6.551282	return to the previous one
+l_general	6.551282	i have not heard
+l_general	6.551282	i want right one
+l_general	6.551282	i want none of them
+l_general	6.551282	i want to choose the first one
+l_general	6.551282	neither
+l_general	6.551282	how to do it
+l_general	6.551282	no cancel that
+l_general	6.551282	show me the route to mother ' s home
+l_general	6.551282	nerver mind
+l_general	6.551282	i like the third
+l_general	6.551282	no be quiet
+l_general	6.551282	no no cancel
+l_general	6.551282	back to
+l_general	6.551282	view tom chros availability
+l_general	6.551282	boudoir photo shoot ballard
+l_general	6.551282	repeat that
+l_general	6.551282	shut your mouth
+l_general	6.551282	hey stop
+l_general	6.551282	don't do that
+l_general	6.551282	none of these
+l_general	6.551282	add a new task finish assignment
+l_general	6.551282	dismiss
+l_general	6.551282	choose the upper right one
+l_general	6.551282	opt for the right
+l_general	6.551282	i like second one
+l_general	6.551282	select any
+l_general	6.551282	is there any help
+l_general	6.551282	none of those
+l_general	6.551282	please do nothing
+l_general	6.551282	shut up
+l_general	6.551282	turn off
+l_general	6.551282	i like the bottom one
+l_general	6.551282	can i talk to a person
+l_general	6.551282	back to last step
+l_general	6.551282	" cancel all entries in the people to call " " note " " "
+l_general	6.551282	exit stop
+l_general	6.551282	how far is orlando from new york
+l_general	6.551282	i want neither of them
+l_general	6.551282	ok stop stop
+l_general	6.551282	get back to last
+l_general	6.551282	say that again
+l_general	6.551282	go to the previous one
+l_general	6.551282	the meeting will last for one hour
+l_general	6.551282	done
+l_general	6.551282	cancel app
+l_general	6.551282	opt for any of it
+l_general	6.551282	show me the next
+l_general	6.551282	neither one
+l_general	6.551282	start it over
+l_general	6.551282	i am done
+l_general	6.551282	i like the upper right
+None	51.1	i want them all
+None	51.1	i want them all
+None	51.1	i want them all
+None	51.1	i want them all
+None	51.1	i want them all
+None	51.1	i want them all
+None	51.1	i want them all
+None	51.1	i want them all
+None	51.1	i want them all
+None	51.1	i want them all
+q_chitchat	3.96124	Good night to you
+q_chitchat	3.96124	You're an asshole
+q_chitchat	3.96124	I hate everything about you
+q_chitchat	3.96124	What age are you
+q_chitchat	3.96124	What is up
+q_chitchat	3.96124	Look at how smart you are
+q_chitchat	3.96124	What kinds of things can you do
+q_chitchat	3.96124	Give me a joke
+q_chitchat	3.96124	You face sucks.
+q_chitchat	7.922481	I love you.
+q_chitchat	3.96124	You're such an asshole
+q_chitchat	3.96124	Night
+q_chitchat	3.96124	Are you with the CIA
+q_chitchat	3.96124	Are you male
+q_chitchat	3.96124	Can you ask me a question
+q_chitchat	3.96124	Yes, that's right
+q_chitchat	3.96124	Are you a fan of Alexa
+q_chitchat	3.96124	You are now unemployed
+q_chitchat	3.96124	Great!
+q_chitchat	3.96124	Where do you live
+q_chitchat	3.96124	Do you dream
+q_chitchat	3.96124	I'm sorry
+q_chitchat	3.96124	Talk with me
+q_chitchat	3.96124	Where's your house
+q_chitchat	3.96124	You are so unfunny.
+q_chitchat	3.96124	What is love
+q_chitchat	3.96124	Are you Skynet
+q_chitchat	3.96124	Do you like computers
+q_chitchat	3.96124	You're really boring
+q_chitchat	3.96124	I hope you like me
+q_chitchat	3.96124	Ask me a question.
+q_chitchat	3.96124	Awesome
+q_chitchat	3.96124	What kind of food do you like
+q_chitchat	3.96124	What's your job
+q_chitchat	3.96124	I want to spend the rest of my life with you
+q_chitchat	3.96124	Do you ever get hungry
+q_chitchat	3.96124	Your face is ugly.
+q_chitchat	3.96124	You are awesome!
+q_chitchat	3.96124	Who is your father
+q_chitchat	3.96124	Am I good-looking
+q_chitchat	3.96124	Say a joke
+q_chitchat	3.96124	Who's your dad
+q_chitchat	3.96124	Do you know other digital agents
+q_chitchat	3.96124	Are you young
+q_chitchat	3.96124	Do you and Cortana hang out
+q_chitchat	3.96124	Should I get a new job
+q_chitchat	3.96124	That was funny
+q_chitchat	3.96124	Are you my fan
+q_chitchat	3.96124	I'm a fan.
+q_chitchat	3.96124	You could not be more boring
+q_chitchat	3.96124	Ha
+q_chitchat	3.96124	Do you love anyone
+q_chitchat	3.96124	Later alligator
+q_chitchat	3.96124	Don't you ever sleep
+q_chitchat	3.96124	Are you my imaginary friend
+q_chitchat	3.96124	Heya
+q_chitchat	3.96124	You're so basic
+q_chitchat	3.96124	So sorry
+q_chitchat	3.96124	You honestly could not be more uninteresting
+q_chitchat	3.96124	Accurate
+q_chitchat	3.96124	You're the best
+q_chitchat	3.96124	Can't you change your answers
+q_chitchat	3.96124	Do you think I should ask him out
+q_chitchat	3.96124	BFFs forever
+q_chitchat	3.96124	When were you born
+q_chitchat	3.96124	What state are you from
+q_chitchat	3.96124	You're not funny.
+q_chitchat	3.96124	I'm in love with you.
+q_chitchat	3.96124	What's your boss' name
+q_chitchat	3.96124	Why don't you ever stop talking
+q_chitchat	3.96124	Why do you say the same thing all the time
+q_chitchat	3.96124	I want to marry you.
+q_chitchat	3.96124	You are my best friend
+q_chitchat	3.96124	What do you think about bots
+q_chitchat	3.96124	That's inaccurate.
+q_chitchat	3.96124	Are you my friend
+q_chitchat	3.96124	That's not true.
+q_chitchat	3.96124	Correct
+q_chitchat	3.96124	I wish I could hug you
+q_chitchat	3.96124	You're awful
+q_chitchat	3.96124	Do you know me
+q_chitchat	3.96124	Till we meet again
+q_chitchat	3.96124	What's your favorite activity
+q_chitchat	3.96124	You're so funny.
+q_chitchat	3.96124	Do you have a name
+q_chitchat	3.96124	Hug me
+q_chitchat	3.96124	I'm sad today
+q_chitchat	3.96124	Do you think dragons are cool
+q_chitchat	3.96124	I am tired
+q_chitchat	3.96124	Getting tired of you
+q_chitchat	3.96124	What are you doing later
+q_chitchat	3.96124	Basic af
+q_chitchat	3.96124	I want you to like me
+q_chitchat	3.96124	I wish I weren't so alone
+q_chitchat	3.96124	Are you attempting world domination
+q_chitchat	3.96124	Do you have a brother
+q_chitchat	3.96124	I'm into it
+q_chitchat	3.96124	Hey
+q_chitchat	3.96124	What did you do yesterday
+q_chitchat	3.96124	Are you HAL
+q_chitchat	3.96124	I don't get it
+q_chitchat	3.96124	Go away
+q_chitchat	3.96124	You are so bad at this.
+q_chitchat	3.96124	You're nice!
+q_chitchat	3.96124	Have you ever sung a song
+q_chitchat	3.96124	Good evening to you
+q_chitchat	3.96124	Are you a robot
+q_chitchat	3.96124	Do you have brothers
+q_chitchat	3.96124	What do you think about me
+q_chitchat	3.96124	I want to be your friend.
+q_chitchat	3.96124	Do you have sisters
+q_chitchat	3.96124	Can you sneeze
+q_chitchat	3.96124	Inaccurate
+q_chitchat	3.96124	Are you queer
+q_chitchat	3.96124	Hi
+q_chitchat	3.96124	Who am I
+q_chitchat	3.96124	No, that's not true
+q_chitchat	3.96124	You're so smart
+q_chitchat	3.96124	Happy Halloween!
+q_chitchat	3.96124	Go to hell
+q_chitchat	3.96124	Do you know Siri
+q_chitchat	3.96124	What makes you think so
+q_chitchat	3.96124	Are you a man or a woman
+q_chitchat	3.96124	I despise you
+q_chitchat	3.96124	Are you a man
+q_chitchat	3.96124	There
+q_chitchat	3.96124	What other bots do you know
+q_chitchat	3.96124	You are useless
+q_faq	51.1	What is Microsoft Policy on travel letter
+q_faq	51.1	Why are there two brokers to choose from
+q_faq	51.1	What is this EmpAssist
+q_faq	51.1	Where do I find my vacation balance
+q_faq	51.1	How do I report my time away from work for bereavement
+q_faq	51.1	What is Microsoft Policy on travel letter
+q_faq	51.1	Why are there two brokers to choose from
+q_faq	51.1	What is this EmpAssist
+q_faq	51.1	Where do I find my vacation balance
+q_faq	51.1	How do I report my time away from work for bereavement

@@ -1,0 +1,236 @@
+Label	Weight	Text
+l_general	6.168674	discounts
+l_general	6.168674	cancel app
+l_general	6.168674	what's before that
+l_general	6.168674	choose last
+l_general	6.168674	opt for last
+l_general	6.168674	go back to last one
+l_general	6.168674	go back please
+l_general	6.168674	shut up
+l_general	6.168674	oh my god shut up
+l_general	6.168674	show the next 3
+l_general	6.168674	i am finished
+l_general	6.168674	no cancel that
+l_general	6.168674	back please
+l_general	6.168674	and after that
+l_general	6.168674	never mind cancel
+l_general	6.168674	just be quiet
+l_general	6.168674	i need some help
+l_general	6.168674	calendar for november 1948
+l_general	6.168674	neither one of them
+l_general	6.168674	get back to last
+l_general	6.168674	what about next one
+l_general	6.168674	tacoma please
+l_general	6.168674	choose top right
+l_general	6.168674	free time this afternoon please
+l_general	6.168674	get directions to uniondale high school
+l_general	6.168674	distance from taco bell to my location
+l_general	6.168674	is there any real human
+l_general	6.168674	shut the fuck up
+l_general	6.168674	select fourth one
+l_general	6.168674	they look bad, can you give me other choices
+l_general	6.168674	check friday at 9 am
+l_general	6.168674	go to the previous
+l_general	6.168674	i want the second one
+l_general	6.168674	go back
+l_general	6.168674	meeting my manager
+l_general	6.168674	visa
+l_general	6.168674	submit
+l_general	6.168674	none
+l_general	6.168674	a new note please
+l_general	6.168674	turn off stop
+l_general	6.168674	i don't want to choose any one
+l_general	6.168674	bbq near olympia wa please
+l_general	6.168674	create my favorites note
+l_general	6.168674	pardon
+l_general	6.168674	i need help
+l_general	6.168674	rewards
+l_general	6.168674	return to the previous one
+l_general	6.168674	recommend benefits
+l_general	6.168674	select a random one
+l_general	6.168674	repeat that
+l_general	6.168674	create note with notepad
+l_general	6.168674	no never mind
+l_general	6.168674	add a task to wunderlist
+l_general	6.168674	move to the next one
+l_general	6.168674	what was that again
+l_general	6.168674	god shut up
+l_general	6.168674	am i free to be with friends saturday
+l_general	6.168674	select any
+l_general	6.168674	choose top right one
+l_general	6.168674	again
+l_general	6.168674	opt for left
+l_general	6.168674	go back to the last one
+l_general	6.168674	contact the customer service
+l_general	6.168674	show the previous one
+l_general	6.168674	opt for the last one
+l_general	6.168674	where i am driving right now
+l_general	6.168674	okay i got it
+l_general	6.168674	next
+l_general	6.168674	i need support
+l_general	6.168674	time & absense
+l_general	6.168674	is keil available tomorrow
+l_general	6.168674	fitness
+l_general	6.168674	could you say it again
+l_general	6.168674	no stop
+l_general	6.168674	i am done
+l_general	6.168674	turn off
+l_general	6.168674	do i have anything on wednesday
+l_general	6.168674	i like the upper right
+l_general	6.168674	oof
+l_general	6.168674	calendar i ' ll be at the garage from 8 till 3 this saturday
+l_general	6.168674	previous one
+l_general	6.168674	repeat please
+l_general	6.168674	to buy list
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+q_chitchat	4	Do you know Google
+q_chitchat	4	You seem really happy
+q_chitchat	4	Who is your creator
+q_chitchat	4	Do you eat
+q_chitchat	4	I'm from there
+q_chitchat	4	You are funny :)
+q_chitchat	4	Are you awesome
+q_chitchat	4	I think you're swell
+q_chitchat	4	Who's your master
+q_chitchat	4	When will you shut up
+q_chitchat	4	Do you smell
+q_chitchat	4	You're nice!
+q_chitchat	4	Do you know who I am
+q_chitchat	4	I am here
+q_chitchat	4	How happy are you
+q_chitchat	4	What makes you think so
+q_chitchat	4	Are you a person
+q_chitchat	4	Go away
+q_chitchat	4	Hi
+q_chitchat	4	I'm furious
+q_chitchat	4	Who's your favorite team
+q_chitchat	4	Say a silly thing
+q_chitchat	4	Do you know my name
+q_chitchat	4	Give me a kiss
+q_chitchat	4	You're no fun
+q_chitchat	4	Don't you ever sleep
+q_chitchat	4	Thnx
+q_chitchat	4	I feel so great
+q_chitchat	4	Am I a good person
+q_chitchat	4	Do you know Siri
+q_chitchat	4	What do you eat
+q_chitchat	4	I want to lie down
+q_chitchat	4	What do you think about love
+q_chitchat	4	You look ugly.
+q_chitchat	4	What's your favorite food
+q_chitchat	4	That wasn't funny.
+q_chitchat	4	Hello Google
+q_chitchat	4	Are you selling my data
+q_chitchat	4	You're fired!
+q_chitchat	4	What is the answer to the universe
+q_chitchat	4	What's your gender
+q_chitchat	4	Sry
+q_chitchat	4	Are you my assistant
+q_chitchat	4	I am going on a run
+q_chitchat	4	Excuse a moi
+q_chitchat	4	I think you're so pretty
+q_chitchat	4	I'm all tuckered out
+q_chitchat	4	Youâ€™re ugly.
+q_chitchat	4	Getting tired of you
+q_chitchat	4	Are you female
+q_chitchat	4	What other bots do you know
+q_chitchat	4	Can we be friends
+q_chitchat	4	Till we meet again
+q_chitchat	4	Hold on a sec
+q_chitchat	4	Nobody likes me
+q_chitchat	4	Can you ask me a question
+q_chitchat	4	You're such a sweetheart
+q_chitchat	4	You're welcome
+q_chitchat	4	I just want to go to sleep
+q_chitchat	4	I think you're dreamy
+q_chitchat	4	Where are you located
+q_chitchat	4	What did you do today
+q_chitchat	4	You're a fuckup
+q_chitchat	4	How was your day
+q_chitchat	4	What are you
+q_chitchat	4	That wasn't true
+q_chitchat	4	What country are you in
+q_chitchat	4	Are you queer
+q_chitchat	4	Do you know any tunes
+q_chitchat	4	You're not making sense
+q_chitchat	4	What kinds of things can you do
+q_chitchat	4	Do you believe in love
+q_chitchat	4	LOL
+q_chitchat	4	What are you doing tomorrow
+q_chitchat	4	Do you have a family
+q_chitchat	4	Aren't you chipper
+q_chitchat	4	Do you sing
+q_chitchat	4	I am doing that
+q_chitchat	4	I'm so sorry
+q_chitchat	4	I wish you just go away.
+q_chitchat	4	You're the best
+q_chitchat	4	What age are you
+q_chitchat	4	Your face is like a pancake.
+q_chitchat	4	Talk to me
+q_chitchat	4	Can you sneeze
+q_chitchat	4	I'm despondent
+q_chitchat	4	What's going on
+q_chitchat	4	Be ridiculous
+q_chitchat	4	You are no longer employed
+q_chitchat	4	Sounds good
+q_chitchat	4	Stop talking
+q_chitchat	4	Thanks
+q_chitchat	4	I'm ready for bed
+q_chitchat	4	Night
+q_chitchat	4	See you later
+q_chitchat	4	Omg sorry
+q_chitchat	4	I'm giving you a pink slip
+q_chitchat	4	That was funny
+q_chitchat	4	What do you think about me
+q_chitchat	4	Hey
+q_chitchat	4	That was right
+q_chitchat	4	Goodbye
+q_chitchat	4	I wish I weren't so alone
+q_chitchat	4	How beautiful am i
+q_chitchat	4	Aren't you cheerful
+q_chitchat	4	Hi Siri
+q_chitchat	4	Do you sweat
+q_chitchat	4	Everything you told me was false.
+q_chitchat	4	That's inaccurate.
+q_chitchat	4	When were you born
+q_chitchat	4	Do you love me
+q_chitchat	4	You're gonna be unemployed soon
+q_chitchat	4	Who is your father
+q_chitchat	4	Do you like Cortana
+q_chitchat	4	What do you think about technology
+q_chitchat	4	Are you asexual
+q_chitchat	4	How do I look today
+q_chitchat	4	I don't get it
+q_chitchat	4	Testing
+q_chitchat	4	I want to lay down
+q_chitchat	4	You're not answering my question.
+q_chitchat	4	Tell me how much you love me
+q_chitchat	4	You're boring
+q_chitchat	4	Are you around
+q_chitchat	4	Are you spying on me
+q_chitchat	4	Are you a swinger
+q_chitchat	4	Do you like computers
+q_chitchat	4	Happy Birthday!
+q_faq	36.57143	Can we exclude an employee from the survey
+q_faq	36.57143	"If I am out of sick, vacation or floating holidays, what are my options?"
+q_faq	36.57143	How do I report a Microsoft paid holiday
+q_faq	36.57143	How can I understand what high performance versus low performance looks like
+q_faq	36.57143	Why are there two brokers to choose from
+q_faq	36.57143	How do my rewards compare with those of my peers
+q_faq	36.57143	How do I report my floating holidays
+q_faq	36.57143	Can we exclude an employee from the survey
+q_faq	36.57143	"If I am out of sick, vacation or floating holidays, what are my options?"
+q_faq	36.57143	How do I report a Microsoft paid holiday
+q_faq	36.57143	How can I understand what high performance versus low performance looks like
+q_faq	36.57143	Why are there two brokers to choose from
+q_faq	36.57143	How do my rewards compare with those of my peers
+q_faq	36.57143	How do I report my floating holidays

@@ -1,0 +1,227 @@
+Label	Weight	Text
+l_general	6.564103	any one is ok
+l_general	6.564103	i want right one
+l_general	6.564103	choose the fourth one
+l_general	6.564103	what's before that
+l_general	6.564103	go back please
+l_general	6.564103	back to last step
+l_general	6.564103	restart
+l_general	6.564103	opt for the second
+l_general	6.564103	choose the first choice
+l_general	6.564103	show the previous one
+l_general	6.564103	can you help
+l_general	6.564103	select any of it
+l_general	6.564103	get back to last
+l_general	6.564103	where i can find fishinger road dance class
+l_general	6.564103	select a random one
+l_general	6.564103	check friday at 9 am
+l_general	6.564103	update note of number one
+l_general	6.564103	select lower one
+l_general	6.564103	nothing please
+l_general	6.564103	display weekend plans
+l_general	6.564103	calendar for november 1948
+l_general	6.564103	what about the last
+l_general	6.564103	get directions to uniondale high school
+l_general	6.564103	i want to choose the last choice
+l_general	6.564103	don't do that anymore
+l_general	6.564103	none of those
+l_general	6.564103	add tasks to wunderlist
+l_general	6.564103	oh my god shut up
+l_general	6.564103	neither one
+l_general	6.564103	i like left one
+l_general	6.564103	check lee ' s calender
+l_general	6.564103	stop talking
+l_general	6.564103	what after that
+l_general	6.564103	please help
+l_general	6.564103	return
+l_general	6.564103	bbq near olympia wa please
+l_general	6.564103	all finished
+l_general	6.564103	get back to the last one
+l_general	6.564103	i want more
+l_general	6.564103	i like second one
+l_general	6.564103	i want to choose the fourth
+l_general	6.564103	add oatmeal to shopping list .
+l_general	6.564103	end it
+l_general	6.564103	show me the route to mother ' s home
+l_general	6.564103	how can i clear my notes
+l_general	6.564103	ojai apple picking
+l_general	6.564103	move to the next one
+l_general	6.564103	clear all items from the chores list .
+l_general	6.564103	a new note of name business solutions
+l_general	6.564103	add a task to wunderlist
+l_general	6.564103	none none
+l_general	6.564103	choose the bottom left
+l_general	6.564103	tell me the event details
+l_general	6.564103	to buy list
+l_general	6.564103	view tom chros availability
+l_general	6.564103	put applebee ' s on favorite list
+l_general	6.564103	add mark to guest list
+l_general	6.564103	please do nothing
+l_general	6.564103	be quiet now
+l_general	6.564103	select my current location
+l_general	6.564103	no no cancel it
+l_general	6.564103	it finished
+l_general	6.564103	calendar i ' ll be at the garage from 8 till 3 this saturday
+l_general	6.564103	any help
+l_general	6.564103	help me in clearing the shopping note
+l_general	6.564103	human service
+l_general	6.564103	what's up next
+l_general	6.564103	tesco ' s catterick garrison address please
+l_general	6.564103	go back
+l_general	6.564103	opt for the lower choice
+l_general	6.564103	get for me rilo eagle street address
+l_general	6.564103	display the fastest way to san antonio from austin
+l_general	6.564103	i don't want to select any one
+l_general	6.564103	how to do it
+l_general	6.564103	they look bad, can you give me other choices
+l_general	6.564103	none of them thank you
+l_general	6.564103	i like upper right
+l_general	6.564103	add fred george to onenote
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+q_chitchat	4	Pardon
+q_chitchat	4	Do you have a mom
+q_chitchat	4	Have you met Cortana
+q_chitchat	4	That's not accurate
+q_chitchat	4	You're nice!
+q_chitchat	4	You're hilarious
+q_chitchat	4	Are you Skynet
+q_chitchat	4	What do you want to know about me
+q_chitchat	4	That's not funny.
+q_chitchat	4	Why are you so boring
+q_chitchat	4	Are you the singularity
+q_chitchat	4	I'm famished
+q_chitchat	4	I'm a lesbian
+q_chitchat	4	Cook me something
+q_chitchat	4	Who's your favorite team
+q_chitchat	4	Sing a tune
+q_chitchat	4	I'd like to take you out on a date
+q_chitchat	4	What are you doing tomorrow
+q_chitchat	4	I think you're swell
+q_chitchat	4	I can't think of anything I want to do
+q_chitchat	4	Give me a kiss
+q_chitchat	4	Having a good day
+q_chitchat	4	I wish I could hug you
+q_chitchat	4	Do you dream
+q_chitchat	4	Are you real
+q_chitchat	4	I have 7 cats
+q_chitchat	4	You are so unfunny.
+q_chitchat	4	Are you a swinger
+q_chitchat	4	Getting tired of you
+q_chitchat	4	Hum a tune
+q_chitchat	4	Hold on a sec
+q_chitchat	4	What is up
+q_chitchat	4	You keep saying the same thing all the time
+q_chitchat	4	Hi Google
+q_chitchat	4	Do you know Siri
+q_chitchat	4	Give me a fist bump
+q_chitchat	4	Fist bump!
+q_chitchat	4	Useless
+q_chitchat	4	Do you know me
+q_chitchat	4	Which one of us is smarter
+q_chitchat	4	I am doing that
+q_chitchat	4	Are you human
+q_chitchat	4	High five!
+q_chitchat	4	What's your age
+q_chitchat	4	I hate you
+q_chitchat	4	How intelligent are you
+q_chitchat	4	Can you ask me a question
+q_chitchat	4	Bye
+q_chitchat	4	Are you my imaginary friend
+q_chitchat	4	Correct
+q_chitchat	4	Do you have a brother
+q_chitchat	4	Do you know Cortana
+q_chitchat	4	I'm really sad
+q_chitchat	4	Haha
+q_chitchat	4	Who's prettier, me or you
+q_chitchat	4	Hello Cortana
+q_chitchat	4	I got a new haircut
+q_chitchat	4	Be quiet
+q_chitchat	4	Later alligator
+q_chitchat	4	Hahaha
+q_chitchat	4	Give me a joke
+q_chitchat	4	Sing something
+q_chitchat	4	Do you know my name
+q_chitchat	4	You fucked up
+q_chitchat	4	Do you think dragons are cool
+q_chitchat	4	What's your favorite activity
+q_chitchat	4	Night
+q_chitchat	4	Are you hungry
+q_chitchat	4	How are you today
+q_chitchat	4	Are you smarter than me
+q_chitchat	4	You're smart
+q_chitchat	4	You don't know anything.
+q_chitchat	4	Do you play games
+q_chitchat	4	What's up
+q_chitchat	4	How much do you love me
+q_chitchat	4	Do you have any other responses
+q_chitchat	4	You are funny :)
+q_chitchat	4	Are you with the CIA
+q_chitchat	4	Ha
+q_chitchat	4	Am I pretty
+q_chitchat	4	Shut up
+q_chitchat	4	I'm into it
+q_chitchat	4	BRB
+q_chitchat	4	Do you ever sing
+q_chitchat	4	Do you know who I am
+q_chitchat	4	Do I look okay
+q_chitchat	4	Bingo
+q_chitchat	4	I adore you
+q_chitchat	4	Kthx
+q_chitchat	4	You are now unemployed
+q_chitchat	4	Do you have a name
+q_chitchat	4	Aren't you chipper
+q_chitchat	4	Are you a man
+q_chitchat	4	How can you help me
+q_chitchat	4	are you real or fake
+q_chitchat	4	What did you do today
+q_chitchat	4	I want to eat something
+q_chitchat	4	Can you sing a song
+q_chitchat	4	I thank you
+q_chitchat	4	Say something funny
+q_chitchat	4	What country are you from
+q_chitchat	4	Happy Halloween!
+q_chitchat	4	Nice to meet you
+q_chitchat	4	Am I a fool
+q_chitchat	4	Sing a song
+q_chitchat	4	You can't work for me anymore
+q_chitchat	4	Do you have brothers
+q_chitchat	4	Who's your daddy
+q_chitchat	4	Can you fly
+q_chitchat	4	I'm feeling blue
+q_chitchat	4	Why do you hate me
+q_chitchat	4	I'm an engineer
+q_chitchat	4	How beautiful am i
+q_chitchat	4	Where'd you come from
+q_chitchat	4	Testing 1 2 3
+q_chitchat	4	Why don't you ever stop talking
+q_chitchat	4	You're no fun
+q_chitchat	4	What's your favorite food
+q_chitchat	4	Accurate
+q_chitchat	4	How high can you count
+q_chitchat	4	I want to marry you.
+q_chitchat	4	Do you have a dad
+q_chitchat	4	Do you love me
+q_chitchat	4	I want you to be my husband
+q_chitchat	4	Do you know any songs
+q_chitchat	4	I'm cracking up
+q_chitchat	4	Tell a joke
+q_chitchat	4	Can I have a hug
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template

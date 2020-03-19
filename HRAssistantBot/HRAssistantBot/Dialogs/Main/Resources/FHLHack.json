@@ -1,0 +1,58 @@
+﻿{
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "type": "AdaptiveCard",
+  "version": "1.0",
+  "speak": "<speak><s>Welcome to FHL-Hack and my name is Empassist :)</s></speak>",
+  "body": [
+    {
+      "type": "Image",
+      "url": "https://fhlhacksmartbot.blob.core.windows.net/images/Empassist.png",
+      "size": "stretch"
+    },
+    {
+      "type": "TextBlock",
+      "spacing": "medium",
+      "size": "default",
+      "weight": "bolder",
+      "text": "Welcome to FHL-Hack and my name is Empassist :)",
+      "wrap": true,
+      "maxLines": 0
+    },
+    {
+      "type": "TextBlock",
+      "size": "default",
+      "isSubtle": true,
+      "text": "Can help you on your Vacation Leaves , Benefits , Recommendations and many other day-to-day queries. ",
+      "wrap": true,
+      "maxLines": 0
+    }
+  ],
+  "actions": [
+    {
+      "type": "Action.Submit",
+      "title": "Get started",
+      "data": {
+        "action": "startOnboarding"
+      }
+    },
+    {
+      "type": "Action.Submit",
+      "title": "About SmartAssistant !!",
+      "data": {
+        "action": "aboutEmpAssist"
+      }
+    },
+    {
+      "type": "Action.Submit",
+      "title": "How is my day looking today ?",
+      "data": {
+        "action": "howsDayLooking"
+      }
+    },
+    {
+      "type": "Action.OpenUrl",
+      "title": "Recommendations and Events near me!!",
+      "url": "https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-howto-deploy-azure?view=azure-bot-service-4.0"
+    }
+  ]
+}

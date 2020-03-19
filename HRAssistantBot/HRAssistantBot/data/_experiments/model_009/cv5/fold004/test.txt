@@ -1,0 +1,227 @@
+Label	Weight	Text
+l_general	6.564103	go back to last one
+l_general	6.564103	i want to choose the last choice
+l_general	6.564103	nothing never mind
+l_general	6.564103	ok stop stop
+l_general	6.564103	i want to choose right
+l_general	6.564103	voice activated reading of appointments this week
+l_general	6.564103	none of them thank you
+l_general	6.564103	i like the top right one
+l_general	6.564103	just be
+l_general	6.564103	what's up next
+l_general	6.564103	show me the next
+l_general	6.564103	add tasks to wunderlist
+l_general	6.564103	i want the second one
+l_general	6.564103	and after that
+l_general	6.564103	is there any real person
+l_general	6.564103	oh don't do that
+l_general	6.564103	show me the road to the church
+l_general	6.564103	i need manual customer service
+l_general	6.564103	waffles recipe is my new note to be created
+l_general	6.564103	select my current location
+l_general	6.564103	choose the upper right one
+l_general	6.564103	submit it
+l_general	6.564103	back to last
+l_general	6.564103	bend oregon exotic restaurants please
+l_general	6.564103	create my favorites note
+l_general	6.564103	check friday at 9 am
+l_general	6.564103	clear last note
+l_general	6.564103	start over it
+l_general	6.564103	can you help
+l_general	6.564103	select fourth one
+l_general	6.564103	back to the last one
+l_general	6.564103	i have not heard
+l_general	6.564103	calendar i ' ll be at the garage from 8 till 3 this saturday
+l_general	6.564103	i want to choose the left one
+l_general	6.564103	clear and start again
+l_general	6.564103	cancelled
+l_general	6.564103	i want right one
+l_general	6.564103	human service
+l_general	6.564103	get back
+l_general	6.564103	select the third one
+l_general	6.564103	can you set a note up to mom
+l_general	6.564103	show me samuel ' s availability for tuesday morning
+l_general	6.564103	holomap stockholm metro (3d map) please
+l_general	6.564103	i need help
+l_general	6.564103	opt for last
+l_general	6.564103	boudoir photo shoot ballard
+l_general	6.564103	drive me to the fast one
+l_general	6.564103	no cancel cancel
+l_general	6.564103	please help
+l_general	6.564103	stop please
+l_general	6.564103	could you start it over
+l_general	6.564103	add a new task finish assignment
+l_general	6.564103	don't do that
+l_general	6.564103	no stop
+l_general	6.564103	previous one please
+l_general	6.564103	turn off stop
+l_general	6.564103	at grocery list add milk
+l_general	6.564103	pull up my appointment find out how much time i have before my next appointment
+l_general	6.564103	never mind
+l_general	6.564103	select a random choice
+l_general	6.564103	select no.5
+l_general	6.564103	select the upper right
+l_general	6.564103	i like the third choice
+l_general	6.564103	update note of number one
+l_general	6.564103	where i am driving right now
+l_general	6.564103	end
+l_general	6.564103	shut your mouth
+l_general	6.564103	okay i got it
+l_general	6.564103	i said stop
+l_general	6.564103	select the first
+l_general	6.564103	choose anyone
+l_general	6.564103	nashville humane society rover please
+l_general	6.564103	go back to
+l_general	6.564103	show the next 4 items
+l_general	6.564103	when is paul available
+l_general	6.564103	do i have anything on wednesday
+l_general	6.564103	i like upper right
+l_general	6.564103	check if i have time for a meeting tonight
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+q_chitchat	4	Give me a fist bump
+q_chitchat	4	How long ago were you born
+q_chitchat	4	Can you fly
+q_chitchat	4	Can you sing a song
+q_chitchat	4	What's the name of your boss
+q_chitchat	4	Are you busy
+q_chitchat	4	Can you play sports
+q_chitchat	4	Do you have a dad
+q_chitchat	4	Are you male
+q_chitchat	4	Can we be friends
+q_chitchat	4	Where did you come from
+q_chitchat	4	Hello Siri
+q_chitchat	4	Testing
+q_chitchat	4	Are you friends with other bots
+q_chitchat	4	Hi Cortana
+q_chitchat	4	How was your day
+q_chitchat	4	Do you have a sister
+q_chitchat	4	Tell me how much you love me
+q_chitchat	4	Are you a lesbian
+q_chitchat	4	How are things
+q_chitchat	4	I'm from there
+q_chitchat	4	I miss you
+q_chitchat	4	Haha
+q_chitchat	4	Do you have a name
+q_chitchat	4	Who's smarter, me or you
+q_chitchat	4	Pardon me
+q_chitchat	4	LOL
+q_chitchat	4	You bore me
+q_chitchat	4	I wish you would say something else
+q_chitchat	4	I love New York.
+q_chitchat	4	Are you smart
+q_chitchat	4	How smart you are
+q_chitchat	4	How old are you
+q_chitchat	4	What color do you like
+q_chitchat	4	Do you get hungry
+q_chitchat	4	Thnx
+q_chitchat	4	Why don't you ever stop talking
+q_chitchat	4	Are you a girl or a boy
+q_chitchat	4	Good night
+q_chitchat	4	Do you ever get hungry
+q_chitchat	4	You can't work for me anymore
+q_chitchat	4	You are my favorite
+q_chitchat	4	Do you think I should ask her out
+q_chitchat	4	Are you gay
+q_chitchat	4	Are you a boy
+q_chitchat	4	What's your favorite animal
+q_chitchat	4	You're not funny.
+q_chitchat	4	You're fired!
+q_chitchat	4	I have 7 cats
+q_chitchat	4	Are you trans
+q_chitchat	4	Are you with the NSA
+q_chitchat	4	Do you think I look good
+q_chitchat	4	Cook me something
+q_chitchat	4	Are you awesome
+q_chitchat	4	You're the best
+q_chitchat	4	I wish I could hug you
+q_chitchat	4	Are you happy
+q_chitchat	4	Are you female
+q_chitchat	4	Tell me a joke
+q_chitchat	4	What are you doing tomorrow
+q_chitchat	4	I got a new haircut
+q_chitchat	4	What were you doing yesterday
+q_chitchat	4	Youâ€™re ugly.
+q_chitchat	4	Are you intelligent
+q_chitchat	4	Are you here
+q_chitchat	4	Great!
+q_chitchat	4	My sincere thanks
+q_chitchat	4	Thank you so much
+q_chitchat	4	Are you Skynet
+q_chitchat	4	Till we meet again
+q_chitchat	4	Bingo
+q_chitchat	4	Who are you
+q_chitchat	4	Do you have any other responses
+q_chitchat	4	I beg your pardon
+q_chitchat	4	I'm in love with you.
+q_chitchat	4	Do you know any songs
+q_chitchat	4	What's your mom's name
+q_chitchat	4	What do you think about Alexa
+q_chitchat	4	You are so not pretty.
+q_chitchat	4	Say something stupid
+q_chitchat	4	I am a Republican
+q_chitchat	4	You're welcome
+q_chitchat	4	You're so happy
+q_chitchat	4	Do you pee
+q_chitchat	4	Do you know any jokes
+q_chitchat	4	Human or robot
+q_chitchat	4	Are you my assistant
+q_chitchat	4	That was funny
+q_chitchat	4	Do you have boogers
+q_chitchat	4	Are you around
+q_chitchat	4	Kiss me
+q_chitchat	4	Are you young
+q_chitchat	4	I'm so glad to meet you
+q_chitchat	4	I'm despondent
+q_chitchat	4	That's true
+q_chitchat	4	Should I get a new job
+q_chitchat	4	Good night to you
+q_chitchat	4	What do you think about Cortana
+q_chitchat	4	Basic af
+q_chitchat	4	Good evening to you
+q_chitchat	4	Are you a guy
+q_chitchat	4	You are awesome!
+q_chitchat	4	You're smart
+q_chitchat	4	Are you spying on me
+q_chitchat	4	You seem happy
+q_chitchat	4	High five!
+q_chitchat	4	Sry
+q_chitchat	4	You're boring
+q_chitchat	4	False
+q_chitchat	4	You're no fun
+q_chitchat	4	What's your age
+q_chitchat	4	Why
+q_chitchat	4	Who's your favorite singer
+q_chitchat	4	You're so basic
+q_chitchat	4	Who's your mom
+q_chitchat	4	Look at how smart you are
+q_chitchat	4	Who am I
+q_chitchat	4	Aren't you chipper
+q_chitchat	4	Kthx
+q_chitchat	4	Can you sneeze
+q_chitchat	4	You made no sense
+q_chitchat	4	Yup
+q_chitchat	4	Who's your master
+q_chitchat	4	Yes, that's right
+q_chitchat	4	Go away
+q_chitchat	4	Do you know Alexa
+q_chitchat	4	I hope you like me
+q_chitchat	4	I'm afraid I'm gonna have to let you go.
+q_faq	51.2	What is Microsoft Policy on travel letter
+q_faq	51.2	Why are there two brokers to choose from
+q_faq	51.2	What is Microsoft Policy on travel letter
+q_faq	51.2	Why are there two brokers to choose from
+q_faq	51.2	What is Microsoft Policy on travel letter
+q_faq	51.2	Why are there two brokers to choose from
+q_faq	51.2	What is Microsoft Policy on travel letter
+q_faq	51.2	Why are there two brokers to choose from
+q_faq	51.2	What is Microsoft Policy on travel letter
+q_faq	51.2	Why are there two brokers to choose from

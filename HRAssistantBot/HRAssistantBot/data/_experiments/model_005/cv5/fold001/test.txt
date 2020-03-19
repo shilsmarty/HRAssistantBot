@@ -1,0 +1,227 @@
+Label	Weight	Text
+l_general	6.564103	display weekend plans
+l_general	6.564103	go forward
+l_general	6.564103	bend oregon exotic restaurants please
+l_general	6.564103	nobody cares stop talking
+l_general	6.564103	add to wish - list computer ram
+l_general	6.564103	i am confirming keeping all items on lists
+l_general	6.564103	give me some help
+l_general	6.564103	back to last
+l_general	6.564103	select the last choice
+l_general	6.564103	go back to
+l_general	6.564103	i need real human help
+l_general	6.564103	shut the fuck up
+l_general	6.564103	start it over
+l_general	6.564103	don't do that anymore
+l_general	6.564103	i want the first
+l_general	6.564103	nowhere just be quiet
+l_general	6.564103	can i talk to a person
+l_general	6.564103	select my current location
+l_general	6.564103	what after that
+l_general	6.564103	i like second
+l_general	6.564103	quiet
+l_general	6.564103	add my current location as home
+l_general	6.564103	submit it
+l_general	6.564103	opt for the right
+l_general	6.564103	what before that
+l_general	6.564103	never mind
+l_general	6.564103	submit
+l_general	6.564103	done
+l_general	6.564103	exit stop
+l_general	6.564103	choose last one
+l_general	6.564103	just cancel it
+l_general	6.564103	holomap stockholm metro (3d map) please
+l_general	6.564103	just cancel
+l_general	6.564103	schaumburg covenant church schaumburg illinois please
+l_general	6.564103	neither
+l_general	6.564103	check lee ' s calender
+l_general	6.564103	i like second one
+l_general	6.564103	i ' m at home
+l_general	6.564103	clear all items from the chores list .
+l_general	6.564103	show the next one
+l_general	6.564103	i mean stop listening
+l_general	6.564103	say that again
+l_general	6.564103	go back to the last one
+l_general	6.564103	a new note please
+l_general	6.564103	get back to the last one
+l_general	6.564103	i want to choose right
+l_general	6.564103	it's done
+l_general	6.564103	display the fastest crossing across the sahara desert
+l_general	6.564103	ok stop stop
+l_general	6.564103	is the distance betwee the zoo and my current location thirteen miles
+l_general	6.564103	tesco ' s catterick garrison address please
+l_general	6.564103	" cancel all entries in the people to call " " note " " "
+l_general	6.564103	i want to choose lower right
+l_general	6.564103	i want to choose the left one
+l_general	6.564103	am i free to be with friends saturday
+l_general	6.564103	is there any real person
+l_general	6.564103	please do nothing
+l_general	6.564103	select a random one
+l_general	6.564103	i want bottom
+l_general	6.564103	save the date may 17 pictures party
+l_general	6.564103	check friday at 9 am
+l_general	6.564103	i want to talk to a human
+l_general	6.564103	finish
+l_general	6.564103	i need manual customer service
+l_general	6.564103	none of those
+l_general	6.564103	choose no.2
+l_general	6.564103	please begin again
+l_general	6.564103	i need help
+l_general	6.564103	just be quiet
+l_general	6.564103	i want to talk to a real human
+l_general	6.564103	what's before that
+l_general	6.564103	i like the top right one
+l_general	6.564103	cancel app
+l_general	6.564103	i want to choose third
+l_general	6.564103	neither of those
+l_general	6.564103	payway please
+l_general	6.564103	i want the left
+l_general	6.564103	b forty nine bus map brooklyn
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+q_chitchat	4	What state are you from
+q_chitchat	4	That's awesome
+q_chitchat	4	LOL
+q_chitchat	4	I'm pissed
+q_chitchat	4	Do you hate me
+q_chitchat	4	What is the answer to the universe
+q_chitchat	4	I want to lie down
+q_chitchat	4	What are you
+q_chitchat	4	That's true
+q_chitchat	4	Chat with me
+q_chitchat	4	What do you think about Cortana
+q_chitchat	4	Should I try out for soccer
+q_chitchat	4	I'm in love with you.
+q_chitchat	4	I feel sad
+q_chitchat	4	You're welcome
+q_chitchat	4	Good night
+q_chitchat	4	Go away
+q_chitchat	4	Who are you
+q_chitchat	4	Tell me a joke
+q_chitchat	4	Do you know me
+q_chitchat	4	What should I call you
+q_chitchat	4	I'm so sad
+q_chitchat	4	I am bored
+q_chitchat	4	Happy Halloween!
+q_chitchat	4	Sounds good
+q_chitchat	4	What's your favorite animal
+q_chitchat	4	What do you eat
+q_chitchat	4	That's so wrong.
+q_chitchat	4	What do you like to sing best
+q_chitchat	4	I beg your pardon
+q_chitchat	4	Hello Cortana
+q_chitchat	4	What makes you think that
+q_chitchat	4	What's your favorite activity
+q_chitchat	4	Have a good night
+q_chitchat	4	Say something stupid
+q_chitchat	4	Are you a spy
+q_chitchat	4	You must hate me.
+q_chitchat	4	Do you not like me
+q_chitchat	4	Are you intelligent
+q_chitchat	4	Give me a fist bump
+q_chitchat	4	I am a Republican
+q_chitchat	4	Do you have a mom
+q_chitchat	4	Are you free
+q_chitchat	4	Do you know the meaning of life
+q_chitchat	4	Try to make some sense
+q_chitchat	4	What kinds of things can you do
+q_chitchat	4	You're really boring
+q_chitchat	4	What are you doing right now
+q_chitchat	4	Who is your father
+q_chitchat	4	Nope, false
+q_chitchat	4	Do you spend time in your garden
+q_chitchat	4	Butterface.
+q_chitchat	4	Aren't you chipper
+q_chitchat	4	Who's your daddy
+q_chitchat	4	Do you want to rule the world
+q_chitchat	4	I am hungry
+q_chitchat	4	What's going on
+q_chitchat	4	Thanks
+q_chitchat	4	I got a new haircut
+q_chitchat	4	Do you think dragons are cool
+q_chitchat	4	You're so funny.
+q_chitchat	4	Are you my assistant
+q_chitchat	4	Why are you so boring
+q_chitchat	4	What's your age
+q_chitchat	4	Am I a good person
+q_chitchat	4	I want to go shopping
+q_chitchat	4	What is the meaning of life
+q_chitchat	4	Are you busy
+q_chitchat	4	I think you hate me.
+q_chitchat	4	Not true
+q_chitchat	4	What do you even mean by that
+q_chitchat	4	Sing a song
+q_chitchat	4	Who do you love
+q_chitchat	4	are you real or fake
+q_chitchat	4	You're so cool
+q_chitchat	4	That's inaccurate.
+q_chitchat	4	I'm not following
+q_chitchat	4	You're the worst
+q_chitchat	4	I'm furious
+q_chitchat	4	Can you talk to me
+q_chitchat	4	I'm ticked off
+q_chitchat	4	Who's your favorite singer
+q_chitchat	4	I am annoyed
+q_chitchat	4	How long ago were you born
+q_chitchat	4	Good evening to you
+q_chitchat	4	You are funny :)
+q_chitchat	4	I'm from there
+q_chitchat	4	Will you be my wife
+q_chitchat	4	What do you think about love
+q_chitchat	4	You're right.
+q_chitchat	4	I need a hug
+q_chitchat	4	I'm in love.
+q_chitchat	4	Hello Alexa
+q_chitchat	4	I'm really sad
+q_chitchat	4	Excuse me
+q_chitchat	4	Who do you report to
+q_chitchat	4	You're stupid
+q_chitchat	4	Shut up
+q_chitchat	4	I have 7 cats
+q_chitchat	4	I wish I weren't so alone
+q_chitchat	4	Where are you located
+q_chitchat	4	Are you a girl
+q_chitchat	4	I'm so lonely
+q_chitchat	4	You're such an asshole
+q_chitchat	4	That was a joke
+q_chitchat	4	How beautiful am i
+q_chitchat	4	You're boring
+q_chitchat	4	Are you straight
+q_chitchat	4	Omg sorry
+q_chitchat	4	Can't you change your answers
+q_chitchat	4	You're lame
+q_chitchat	4	Later
+q_chitchat	4	Fuck off
+q_chitchat	4	What's your purpose
+q_chitchat	4	Are you human
+q_chitchat	4	Say something funny
+q_chitchat	4	I'm just playing
+q_chitchat	4	Can you say anything else
+q_chitchat	4	What's your favorite song
+q_chitchat	4	Sorry about that
+q_chitchat	4	Having a good day
+q_chitchat	4	You are fired
+q_chitchat	4	Are you my fan
+q_chitchat	4	I'm so glad to meet you
+q_chitchat	4	Where should I go on vacation
+q_chitchat	4	Evening
+q_chitchat	4	Are you trans
+q_chitchat	4	You are the love of my life
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template

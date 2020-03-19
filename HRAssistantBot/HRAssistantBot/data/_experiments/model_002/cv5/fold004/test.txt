@@ -1,0 +1,227 @@
+Label	Weight	Text
+l_general	6.564103	i want to choose third
+l_general	6.564103	when is paul available
+l_general	6.564103	no no cancel
+l_general	6.564103	bend oregon exotic restaurants please
+l_general	6.564103	i am finished
+l_general	6.564103	opt for any of it
+l_general	6.564103	help me in clearing the shopping note
+l_general	6.564103	what's next
+l_general	6.564103	i need manual customer service
+l_general	6.564103	i want the fourth choice
+l_general	6.564103	submit
+l_general	6.564103	show me the route to mother ' s home
+l_general	6.564103	come on stop
+l_general	6.564103	show the next 4 items
+l_general	6.564103	i want to talk to a real human
+l_general	6.564103	say again
+l_general	6.564103	clear and start again
+l_general	6.564103	i want to choose the first one
+l_general	6.564103	i am done
+l_general	6.564103	save the date may 17 pictures party
+l_general	6.564103	neither one of them
+l_general	6.564103	choose one of it randomly
+l_general	6.564103	where i can find fishinger road dance class
+l_general	6.564103	show the next two options
+l_general	6.564103	calendar for november 1948
+l_general	6.564103	neither of those
+l_general	6.564103	select upper
+l_general	6.564103	where i am driving right now
+l_general	6.564103	yep
+l_general	6.564103	can i talk to a person
+l_general	6.564103	i like the upper right
+l_general	6.564103	send lighter fluid to onenote
+l_general	6.564103	view tom chros availability
+l_general	6.564103	none none of them
+l_general	6.564103	i want fourth
+l_general	6.564103	shut up quiet
+l_general	6.564103	talk to a human
+l_general	6.564103	how far is orlando from new york
+l_general	6.564103	quit
+l_general	6.564103	what's before that
+l_general	6.564103	is there any help
+l_general	6.564103	i don't want to select any one
+l_general	6.564103	i like upper right
+l_general	6.564103	finished with
+l_general	6.564103	show me the road to the church
+l_general	6.564103	show the previous one
+l_general	6.564103	no no go back to
+l_general	6.564103	affordable insurance washington ave albany ny 12222 please
+l_general	6.564103	sorry, don't do it
+l_general	6.564103	choose last
+l_general	6.564103	search for meetings with chris
+l_general	6.564103	start it over
+l_general	6.564103	no cancel that
+l_general	6.564103	okay i got it
+l_general	6.564103	soda popinski sf
+l_general	6.564103	i want to choose second one
+l_general	6.564103	choose top right one
+l_general	6.564103	voice activated reading of appointments this week
+l_general	6.564103	start over it
+l_general	6.564103	none none
+l_general	6.564103	i want more
+l_general	6.564103	who can help me
+l_general	6.564103	i have not heard
+l_general	6.564103	select the third one
+l_general	6.564103	can you set a note up to mom
+l_general	6.564103	stop please
+l_general	6.564103	it's done
+l_general	6.564103	how many days are there between march 13th 2015 and today
+l_general	6.564103	is there any real person
+l_general	6.564103	boudoir photo shoot ballard
+l_general	6.564103	clear for me all the dummy notes
+l_general	6.564103	just cancel
+l_general	6.564103	no no no no stop talking
+l_general	6.564103	go to the next one
+l_general	6.564103	i want to choose the last choice
+l_general	6.564103	select any
+l_general	6.564103	baby just be quiet
+l_general	6.564103	any one is ok
+None	51.2	all of them
+None	51.2	all of them
+None	51.2	all of them
+None	51.2	all of them
+None	51.2	all of them
+None	51.2	all of them
+None	51.2	all of them
+None	51.2	all of them
+None	51.2	all of them
+None	51.2	all of them
+q_chitchat	4	How was your day
+q_chitchat	4	You bore me
+q_chitchat	4	Yes, that's true
+q_chitchat	4	Are you better looking than me
+q_chitchat	4	Sing a song
+q_chitchat	4	Accurate
+q_chitchat	4	Hello Siri
+q_chitchat	4	I like you
+q_chitchat	4	It's a pleasure to meet you
+q_chitchat	4	Happy Birthday!
+q_chitchat	4	What do you mean
+q_chitchat	4	Everything you told me was false.
+q_chitchat	4	Don't you ever sleep
+q_chitchat	4	I'd like to take you out on a date
+q_chitchat	4	That's inaccurate.
+q_chitchat	4	What do you like to sing best
+q_chitchat	4	Give me a kiss
+q_chitchat	4	Kthx
+q_chitchat	4	What did you do today
+q_chitchat	4	I'm chewing gum right now
+q_chitchat	4	Are you a girl or a boy
+q_chitchat	4	You are no longer employed
+q_chitchat	4	Who do you report to
+q_chitchat	4	You are now unemployed
+q_chitchat	4	Do you like Cortana
+q_chitchat	4	I need a hug
+q_chitchat	4	Hiya
+q_chitchat	4	You are stupid
+q_chitchat	4	Thank you so much
+q_chitchat	4	Do you like Alexa
+q_chitchat	4	Awesome
+q_chitchat	4	Morning
+q_chitchat	4	Give me a joke
+q_chitchat	4	What do you eat
+q_chitchat	4	Why do you hate me
+q_chitchat	4	You are a genius!
+q_chitchat	4	Are you a boy
+q_chitchat	4	Say something funny
+q_chitchat	4	Do you and Cortana hang out
+q_chitchat	4	You're a butterface.
+q_chitchat	4	Give me some sugar
+q_chitchat	4	I'm all tuckered out
+q_chitchat	4	What's your favorite animal
+q_chitchat	4	Can you say anything else
+q_chitchat	4	Are you in love with me
+q_chitchat	4	I think you hate me.
+q_chitchat	4	You honestly could not be more uninteresting
+q_chitchat	4	Correct
+q_chitchat	4	Pardon
+q_chitchat	4	Yes, that's right
+q_chitchat	4	You are my favorite
+q_chitchat	4	BRB
+q_chitchat	4	That's true
+q_chitchat	4	I miss you
+q_chitchat	4	Goodbye
+q_chitchat	4	Nobody likes me
+q_chitchat	4	Pardon me
+q_chitchat	4	I don't get it
+q_chitchat	4	Do you know Cortana
+q_chitchat	4	You can't work for me anymore
+q_chitchat	4	What do you mean by that
+q_chitchat	4	Hi there!
+q_chitchat	4	I'm full of sadness
+q_chitchat	4	What's your favorite color
+q_chitchat	4	How are you today
+q_chitchat	4	You seem really happy
+q_chitchat	4	What's your dad's name
+q_chitchat	4	Why do you say the same thing all the time
+q_chitchat	4	Can you hear me
+q_chitchat	4	Who's smarter, me or you
+q_chitchat	4	Why
+q_chitchat	4	What are you doing later
+q_chitchat	4	Are you a woman
+q_chitchat	4	You seem really smart
+q_chitchat	4	That made no sense
+q_chitchat	4	Can you count to a million
+q_chitchat	4	How happy are you
+q_chitchat	4	Do you have a brother
+q_chitchat	4	Are you my friend
+q_chitchat	4	Do you know any jokes
+q_chitchat	4	I'm pissed
+q_chitchat	4	Are you available
+q_chitchat	4	Can you make me a sandwich
+q_chitchat	4	I'm so bored
+q_chitchat	4	Ask me something.
+q_chitchat	4	Shush!
+q_chitchat	4	I feel sad
+q_chitchat	4	Do you have a mom
+q_chitchat	4	You are so bad at this.
+q_chitchat	4	Good evening to you
+q_chitchat	4	Do you like me
+q_chitchat	4	Have you met Cortana
+q_chitchat	4	Which people made you
+q_chitchat	4	What should I do
+q_chitchat	4	Where do you come from
+q_chitchat	4	You're nice!
+q_chitchat	4	What's your job
+q_chitchat	4	I wish you just go away.
+q_chitchat	4	Are you male or female
+q_chitchat	4	Hello
+q_chitchat	4	Say something
+q_chitchat	4	Hi Alexa
+q_chitchat	4	Can you fly
+q_chitchat	4	What kind of candy do you like
+q_chitchat	4	You're boring
+q_chitchat	4	I love getting valentines.
+q_chitchat	4	You're so boring
+q_chitchat	4	What's the name of your boss
+q_chitchat	4	Can we be friends
+q_chitchat	4	You are the love of my life
+q_chitchat	4	You are awesome!
+q_chitchat	4	Can you chat with me
+q_chitchat	4	What makes you think so
+q_chitchat	4	Sing a tune
+q_chitchat	4	I'm cracking up
+q_chitchat	4	What's up
+q_chitchat	4	You are so unfunny.
+q_chitchat	4	That's not funny.
+q_chitchat	4	I'm your biggest fan
+q_chitchat	4	Not true
+q_chitchat	4	Who are you
+q_chitchat	4	What do you think about Alexa
+q_chitchat	4	Shut up
+q_chitchat	4	Yes to that
+q_chitchat	4	No, that's not true
+q_chitchat	4	Bingo
+q_chitchat	4	That was a joke
+q_chitchat	4	Hi
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template

@@ -1,0 +1,231 @@
+Label	Weight	Text
+l_general	6.564103	when is paul available
+l_general	6.564103	i like second one
+l_general	6.564103	select upper
+l_general	6.564103	bring the previous one
+l_general	6.564103	what
+l_general	6.564103	never mind cancel
+l_general	6.564103	quit
+l_general	6.564103	okay i got it
+l_general	6.564103	view tom chros availability
+l_general	6.564103	select no.5
+l_general	6.564103	i like left one
+l_general	6.564103	i want the lower choice
+l_general	6.564103	next
+l_general	6.564103	and after that
+l_general	6.564103	cancel it
+l_general	6.564103	please help
+l_general	6.564103	stop please
+l_general	6.564103	what's the next 2
+l_general	6.564103	ok stop stop
+l_general	6.564103	nothing please
+l_general	6.564103	i want right one
+l_general	6.564103	is the distance betwee the zoo and my current location thirteen miles
+l_general	6.564103	just cancel
+l_general	6.564103	get directions to uniondale high school
+l_general	6.564103	select any of it
+l_general	6.564103	i want fourth
+l_general	6.564103	never mind cancel that
+l_general	6.564103	where i am driving right now
+l_general	6.564103	i want to choose the lower choice
+l_general	6.564103	put applebee ' s on favorite list
+l_general	6.564103	payway please
+l_general	6.564103	submit
+l_general	6.564103	any of it
+l_general	6.564103	go back to the last one
+l_general	6.564103	i want the left
+l_general	6.564103	none of these
+l_general	6.564103	boudoir photo shoot ballard
+l_general	6.564103	display the fastest crossing across the sahara desert
+l_general	6.564103	opt for left
+l_general	6.564103	select the third one
+l_general	6.564103	i said stop
+l_general	6.564103	where i can find fishinger road dance class
+l_general	6.564103	start over
+l_general	6.564103	select any choice
+l_general	6.564103	add fred george to onenote
+l_general	6.564103	select the upper right
+l_general	6.564103	what after that
+l_general	6.564103	they look bad, can you give me other choices
+l_general	6.564103	anyone is fine
+l_general	6.564103	select the lower one
+l_general	6.564103	i like the third
+l_general	6.564103	display the fastest way to san antonio from austin
+l_general	6.564103	turn off
+l_general	6.564103	choose the upper left choice
+l_general	6.564103	go back to previous
+l_general	6.564103	show me the road to the church
+l_general	6.564103	repeat that
+l_general	6.564103	please clear the untitled notes for me
+l_general	6.564103	can i talk to a person
+l_general	6.564103	none
+l_general	6.564103	what about next one
+l_general	6.564103	b forty nine bus map brooklyn
+l_general	6.564103	tell me the event details
+l_general	6.564103	be quiet now
+l_general	6.564103	nerver mind
+l_general	6.564103	how soon will jack be free
+l_general	6.564103	dunmore pa sonic sounds friday morning please
+l_general	6.564103	am i free to be with friends saturday
+l_general	6.564103	i don't want to select any one
+l_general	6.564103	address to city of atlanta corrections
+l_general	6.564103	no cancel cancel
+l_general	6.564103	choose last
+l_general	6.564103	i want to talk to a real human
+l_general	6.564103	i don't want to choose any one
+l_general	6.564103	clear and start again
+l_general	6.564103	return
+l_general	6.564103	quiet now
+l_general	6.564103	sorry
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+q_chitchat	4	I'm so hungry
+q_chitchat	4	What's your favorite color
+q_chitchat	4	I feel sad
+q_chitchat	4	What do you think about Alexa
+q_chitchat	4	See you later
+q_chitchat	4	What did you do yesterday
+q_chitchat	4	My sincere thanks
+q_chitchat	4	You're the worst
+q_chitchat	4	What are you doing later
+q_chitchat	4	Who's your daddy
+q_chitchat	4	You face sucks.
+q_chitchat	4	Bingo
+q_chitchat	4	Happy Halloween!
+q_chitchat	4	Should I try out for soccer
+q_chitchat	4	Are you a guy
+q_chitchat	4	Back in a minute
+q_chitchat	4	You seem really smart
+q_chitchat	4	I want you to like me
+q_chitchat	4	Am I pretty
+q_chitchat	4	That's inaccurate.
+q_chitchat	4	That's hilarious
+q_chitchat	4	Are you with the FBI
+q_chitchat	4	Accurate
+q_chitchat	4	Can you chat with me
+q_chitchat	4	Are you a fan of Alexa
+q_chitchat	4	Have you ever sung a song
+q_chitchat	4	Do you think dragons are cool
+q_chitchat	4	Be funny
+q_chitchat	4	Do you have a family
+q_chitchat	4	I will be back
+q_chitchat	4	Are you a woman
+q_chitchat	4	I adore you
+q_chitchat	4	Goodbye
+q_chitchat	4	Can I have a hug
+q_chitchat	4	What are you
+q_chitchat	4	I love getting valentines.
+q_chitchat	4	Who made you
+q_chitchat	4	Can you hear me now
+q_chitchat	4	I'm pissed
+q_chitchat	4	You seem really happy
+q_chitchat	4	Are you dumb
+q_chitchat	4	Are you available
+q_chitchat	4	What's your favorite movie
+q_chitchat	4	Do you like me
+q_chitchat	4	I'm tired
+q_chitchat	4	You're really smart
+q_chitchat	4	Sry
+q_chitchat	4	Ask me a question.
+q_chitchat	4	Correct
+q_chitchat	4	Do I look good in blue
+q_chitchat	4	Good morning
+q_chitchat	4	You can't work for me anymore
+q_chitchat	4	Thank you so much
+q_chitchat	4	Later alligator
+q_chitchat	4	Do you know Cortana
+q_chitchat	4	So sorry
+q_chitchat	4	Have a good night
+q_chitchat	4	I'm not following
+q_chitchat	4	I am annoyed
+q_chitchat	4	Are you a fan of country music
+q_chitchat	4	Aren't you cheerful
+q_chitchat	4	Do you get tired
+q_chitchat	4	Life is good
+q_chitchat	4	Do you and Cortana hang out
+q_chitchat	4	Hiya
+q_chitchat	4	That was right
+q_chitchat	4	I'm cracking up
+q_chitchat	4	You're rad.
+q_chitchat	4	How are you
+q_chitchat	4	Don't you ever sleep
+q_chitchat	4	How do you feel about working late
+q_chitchat	4	I'm starving
+q_chitchat	4	Yes, that's true
+q_chitchat	4	False
+q_chitchat	4	How smart are you
+q_chitchat	4	Do you know the meaning of life
+q_chitchat	4	Happy Hannukah
+q_chitchat	4	That's accurate
+q_chitchat	4	Do you play games
+q_chitchat	4	You're boring
+q_chitchat	4	Do you like Cortana
+q_chitchat	4	Do you know other chatbots
+q_chitchat	4	Say something dumb
+q_chitchat	4	I'm really sad
+q_chitchat	4	What's your purpose
+q_chitchat	4	I'm a fan.
+q_chitchat	4	I'm just kidding around
+q_chitchat	4	Why
+q_chitchat	4	I don't understand
+q_chitchat	4	You're so cool
+q_chitchat	4	You keep saying the same thing all the time
+q_chitchat	4	Why do you say the same thing all the time
+q_chitchat	4	What is love
+q_chitchat	4	Great, thanks
+q_chitchat	4	You're nice!
+q_chitchat	4	Do you ever get hungry
+q_chitchat	4	Hello Alexa
+q_chitchat	4	I'm despondent
+q_chitchat	4	It's a pleasure to meet you
+q_chitchat	4	Butterface.
+q_chitchat	4	You're such an asshole
+q_chitchat	4	High five!
+q_chitchat	4	What should I call you
+q_chitchat	4	Do you dream
+q_chitchat	4	How can you help me
+q_chitchat	4	Your face is ugly.
+q_chitchat	4	Tell me a joke
+q_chitchat	4	Talk to me
+q_chitchat	4	That's right
+q_chitchat	4	How old are you
+q_chitchat	4	Are you busy
+q_chitchat	4	I'm famished
+q_chitchat	4	You're lame
+q_chitchat	4	Thank you
+q_chitchat	4	How beautiful am i
+q_chitchat	4	You are the love of my life
+q_chitchat	4	Are you spying on me
+q_chitchat	4	I think you're so pretty
+q_chitchat	4	Do you love anyone
+q_chitchat	4	I'm afraid I'm gonna have to let you go.
+q_chitchat	4	Fist bump!
+q_chitchat	4	Are you around
+q_chitchat	4	What kind of food do you like
+q_chitchat	4	What's your favorite food
+q_chitchat	4	What's new
+q_chitchat	4	Bye
+q_chitchat	4	Your face is like a pancake.
+q_chitchat	4	You are my favorite
+q_faq	36.57143	"What is the ""OneEngineering"" effort?"
+q_faq	36.57143	How can I understand what high performance versus low performance looks like
+q_faq	36.57143	What can I do to get promoted
+q_faq	36.57143	What is Microsoft Policy on travel letter
+q_faq	36.57143	How will this policy impact the easy id: firstname.lastname@microsoft.com
+q_faq	36.57143	What can I do to earn higher rewards
+q_faq	36.57143	Why is there a deadline for making a broker election
+q_faq	36.57143	"What is the ""OneEngineering"" effort?"
+q_faq	36.57143	How can I understand what high performance versus low performance looks like
+q_faq	36.57143	What can I do to get promoted
+q_faq	36.57143	What is Microsoft Policy on travel letter
+q_faq	36.57143	How will this policy impact the easy id: firstname.lastname@microsoft.com
+q_faq	36.57143	What can I do to earn higher rewards
+q_faq	36.57143	Why is there a deadline for making a broker election

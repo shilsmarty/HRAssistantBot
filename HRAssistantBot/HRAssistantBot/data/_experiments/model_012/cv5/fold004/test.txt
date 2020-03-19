@@ -1,0 +1,236 @@
+Label	Weight	Text
+l_general	6.168674	a new note of name business solutions
+l_general	6.168674	nashville humane society rover please
+l_general	6.168674	submit it
+l_general	6.168674	i need to go to the next one
+l_general	6.168674	how to do it
+l_general	6.168674	neither one
+l_general	6.168674	i don't want to select any one
+l_general	6.168674	finished
+l_general	6.168674	opt for the left one
+l_general	6.168674	opt for right one
+l_general	6.168674	add oatmeal to shopping list .
+l_general	6.168674	my benefits
+l_general	6.168674	i want the fourth choice
+l_general	6.168674	the meeting will last for one hour
+l_general	6.168674	is there any help
+l_general	6.168674	uani street
+l_general	6.168674	it finished
+l_general	6.168674	show more
+l_general	6.168674	just cancel it
+l_general	6.168674	add a new event on 27 - apr
+l_general	6.168674	don't do that anymore
+l_general	6.168674	i want to choose right
+l_general	6.168674	type in notepad
+l_general	6.168674	address to city of atlanta corrections
+l_general	6.168674	pull up my appointment find out how much time i have before my next appointment
+l_general	6.168674	could you start it over
+l_general	6.168674	show me the previous one
+l_general	6.168674	opt for the second
+l_general	6.168674	what's more
+l_general	6.168674	who can help me
+l_general	6.168674	i want to choose second one
+l_general	6.168674	i want third one
+l_general	6.168674	i want to talk to a real human
+l_general	6.168674	no cancel it
+l_general	6.168674	is the distance betwee the zoo and my current location thirteen miles
+l_general	6.168674	legal
+l_general	6.168674	none none of them
+l_general	6.168674	clear and start again
+l_general	6.168674	i love you to stop talking
+l_general	6.168674	nothing please
+l_general	6.168674	apply vacations
+l_general	6.168674	never mind stop
+l_general	6.168674	any of it
+l_general	6.168674	oh don't do that
+l_general	6.168674	don't do that
+l_general	6.168674	show me the road to the church
+l_general	6.168674	baby just be quiet
+l_general	6.168674	say again please
+l_general	6.168674	what about the third one
+l_general	6.168674	get for me rilo eagle street address
+l_general	6.168674	save the date may 17 pictures party
+l_general	6.168674	leave
+l_general	6.168674	drive me to the fast one
+l_general	6.168674	get back please
+l_general	6.168674	what did you say
+l_general	6.168674	send lighter fluid to onenote
+l_general	6.168674	vacation
+l_general	6.168674	say that again
+l_general	6.168674	no no go back to
+l_general	6.168674	what
+l_general	6.168674	select the first
+l_general	6.168674	shut your mouth
+l_general	6.168674	i want to choose third
+l_general	6.168674	i like the first one
+l_general	6.168674	nerver mind
+l_general	6.168674	shut up be quiet
+l_general	6.168674	start again
+l_general	6.168674	cancel cancel
+l_general	6.168674	stop please
+l_general	6.168674	show me the next
+l_general	6.168674	finish
+l_general	6.168674	i want to choose the left one
+l_general	6.168674	what's up next
+l_general	6.168674	apply leave
+l_general	6.168674	no no cancel it
+l_general	6.168674	please return
+l_general	6.168674	shut up quiet
+l_general	6.168674	yes .
+l_general	6.168674	nowhere just be quiet
+l_general	6.168674	select any choice
+l_general	6.168674	stay fit
+l_general	6.168674	mark state parks as favorite
+l_general	6.168674	opt for the second choice
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+q_chitchat	4	Happy Birthday!
+q_chitchat	4	I like you
+q_chitchat	4	Your face is ugly.
+q_chitchat	4	How intelligent are you
+q_chitchat	4	Shut up
+q_chitchat	4	Can you say anything else
+q_chitchat	4	Give me a joke
+q_chitchat	4	What is the meaning of life
+q_chitchat	4	You are fired
+q_chitchat	4	I am bored
+q_chitchat	4	What do you think of me
+q_chitchat	4	Are you free
+q_chitchat	4	You are now unemployed
+q_chitchat	4	Are you a spy
+q_chitchat	4	I'm so bored
+q_chitchat	4	Great, thanks
+q_chitchat	4	Have you ever sung a song
+q_chitchat	4	Are you young
+q_chitchat	4	I'm your biggest fan
+q_chitchat	4	Can you hear me
+q_chitchat	4	What should I call you
+q_chitchat	4	Do you know me
+q_chitchat	4	Which baseball teams do you like
+q_chitchat	4	Pardon me
+q_chitchat	4	Welcome to springtime!
+q_chitchat	4	I'm just playing
+q_chitchat	4	I'm lonely
+q_chitchat	4	What's the name of your boss
+q_chitchat	4	Don't you get hungry
+q_chitchat	4	What should I do
+q_chitchat	4	What are you up to
+q_chitchat	4	That's hilarious
+q_chitchat	4	What were you doing yesterday
+q_chitchat	4	Yes, that's right
+q_chitchat	4	Are you really happy
+q_chitchat	4	Do you have a brother
+q_chitchat	4	I think you hate me.
+q_chitchat	4	I feel sad
+q_chitchat	4	Do you have a dad
+q_chitchat	4	Are you here
+q_chitchat	4	Give me a high five
+q_chitchat	4	You're not funny.
+q_chitchat	4	Do you have a mom
+q_chitchat	4	You are so unfunny.
+q_chitchat	4	I'm a lesbian
+q_chitchat	4	What's your age
+q_chitchat	4	Sing a tune
+q_chitchat	4	You keep saying the same thing all the time
+q_chitchat	4	I need a kiss
+q_chitchat	4	I'm into it
+q_chitchat	4	You're a butterface.
+q_chitchat	4	What do you even mean by that
+q_chitchat	4	Are you better looking than me
+q_chitchat	4	What kind of candy do you like
+q_chitchat	4	Say something funny
+q_chitchat	4	You don't know anything.
+q_chitchat	4	What's happening
+q_chitchat	4	Good evening
+q_chitchat	4	Do you have a sister
+q_chitchat	4	There
+q_chitchat	4	So tired
+q_chitchat	4	Who created you
+q_chitchat	4	What do you think about Alexa
+q_chitchat	4	BRB
+q_chitchat	4	Butterface.
+q_chitchat	4	Fuck off
+q_chitchat	4	Why not
+q_chitchat	4	Do you dream
+q_chitchat	4	Who's smarter, me or you
+q_chitchat	4	I'm tired of you
+q_chitchat	4	I hope you like me
+q_chitchat	4	You honestly could not be more uninteresting
+q_chitchat	4	That was a joke
+q_chitchat	4	I'm an engineer
+q_chitchat	4	Fist bump!
+q_chitchat	4	You're wonderful
+q_chitchat	4	Sorry about that
+q_chitchat	4	I love music.
+q_chitchat	4	Who is your mother
+q_chitchat	4	Good night to you
+q_chitchat	4	You're the worst
+q_chitchat	4	What's your name
+q_chitchat	4	I'm so lonely
+q_chitchat	4	You bore me
+q_chitchat	4	Are you my imaginary friend
+q_chitchat	4	Merry Christmas
+q_chitchat	4	I want you to be my husband
+q_chitchat	4	Which people made you
+q_chitchat	4	Do you like my hat
+q_chitchat	4	Who am I
+q_chitchat	4	Ask me anything.
+q_chitchat	4	I'm afraid I'm gonna have to let you go.
+q_chitchat	4	How much do you love me
+q_chitchat	4	I'm feeling blue
+q_chitchat	4	That's not funny.
+q_chitchat	4	Who's your boss
+q_chitchat	4	What's new
+q_chitchat	4	What's your dad's name
+q_chitchat	4	You're awful
+q_chitchat	4	Tell me a joke
+q_chitchat	4	Are you pansexual
+q_chitchat	4	Am I good-looking
+q_chitchat	4	Do you and Cortana hang out
+q_chitchat	4	You seem happy
+q_chitchat	4	You are useless
+q_chitchat	4	How's your day
+q_chitchat	4	I need a hug
+q_chitchat	4	Are you gay
+q_chitchat	4	Are you the singularity
+q_chitchat	4	Do you think dragons are cool
+q_chitchat	4	Who do you love
+q_chitchat	4	I want to eat something
+q_chitchat	4	Where are you
+q_chitchat	4	Look at how smart you are
+q_chitchat	4	Why is that
+q_chitchat	4	I'm pissed
+q_chitchat	4	I can drive a car
+q_chitchat	4	Will you marry me
+q_chitchat	4	Do you play games
+q_chitchat	4	Love you!
+q_chitchat	4	Are you a lesbian
+q_chitchat	4	Talk to you later
+q_chitchat	4	You're so basic
+q_chitchat	4	You are so bad at this.
+q_chitchat	4	Are you my friend
+q_chitchat	4	I can't think of anything I want to do
+q_chitchat	4	I want to go shopping
+q_chitchat	4	It's my pleasure
+q_faq	36.57143	Why is there a deadline for making a broker election
+q_faq	36.57143	What can I do to get promoted
+q_faq	36.57143	My manager changed recently and MS Poll shows my previous manager. How should I respond
+q_faq	36.57143	What is Microsoft Policy on travel letter
+q_faq	36.57143	"What is the ""OneEngineering"" effort?"
+q_faq	36.57143	What is this EmpAssist
+q_faq	36.57143	What are stock awards
+q_faq	36.57143	Why is there a deadline for making a broker election
+q_faq	36.57143	What can I do to get promoted
+q_faq	36.57143	My manager changed recently and MS Poll shows my previous manager. How should I respond
+q_faq	36.57143	What is Microsoft Policy on travel letter
+q_faq	36.57143	"What is the ""OneEngineering"" effort?"
+q_faq	36.57143	What is this EmpAssist
+q_faq	36.57143	What are stock awards

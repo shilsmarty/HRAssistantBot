@@ -1,0 +1,237 @@
+Label	Weight	Text
+l_general	6.095238	just be
+l_general	6.095238	oh don't do that
+l_general	6.095238	yep
+l_general	6.095238	cancel it
+l_general	6.095238	i like the top right one
+l_general	6.095238	no cancel that
+l_general	6.095238	never mind
+l_general	6.095238	get back to the last one
+l_general	6.095238	i want to choose the left one
+l_general	6.095238	select my current location
+l_general	6.095238	what about the third one
+l_general	6.095238	leave
+l_general	6.095238	quiet now
+l_general	6.095238	no no no no stop talking
+l_general	6.095238	i want bottom
+l_general	6.095238	restart it
+l_general	6.095238	nashville humane society rover please
+l_general	6.095238	i like second one
+l_general	6.095238	none of these
+l_general	6.095238	add an event to visit 209 nashville gym
+l_general	6.095238	stop talking
+l_general	6.095238	pull up my appointment find out how much time i have before my next appointment
+l_general	6.095238	i want the second one
+l_general	6.095238	select a random choice
+l_general	6.095238	oh my god shut up
+l_general	6.095238	just cancel it
+l_general	6.095238	i like upper right
+l_general	6.095238	it's done
+l_general	6.095238	select the upper right
+l_general	6.095238	i want fourth
+l_general	6.095238	save the current note
+l_general	6.095238	select a random one
+l_general	6.095238	how can i clear my notes
+l_general	6.095238	choose anyone
+l_general	6.095238	last step
+l_general	6.095238	i want to choose the right
+l_general	6.095238	how far is orlando from new york
+l_general	6.095238	add tasks to wunderlist
+l_general	6.095238	start over
+l_general	6.095238	again
+l_general	6.095238	i like left one
+l_general	6.095238	i want left
+l_general	6.095238	distance from taco bell to my location
+l_general	6.095238	i like the bottom one
+l_general	6.095238	select lower one
+l_general	6.095238	add fred george to onenote
+l_general	6.095238	repeat
+l_general	6.095238	add mark to guest list
+l_general	6.095238	turn over a new leaf
+l_general	6.095238	i want to choose the last choice
+l_general	6.095238	no be quiet
+l_general	6.095238	clear all items from the chores list .
+l_general	6.095238	go back on
+l_general	6.095238	get back please
+l_general	6.095238	opt for last
+l_general	6.095238	get back to last
+l_general	6.095238	god shut up
+l_general	6.095238	just be quiet
+l_general	6.095238	free time this afternoon please
+l_general	6.095238	end it
+l_general	6.095238	contact the customer service
+l_general	6.095238	uani street
+l_general	6.095238	is there any real person
+l_general	6.095238	back please
+l_general	6.095238	dunmore pa sonic sounds friday morning please
+l_general	6.095238	select fourth one
+l_general	6.095238	tell me the event details
+l_general	6.095238	cancel
+l_general	6.095238	want to apply sick off
+l_general	6.095238	choose the upper left choice
+l_general	6.095238	is there any person i can talk to
+l_general	6.095238	save the date may 17 pictures party
+l_general	6.095238	don't do that anymore
+l_general	6.095238	no no go back to
+l_general	6.095238	discounts
+l_general	6.095238	opt for a random one
+l_general	6.095238	waffles recipe is my new note to be created
+l_general	6.095238	i am confirming keeping all items on lists
+l_general	6.095238	finish
+l_general	6.095238	put applebee ' s on favorite list
+l_general	6.095238	to buy list
+l_general	6.095238	open help
+l_general	6.095238	that ' s good
+l_general	6.095238	sorry
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+q_chitchat	4	Who's your master
+q_chitchat	4	Are you a person
+q_chitchat	4	Your face is ugly.
+q_chitchat	4	Do you smell
+q_chitchat	4	Nobody cares about me
+q_chitchat	4	Talk to you later
+q_chitchat	4	Fuck off
+q_chitchat	4	Hello Cortana
+q_chitchat	4	I didn't mean that
+q_chitchat	4	BRB
+q_chitchat	4	Are you straight
+q_chitchat	4	I'm pissed
+q_chitchat	4	Are you a lesbian
+q_chitchat	4	Just kidding
+q_chitchat	4	Life is good
+q_chitchat	4	I want to go shopping
+q_chitchat	4	Not true
+q_chitchat	4	You're such an asshole
+q_chitchat	4	Pardon me
+q_chitchat	4	False
+q_chitchat	4	How do I look today
+q_chitchat	4	Thank you so much
+q_chitchat	4	What can you do
+q_chitchat	4	Happy Halloween!
+q_chitchat	4	Do I look good in blue
+q_chitchat	4	Who do you love
+q_chitchat	4	Accurate
+q_chitchat	4	How are you today
+q_chitchat	4	Who are you
+q_chitchat	4	Do you think you're smarter than me
+q_chitchat	4	You're funny
+q_chitchat	4	Why not
+q_chitchat	4	You are awesome!
+q_chitchat	4	Can you talk to me
+q_chitchat	4	You're so boring
+q_chitchat	4	Are you my fan
+q_chitchat	4	My sincere thanks
+q_chitchat	4	Goodbye
+q_chitchat	4	Are you busy
+q_chitchat	4	Are you a fan of tech
+q_chitchat	4	Do you have boogers
+q_chitchat	4	Do you know me
+q_chitchat	4	You are the love of my life
+q_chitchat	4	How happy are you
+q_chitchat	4	How smart you are
+q_chitchat	4	Happy Hannukah
+q_chitchat	4	What should I call you
+q_chitchat	4	How are things
+q_chitchat	4	What did you do today
+q_chitchat	4	Correct
+q_chitchat	4	I am bored
+q_chitchat	4	You are so annoying!
+q_chitchat	4	Tell me a joke
+q_chitchat	4	Do you know my name
+q_chitchat	4	Am I pretty
+q_chitchat	4	You're dumb
+q_chitchat	4	You're the best
+q_chitchat	4	What do you do
+q_chitchat	4	How much do you love me
+q_chitchat	4	Haha
+q_chitchat	4	Say something funny
+q_chitchat	4	Who owns you
+q_chitchat	4	Can we chat
+q_chitchat	4	You're welcome
+q_chitchat	4	Who's your daddy
+q_chitchat	4	What kind of food do you like
+q_chitchat	4	I despise you
+q_chitchat	4	Do you have a sister
+q_chitchat	4	No, that's not true
+q_chitchat	4	That wasn't true
+q_chitchat	4	I'm full of sadness
+q_chitchat	4	Will you marry me
+q_chitchat	4	I am a Democrat
+q_chitchat	4	Are you my imaginary friend
+q_chitchat	4	I like you
+q_chitchat	4	Do you like my hat
+q_chitchat	4	Are you dumb
+q_chitchat	4	High five!
+q_chitchat	4	Yes to that
+q_chitchat	4	I thank you
+q_chitchat	4	Quiet, you
+q_chitchat	4	What country are you in
+q_chitchat	4	Do you eat
+q_chitchat	4	See you later
+q_chitchat	4	Do I look okay
+q_chitchat	4	Where did you come from
+q_chitchat	4	You don't interest me at all
+q_chitchat	4	Do you love anyone
+q_chitchat	4	You can't work for me anymore
+q_chitchat	4	Are you a guy
+q_chitchat	4	What is love
+q_chitchat	4	What do you think about Cortana
+q_chitchat	4	I love music.
+q_chitchat	4	Do you have a dad
+q_chitchat	4	How long ago were you born
+q_chitchat	4	You look ugly.
+q_chitchat	4	Omg sorry
+q_chitchat	4	Am I a fool
+q_chitchat	4	What's my name
+q_chitchat	4	I'm cracking up
+q_chitchat	4	I'm ticked off
+q_chitchat	4	Here I am
+q_chitchat	4	What is the meaning of life
+q_chitchat	4	What do you like to eat
+q_chitchat	4	I got a new haircut
+q_chitchat	4	You must hate me.
+q_chitchat	4	I am hungry
+q_chitchat	4	What age are you
+q_chitchat	4	Good night
+q_chitchat	4	Do you have a name
+q_chitchat	4	What's your favorite color
+q_chitchat	4	That's inaccurate.
+q_chitchat	4	Hi Siri
+q_chitchat	4	Do you not like me
+q_chitchat	4	Sry
+q_chitchat	4	Later
+q_chitchat	4	I am doing that
+q_chitchat	4	I'm lonely
+q_chitchat	4	Are you a fan of country music
+q_chitchat	4	That was correct
+q_chitchat	4	Hey
+q_chitchat	4	Where are you from
+q_chitchat	4	Are you a fan of Alexa
+q_chitchat	4	Do you believe in love
+q_chitchat	4	Are you attempting world domination
+q_chitchat	4	You're very intelligent
+q_chitchat	4	Are you Skynet
+q_chitchat	4	Do you think I should ask her out
+q_faq	36.57143	How do I request a leave of absence
+q_faq	36.57143	How do I report my time away from work for bereavement
+q_faq	36.57143	Why are there two brokers to choose from
+q_faq	36.57143	How should I think about zero rewards
+q_faq	36.57143	Why do we expect individual rewards outcomes to vary year to year
+q_faq	36.57143	"If I am out of sick, vacation or floating holidays, what are my options?"
+q_faq	36.57143	Does Microsoft provide tax seminars to employees to educate them about the financial impact of stock awards
+q_faq	36.57143	How do I request a leave of absence
+q_faq	36.57143	How do I report my time away from work for bereavement
+q_faq	36.57143	Why are there two brokers to choose from
+q_faq	36.57143	How should I think about zero rewards
+q_faq	36.57143	Why do we expect individual rewards outcomes to vary year to year
+q_faq	36.57143	"If I am out of sick, vacation or floating holidays, what are my options?"
+q_faq	36.57143	Does Microsoft provide tax seminars to employees to educate them about the financial impact of stock awards

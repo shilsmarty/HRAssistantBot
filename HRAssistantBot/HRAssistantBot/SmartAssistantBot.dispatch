@@ -1,0 +1,51 @@
+{
+  "authoringRegion": "westus",
+  "hierarchical": true,
+  "useAllTrainingData": false,
+  "dontReviseUtterance": false,
+  "services": [
+    {
+      "intentName": "l_general",
+      "appId": "eacdec83-51c7-47b5-bee2-c673b7e7fa05",
+      "authoringKey": "4d1293e58c7f4ec2b18c8dd7a142b79c",
+      "subscriptionKey": "4d1293e58c7f4ec2b18c8dd7a142b79c",
+      "version": "0.1",
+      "region": "westus",
+      "type": "luis",
+      "name": "fhl-hack-smartbot_General",
+      "id": "general"
+    },
+    {
+      "intentName": "q_faq",
+      "kbId": "caae72fc-47ce-46e6-854d-43c675f6b85b",
+      "subscriptionKey": "9e01b36756ff41179402d8d0e7e7c2bc",
+      "hostname": "https://fhl-hack-smartbot-qnahost.azurewebsites.net/qnamaker",
+      "endpointKey": "62664b0f-03ec-4f1c-89d1-0ea46a0db500",
+      "type": "qna",
+      "name": "FAQ",
+      "id": "faq"
+    },
+    {
+      "intentName": "q_chitchat",
+      "kbId": "5383d166-8138-4e0b-8c06-b9b01702793b",
+      "subscriptionKey": "9e01b36756ff41179402d8d0e7e7c2bc",
+      "hostname": "https://fhl-hack-smartbot-qnahost.azurewebsites.net/qnamaker",
+      "endpointKey": "62664b0f-03ec-4f1c-89d1-0ea46a0db500",
+      "type": "qna",
+      "name": "ChitChat",
+      "id": "chitchat"
+    }
+  ],
+  "serviceIds": [
+    "general",
+    "faq",
+    "chitchat"
+  ],
+  "appId": "5514f0a5-3415-43c3-bdb5-67bf7fb18a1e",
+  "authoringKey": "4d1293e58c7f4ec2b18c8dd7a142b79c",
+  "subscriptionKey": "4d1293e58c7f4ec2b18c8dd7a142b79c",
+  "version": "Dispatch",
+  "region": "westus",
+  "type": "dispatch",
+  "name": "fhl-hack-smartbot_Dispatch"
+}

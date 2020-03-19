@@ -1,0 +1,231 @@
+Label	Weight	Text
+l_general	6.564103	add oatmeal to shopping list .
+l_general	6.564103	i like the third choice
+l_general	6.564103	go to the previous
+l_general	6.564103	just be quiet
+l_general	6.564103	i want to choose lower right
+l_general	6.564103	what was that again
+l_general	6.564103	exit exit
+l_general	6.564103	what did you say
+l_general	6.564103	i want to choose the first one
+l_general	6.564103	how can i clear my notes
+l_general	6.564103	save the current note
+l_general	6.564103	go back on
+l_general	6.564103	canceled
+l_general	6.564103	can you clear mom note
+l_general	6.564103	show me the route to west avenue miami beach
+l_general	6.564103	how many days are there between march 13th 2015 and today
+l_general	6.564103	back to last
+l_general	6.564103	i like the top right one
+l_general	6.564103	oh my god shut up
+l_general	6.564103	nowhere just be quiet
+l_general	6.564103	schaumburg covenant church schaumburg illinois please
+l_general	6.564103	no no cancel it
+l_general	6.564103	ojai apple picking
+l_general	6.564103	opt for first one
+l_general	6.564103	please do nothing
+l_general	6.564103	cancel
+l_general	6.564103	go to the previous one
+l_general	6.564103	i like the bottom one
+l_general	6.564103	turn off stop
+l_general	6.564103	choose anyone
+l_general	6.564103	go forward
+l_general	6.564103	don't do that anymore
+l_general	6.564103	go back to
+l_general	6.564103	go back to last one
+l_general	6.564103	contact support
+l_general	6.564103	choose top right
+l_general	6.564103	neither one of them
+l_general	6.564103	my god shut up
+l_general	6.564103	contact the customer service
+l_general	6.564103	i want more
+l_general	6.564103	human service
+l_general	6.564103	back to last step
+l_general	6.564103	please begin again
+l_general	6.564103	bbq near olympia wa please
+l_general	6.564103	add mark to guest list
+l_general	6.564103	create my favorites note
+l_general	6.564103	i need real human help
+l_general	6.564103	no no cancel
+l_general	6.564103	back to the last one
+l_general	6.564103	i am finished
+l_general	6.564103	that ' s good
+l_general	6.564103	opt for last
+l_general	6.564103	baby just be quiet
+l_general	6.564103	be quiet
+l_general	6.564103	shut up
+l_general	6.564103	i need to go to the next one
+l_general	6.564103	i want to talk to a human
+l_general	6.564103	could you say it again
+l_general	6.564103	last step
+l_general	6.564103	nobody cares stop talking
+l_general	6.564103	update note of number one
+l_general	6.564103	is keil available tomorrow
+l_general	6.564103	i want neither of them
+l_general	6.564103	i am confirming keeping all items on lists
+l_general	6.564103	opt for the second
+l_general	6.564103	opt for the left one
+l_general	6.564103	just cancel it
+l_general	6.564103	i like upper right
+l_general	6.564103	select fourth one
+l_general	6.564103	add friends to party list in memos
+l_general	6.564103	drive me to the fast one
+l_general	6.564103	clear all items from the chores list .
+l_general	6.564103	i want the first
+l_general	6.564103	what about the last
+l_general	6.564103	santa barbara maine postal please
+l_general	6.564103	get back to the last one
+l_general	6.564103	no cancel it
+l_general	6.564103	any help
+None	51.2	all of them
+None	51.2	all of them
+None	51.2	all of them
+None	51.2	all of them
+None	51.2	all of them
+None	51.2	all of them
+None	51.2	all of them
+None	51.2	all of them
+None	51.2	all of them
+None	51.2	all of them
+q_chitchat	4	Pardon
+q_chitchat	4	I want to lie down
+q_chitchat	4	Are you straight
+q_chitchat	4	Do you like Siri
+q_chitchat	4	How smart you are
+q_chitchat	4	Hello
+q_chitchat	4	Nobody likes me
+q_chitchat	4	How intelligent are you
+q_chitchat	4	Hahaha
+q_chitchat	4	Are you old
+q_chitchat	4	Kthx
+q_chitchat	4	Be my friend
+q_chitchat	4	You are useless
+q_chitchat	4	Just kidding
+q_chitchat	4	Happy Birthday!
+q_chitchat	4	Will you marry me
+q_chitchat	4	You fucked up
+q_chitchat	4	Can you count to a million
+q_chitchat	4	Do you smell
+q_chitchat	4	Do you know Alexa
+q_chitchat	4	Do you know other digital agents
+q_chitchat	4	Are you a swinger
+q_chitchat	4	Kiss me
+q_chitchat	4	What's happening
+q_chitchat	4	Why is that
+q_chitchat	4	I'm so sleepy
+q_chitchat	4	Are you intelligent
+q_chitchat	4	Are you pansexual
+q_chitchat	4	You're way off.
+q_chitchat	4	Can we chat
+q_chitchat	4	Basic af
+q_chitchat	4	I love music.
+q_chitchat	4	Do you have a sister
+q_chitchat	4	Hug me
+q_chitchat	4	I am hungry
+q_chitchat	4	Are you attempting world domination
+q_chitchat	4	Are you human
+q_chitchat	4	Who's smarter, me or you
+q_chitchat	4	Do you like baseball
+q_chitchat	4	What's going on
+q_chitchat	4	I need a hug
+q_chitchat	4	What are you up to
+q_chitchat	4	Do you know Siri
+q_chitchat	4	Oops, sorry
+q_chitchat	4	Youâ€™re ugly.
+q_chitchat	4	Fuck off
+q_chitchat	4	Can't you change your answers
+q_chitchat	4	I'm bored out of my mind
+q_chitchat	4	Do you want to rule the world
+q_chitchat	4	Do you think I look good
+q_chitchat	4	How do I look today
+q_chitchat	4	Do you sweat
+q_chitchat	4	What's your job
+q_chitchat	4	What country are you from
+q_chitchat	4	What do you like to eat
+q_chitchat	4	I am doing that
+q_chitchat	4	Should I get a new job
+q_chitchat	4	BFFs forever
+q_chitchat	4	When were you born
+q_chitchat	4	What's your favorite activity
+q_chitchat	4	Zip it!
+q_chitchat	4	Do you eat
+q_chitchat	4	Hum a tune
+q_chitchat	4	Do you hate me
+q_chitchat	4	You don't interest me at all
+q_chitchat	4	That's so wrong.
+q_chitchat	4	Do you know other bots
+q_chitchat	4	Talk to you later
+q_chitchat	4	What country are you in
+q_chitchat	4	Do you think you're smarter than me
+q_chitchat	4	You're so boring
+q_chitchat	4	Are you better looking than me
+q_chitchat	4	Are you a lesbian
+q_chitchat	4	That wasn't funny.
+q_chitchat	4	You're not funny.
+q_chitchat	4	Sing a tune
+q_chitchat	4	Nice to meet you
+q_chitchat	4	What age are you
+q_chitchat	4	That was funny
+q_chitchat	4	Yes, that's right
+q_chitchat	4	Can you talk to me
+q_chitchat	4	I'm a lesbian
+q_chitchat	4	I feel so great
+q_chitchat	4	I didn't mean that
+q_chitchat	4	Do you have brothers
+q_chitchat	4	You are no longer employed
+q_chitchat	4	Pardon me
+q_chitchat	4	Be quiet
+q_chitchat	4	I hate you
+q_chitchat	4	Be more fun
+q_chitchat	4	Are you gay
+q_chitchat	4	Try to make some sense
+q_chitchat	4	Hi Cortana
+q_chitchat	4	Am I good-looking
+q_chitchat	4	Hi Siri
+q_chitchat	4	I want to go shopping
+q_chitchat	4	You're fired!
+q_chitchat	4	That wasn't true
+q_chitchat	4	I am not your friend
+q_chitchat	4	What do you eat
+q_chitchat	4	Where's your house
+q_chitchat	4	I don't get it
+q_chitchat	4	Not funny.
+q_chitchat	4	I'm sad today
+q_chitchat	4	What's your gender
+q_chitchat	4	Are you a boy
+q_chitchat	4	You're dumb
+q_chitchat	4	You're so basic
+q_chitchat	4	You're gonna be unemployed soon
+q_chitchat	4	Are you a spy
+q_chitchat	4	I'm furious
+q_chitchat	4	It's really nice to meet you
+q_chitchat	4	What are you doing
+q_chitchat	4	Am I a fool
+q_chitchat	4	I am here
+q_chitchat	4	Do you think I should ask him out
+q_chitchat	4	Haha
+q_chitchat	4	Is this thing on
+q_chitchat	4	I'm giving you a pink slip
+q_chitchat	4	Give me a joke
+q_chitchat	4	Who do you report to
+q_chitchat	4	How high can you jump
+q_chitchat	4	What is the meaning of life
+q_chitchat	4	Do you not like me
+q_chitchat	4	Can you play sports
+q_chitchat	4	Who created you
+q_chitchat	4	Who's your favorite team
+q_chitchat	4	Are you really happy
+q_faq	36.57143	What confidentiality rules are in place for reporting
+q_faq	36.57143	Where do I find my vacation balance
+q_faq	36.57143	"If I am out of sick, vacation or floating holidays, what are my options?"
+q_faq	36.57143	How important is visibility to earning higher rewards
+q_faq	36.57143	Where do I find my floating holiday balance
+q_faq	36.57143	What leave of absence policies does Microsoft have
+q_faq	36.57143	What are stock awards
+q_faq	36.57143	What confidentiality rules are in place for reporting
+q_faq	36.57143	Where do I find my vacation balance
+q_faq	36.57143	"If I am out of sick, vacation or floating holidays, what are my options?"
+q_faq	36.57143	How important is visibility to earning higher rewards
+q_faq	36.57143	Where do I find my floating holiday balance
+q_faq	36.57143	What leave of absence policies does Microsoft have
+q_faq	36.57143	What are stock awards

@@ -1,0 +1,2 @@
+Utterance	Intents
+be quiet	l_general, q_chitchat

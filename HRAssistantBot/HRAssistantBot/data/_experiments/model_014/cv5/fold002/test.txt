@@ -1,0 +1,237 @@
+Label	Weight	Text
+l_general	6.095238	oh cancel
+l_general	6.095238	i want to choose the right
+l_general	6.095238	no never mind
+l_general	6.095238	back to last step
+l_general	6.095238	add tasks to wunderlist
+l_general	6.095238	choose last
+l_general	6.095238	sorry
+l_general	6.095238	please return
+l_general	6.095238	say again
+l_general	6.095238	opt for the right
+l_general	6.095238	cancelled
+l_general	6.095238	last step
+l_general	6.095238	end it
+l_general	6.095238	yep
+l_general	6.095238	clear all items from the chores list .
+l_general	6.095238	anything
+l_general	6.095238	start over
+l_general	6.095238	repeat that
+l_general	6.095238	never mind
+l_general	6.095238	nothing please
+l_general	6.095238	boudoir photo shoot ballard
+l_general	6.095238	oh my god shut up
+l_general	6.095238	no no go back to
+l_general	6.095238	shut up be quiet
+l_general	6.095238	do nothing
+l_general	6.095238	i like the bottom one
+l_general	6.095238	done
+l_general	6.095238	nerver mind
+l_general	6.095238	none
+l_general	6.095238	fitness
+l_general	6.095238	submit it
+l_general	6.095238	what's up next
+l_general	6.095238	want to apply sick off
+l_general	6.095238	affordable insurance washington ave albany ny 12222 please
+l_general	6.095238	i don't want to select any one
+l_general	6.095238	choose the upper right one
+l_general	6.095238	neither
+l_general	6.095238	opt for the last one
+l_general	6.095238	no no no no stop talking
+l_general	6.095238	i don't want to choose any one
+l_general	6.095238	meeting my manager
+l_general	6.095238	i need real human help
+l_general	6.095238	i want to choose second one
+l_general	6.095238	can you help
+l_general	6.095238	stay fit
+l_general	6.095238	ojai apple picking
+l_general	6.095238	i want to choose the lower choice
+l_general	6.095238	be quiet now
+l_general	6.095238	go to the next three items
+l_general	6.095238	bring the previous one
+l_general	6.095238	show me the previous one
+l_general	6.095238	how can i get it
+l_general	6.095238	none none
+l_general	6.095238	let me clear all the notes created on last monday
+l_general	6.095238	pull up my appointment find out how much time i have before my next appointment
+l_general	6.095238	don't do that
+l_general	6.095238	i want to choose the last choice
+l_general	6.095238	my benefits
+l_general	6.095238	benefits & rewards
+l_general	6.095238	get back please
+l_general	6.095238	please begin again
+l_general	6.095238	select fourth one
+l_general	6.095238	restart
+l_general	6.095238	contact support
+l_general	6.095238	opt for any of it
+l_general	6.095238	no no cancel
+l_general	6.095238	update note of number one
+l_general	6.095238	add an event to visit 209 nashville gym
+l_general	6.095238	opt for right one
+l_general	6.095238	show me tomorrow ' s wedding party time
+l_general	6.095238	all set
+l_general	6.095238	select upper
+l_general	6.095238	back to
+l_general	6.095238	free time this afternoon please
+l_general	6.095238	rewards
+l_general	6.095238	is there any person i can talk to
+l_general	6.095238	just be quiet
+l_general	6.095238	i want the second one
+l_general	6.095238	apply vacations
+l_general	6.095238	stop talking
+l_general	6.095238	where i can find fishinger road dance class
+l_general	6.095238	end
+l_general	6.095238	show me the road to the church
+l_general	6.095238	opt for the second choice
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+q_chitchat	4	Do you know other chatbots
+q_chitchat	4	What are you
+q_chitchat	4	Have you met Cortana
+q_chitchat	4	Do you know me
+q_chitchat	4	Are you a swinger
+q_chitchat	4	What makes you think so
+q_chitchat	4	Can you talk to me
+q_chitchat	4	Be ridiculous
+q_chitchat	4	Nobody likes me
+q_chitchat	4	You fucked up
+q_chitchat	4	I think you're so pretty
+q_chitchat	4	How much do you love me
+q_chitchat	4	That was a joke
+q_chitchat	4	I'm tired
+q_chitchat	4	I wish I could hug you
+q_chitchat	4	Will you be my wife
+q_chitchat	4	You are useless
+q_chitchat	4	Happy Hannukah
+q_chitchat	4	Who is your creator
+q_chitchat	4	How are you
+q_chitchat	4	Why are you so boring
+q_chitchat	4	What do you want to know about me
+q_chitchat	4	When were you born
+q_chitchat	4	Youâ€™re ugly.
+q_chitchat	4	Can you sneeze
+q_chitchat	4	Who's your mom
+q_chitchat	4	I like you
+q_chitchat	4	Thank you
+q_chitchat	4	You're an asshole
+q_chitchat	4	Are you male
+q_chitchat	4	How happy are you
+q_chitchat	4	What can you help me with
+q_chitchat	4	Do you sing
+q_chitchat	4	I am a Republican
+q_chitchat	4	Accurate
+q_chitchat	4	BFFs forever
+q_chitchat	4	What's the name of your boss
+q_chitchat	4	Are you really happy
+q_chitchat	4	I'm despondent
+q_chitchat	4	Can you play sports
+q_chitchat	4	Not true
+q_chitchat	4	Do you know the meaning of life
+q_chitchat	4	Give me a fist bump
+q_chitchat	4	Am I good-looking
+q_chitchat	4	What is up
+q_chitchat	4	Are you my fan
+q_chitchat	4	Nobody cares about me
+q_chitchat	4	I'm feeling blue
+q_chitchat	4	I wish I weren't so alone
+q_chitchat	4	I want to spend the rest of my life with you
+q_chitchat	4	What state are you in
+q_chitchat	4	How are things
+q_chitchat	4	You are now unemployed
+q_chitchat	4	Evening
+q_chitchat	4	Do you get hungry
+q_chitchat	4	Do you have a name
+q_chitchat	4	My sincere thanks
+q_chitchat	4	Are you happy
+q_chitchat	4	I want you to be my husband
+q_chitchat	4	Do you love me
+q_chitchat	4	Are you attempting world domination
+q_chitchat	4	False
+q_chitchat	4	I'm lonely
+q_chitchat	4	I got a new haircut
+q_chitchat	4	What's your purpose
+q_chitchat	4	You're such an asshole
+q_chitchat	4	I wish you just go away.
+q_chitchat	4	Do you like baseball
+q_chitchat	4	I'm an engineer
+q_chitchat	4	What's your favorite food
+q_chitchat	4	I have 7 cats
+q_chitchat	4	What's your job
+q_chitchat	4	I want to be your friend.
+q_chitchat	4	Are you better looking than me
+q_chitchat	4	Do you love anyone
+q_chitchat	4	What do you mean by that
+q_chitchat	4	Give me a kiss
+q_chitchat	4	I adore you
+q_chitchat	4	How are you doing
+q_chitchat	4	Don't you ever sleep
+q_chitchat	4	Kiss me
+q_chitchat	4	I'm so sorry
+q_chitchat	4	Do you have a brother
+q_chitchat	4	No, that's not true
+q_chitchat	4	You're so happy
+q_chitchat	4	Go away
+q_chitchat	4	Are you gay
+q_chitchat	4	Who are you
+q_chitchat	4	Chat with me
+q_chitchat	4	Can you hear me
+q_chitchat	4	I can't think of anything I want to do
+q_chitchat	4	Good morning
+q_chitchat	4	Do you want to rule the world
+q_chitchat	4	Ha
+q_chitchat	4	Do you eat
+q_chitchat	4	What's the meaning of life
+q_chitchat	4	Goodbye
+q_chitchat	4	Hi Siri
+q_chitchat	4	I'm your biggest fan
+q_chitchat	4	You're the worst
+q_chitchat	4	Testing 1 2 3
+q_chitchat	4	Who's your daddy
+q_chitchat	4	Where do you come from
+q_chitchat	4	I am bored
+q_chitchat	4	That's so wrong.
+q_chitchat	4	I hate everything about you
+q_chitchat	4	Yes to that
+q_chitchat	4	How's your day going
+q_chitchat	4	What were you doing yesterday
+q_chitchat	4	Talk to me
+q_chitchat	4	Do you have a dad
+q_chitchat	4	I'm so lonely
+q_chitchat	4	Are you a boy
+q_chitchat	4	BRB
+q_chitchat	4	I am happy
+q_chitchat	4	Are you the singularity
+q_chitchat	4	You suck
+q_chitchat	4	Good night to you
+q_chitchat	4	That made no sense
+q_chitchat	4	Are you there
+q_chitchat	4	Be quiet
+q_chitchat	4	Hold on a sec
+q_chitchat	4	That wasn't true
+q_chitchat	4	You're so stupid
+q_chitchat	4	Are you with the FBI
+q_chitchat	4	Can you say anything else
+q_chitchat	4	You are so not pretty.
+q_chitchat	4	Heya
+q_faq	36.57143	Why are there two brokers to choose from
+q_faq	36.57143	Where do I find my floating holiday balance
+q_faq	36.57143	Are MS Poll responses anonymous
+q_faq	36.57143	Can we exclude an employee from the survey
+q_faq	36.57143	Who should I contact if I have unanswered questions
+q_faq	36.57143	What can I do to earn higher rewards
+q_faq	36.57143	How do my rewards compare with those of my peers
+q_faq	36.57143	Why are there two brokers to choose from
+q_faq	36.57143	Where do I find my floating holiday balance
+q_faq	36.57143	Are MS Poll responses anonymous
+q_faq	36.57143	Can we exclude an employee from the survey
+q_faq	36.57143	Who should I contact if I have unanswered questions
+q_faq	36.57143	What can I do to earn higher rewards
+q_faq	36.57143	How do my rewards compare with those of my peers

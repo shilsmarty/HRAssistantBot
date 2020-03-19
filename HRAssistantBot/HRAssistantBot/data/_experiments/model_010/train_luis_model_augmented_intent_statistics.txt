@@ -1,0 +1,5 @@
+No	Intent	Utterance Count	Utterance Average Length	Utterance Maximum Length	Utterance Minimum Length	Utterance Length StdDev
+0	l_general	390	19.851	79	3	11.363
+1	q_chitchat	634	17.292	44	2	7.06
+2	q_faq	25	48.28	107	21	21.24
+3	None	3	15.667	21	11	5.033

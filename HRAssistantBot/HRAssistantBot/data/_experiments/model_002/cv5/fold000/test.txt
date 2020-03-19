@@ -1,0 +1,227 @@
+Label	Weight	Text
+l_general	6.551282	mark state parks as favorite
+l_general	6.551282	some help
+l_general	6.551282	nerver mind
+l_general	6.551282	repeat that
+l_general	6.551282	choose top right
+l_general	6.551282	i said stop
+l_general	6.551282	i want the right one
+l_general	6.551282	i like the top right one
+l_general	6.551282	how soon will jack be free
+l_general	6.551282	shut up
+l_general	6.551282	can you help
+l_general	6.551282	do nothing
+l_general	6.551282	shut the fuck up
+l_general	6.551282	add tasks to wunderlist
+l_general	6.551282	i want to choose the left one
+l_general	6.551282	add fred george to onenote
+l_general	6.551282	no cancel
+l_general	6.551282	at grocery list add milk
+l_general	6.551282	open help
+l_general	6.551282	ok stop stop
+l_general	6.551282	show the next 3
+l_general	6.551282	clear last note
+l_general	6.551282	cancel cancel
+l_general	6.551282	what's the next 2
+l_general	6.551282	canceled
+l_general	6.551282	add a task to wunderlist
+l_general	6.551282	oh cancel
+l_general	6.551282	no be quiet
+l_general	6.551282	repeat
+l_general	6.551282	go back to the last one
+l_general	6.551282	opt for the lower choice
+l_general	6.551282	distance from taco bell to my location
+l_general	6.551282	customer service
+l_general	6.551282	dunmore pa sonic sounds friday morning please
+l_general	6.551282	just cancel it
+l_general	6.551282	i need some help
+l_general	6.551282	nobody cares stop talking
+l_general	6.551282	add to wish - list computer ram
+l_general	6.551282	hey stop
+l_general	6.551282	contact support
+l_general	6.551282	i want third one
+l_general	6.551282	b forty nine bus map brooklyn
+l_general	6.551282	cancel never mind
+l_general	6.551282	bring the previous one
+l_general	6.551282	can you clear mom note
+l_general	6.551282	turn over a new leaf
+l_general	6.551282	i love you to stop talking
+l_general	6.551282	drive me to the fast one
+l_general	6.551282	i mean stop listening
+l_general	6.551282	no stop
+l_general	6.551282	return to the previous one
+l_general	6.551282	choose the first choice
+l_general	6.551282	cancel that
+l_general	6.551282	" cancel all entries in the people to call " " note " " "
+l_general	6.551282	i need some assist
+l_general	6.551282	that ' s good
+l_general	6.551282	show more
+l_general	6.551282	back to
+l_general	6.551282	schaumburg covenant church schaumburg illinois please
+l_general	6.551282	go back please
+l_general	6.551282	go away
+l_general	6.551282	show me the next
+l_general	6.551282	neither one
+l_general	6.551282	never mind stop
+l_general	6.551282	any of it
+l_general	6.551282	opt for the left one
+l_general	6.551282	i want none of them
+l_general	6.551282	i am confirming keeping all items on lists
+l_general	6.551282	nashville humane society rover please
+l_general	6.551282	finished
+l_general	6.551282	choose the upper right one
+l_general	6.551282	get directions to uniondale high school
+l_general	6.551282	go back to
+l_general	6.551282	god shut up
+l_general	6.551282	exit exit
+l_general	6.551282	just be quiet
+l_general	6.551282	go back on
+l_general	6.551282	i like second
+None	51.1	i want to all of them
+None	51.1	i want to all of them
+None	51.1	i want to all of them
+None	51.1	i want to all of them
+None	51.1	i want to all of them
+None	51.1	i want to all of them
+None	51.1	i want to all of them
+None	51.1	i want to all of them
+None	51.1	i want to all of them
+None	51.1	i want to all of them
+q_chitchat	3.96124	How are things
+q_chitchat	3.96124	I have 7 cats
+q_chitchat	3.96124	Where are you
+q_chitchat	3.96124	Do you love me
+q_chitchat	3.96124	Are you here
+q_chitchat	3.96124	You're way off.
+q_chitchat	3.96124	Hello Alexa
+q_chitchat	3.96124	Do you like my hat
+q_chitchat	3.96124	I'm joyous
+q_chitchat	3.96124	Aren't you cheerful
+q_chitchat	3.96124	I want to lay down
+q_chitchat	3.96124	So sorry
+q_chitchat	3.96124	Do you smell
+q_chitchat	3.96124	You're not funny.
+q_chitchat	3.96124	I want you to be my husband
+q_chitchat	3.96124	My sincere thanks
+q_chitchat	3.96124	You're useless
+q_chitchat	3.96124	Do you dream
+q_chitchat	3.96124	There's nothing to do
+q_chitchat	3.96124	I'm sad today
+q_chitchat	3.96124	What do you think of me
+q_chitchat	3.96124	Are you intelligent
+q_chitchat	3.96124	Are you young
+q_chitchat	3.96124	Hi Siri
+q_chitchat	3.96124	What do you go by
+q_chitchat	3.96124	Are you happy
+q_chitchat	3.96124	You're very intelligent
+q_chitchat	3.96124	I don't understand
+q_chitchat	3.96124	Are you with the NSA
+q_chitchat	3.96124	I'm despondent
+q_chitchat	3.96124	What's your mom's name
+q_chitchat	3.96124	Bye
+q_chitchat	3.96124	So tired
+q_chitchat	3.96124	What can you help me with
+q_chitchat	3.96124	Do you have siblings
+q_chitchat	3.96124	Good night
+q_chitchat	3.96124	Are you spying on me
+q_chitchat	3.96124	Inaccurate
+q_chitchat	3.96124	I am not your friend
+q_chitchat	3.96124	Youâ€™re ugly.
+q_chitchat	3.96124	What makes you think that
+q_chitchat	3.96124	Are you a lesbian
+q_chitchat	3.96124	How high can you jump
+q_chitchat	3.96124	Can you ask me a question
+q_chitchat	3.96124	You're the best
+q_chitchat	3.96124	I want to lie down
+q_chitchat	3.96124	How beautiful am i
+q_chitchat	3.96124	Evening
+q_chitchat	3.96124	Zip it!
+q_chitchat	3.96124	Are you my fan
+q_chitchat	3.96124	How do you feel about working late
+q_chitchat	3.96124	How smart you are
+q_chitchat	3.96124	Are you a guy
+q_chitchat	3.96124	Where do you live
+q_chitchat	3.96124	Am I a good person
+q_chitchat	3.96124	I'm not following
+q_chitchat	3.96124	Are you friends with other bots
+q_chitchat	3.96124	I'm sorry
+q_chitchat	3.96124	Are you a person
+q_chitchat	3.96124	I'm so sorry
+q_chitchat	3.96124	You're a fuckup
+q_chitchat	3.96124	are you real or fake
+q_chitchat	3.96124	Cook me something
+q_chitchat	3.96124	Useless
+q_chitchat	3.96124	Who's prettier, me or you
+q_chitchat	3.96124	Do you know me
+q_chitchat	3.96124	I am here
+q_chitchat	3.96124	You're lame
+q_chitchat	3.96124	Are you a girl
+q_chitchat	3.96124	I beg your pardon
+q_chitchat	3.96124	I miss you so much!
+q_chitchat	3.96124	Say a joke
+q_chitchat	3.96124	How's your day
+q_chitchat	3.96124	Do I look good in blue
+q_chitchat	3.96124	You're so smart
+q_chitchat	3.96124	I am tall
+q_chitchat	3.96124	I just want to go to sleep
+q_chitchat	3.96124	That's awesome
+q_chitchat	3.96124	Do you pee
+q_chitchat	3.96124	That's not true.
+q_chitchat	3.96124	Are you with the CIA
+q_chitchat	3.96124	Are you around
+q_chitchat	3.96124	I'm so madqw  b
+q_chitchat	3.96124	Are you gay
+q_chitchat	3.96124	You're so happy
+q_chitchat	3.96124	Do you like computers
+q_chitchat	3.96124	Are you a fan of Alexa
+q_chitchat	3.96124	Why don't you ever stop talking
+q_chitchat	7.922481	I love you.
+q_chitchat	3.96124	Are you busy
+q_chitchat	3.96124	Night
+q_chitchat	3.96124	Are you a spy
+q_chitchat	3.96124	Do you know who I am
+q_chitchat	3.96124	I wish I weren't so alone
+q_chitchat	3.96124	Are you male
+q_chitchat	3.96124	Good morning
+q_chitchat	3.96124	Do you know other bots
+q_chitchat	3.96124	What do you do
+q_chitchat	3.96124	I can drive a car
+q_chitchat	3.96124	Just kidding
+q_chitchat	3.96124	Can you sleep
+q_chitchat	3.96124	Am I pretty
+q_chitchat	3.96124	Hi Cortana
+q_chitchat	3.96124	Do you sing
+q_chitchat	3.96124	What is love
+q_chitchat	3.96124	Are you hungry
+q_chitchat	3.96124	Do you play games
+q_chitchat	3.96124	I love my family.
+q_chitchat	3.96124	You're smart
+q_chitchat	3.96124	Have you ever sung a song
+q_chitchat	3.96124	Are you bisexual
+q_chitchat	3.96124	Which baseball teams do you like
+q_chitchat	3.96124	Who am I
+q_chitchat	3.96124	You are fired
+q_chitchat	3.96124	Hi Google
+q_chitchat	3.96124	Are you free
+q_chitchat	3.96124	Heya
+q_chitchat	3.96124	Do you think dragons are cool
+q_chitchat	3.96124	Are you a man
+q_chitchat	3.96124	What do you think about me
+q_chitchat	3.96124	Hold on a sec
+q_chitchat	3.96124	I hate everything about you
+q_chitchat	3.96124	I'm so sleepy
+q_chitchat	3.96124	I'm feeling blue
+q_chitchat	3.96124	How much do you love me
+q_chitchat	3.96124	I love music.
+q_chitchat	3.96124	Say something dumb
+q_chitchat	3.96124	You're an asshole
+q_faq	51.1	What is the Enterprise Bot Template
+q_faq	51.1	What is the Enterprise Bot Template
+q_faq	51.1	What is the Enterprise Bot Template
+q_faq	51.1	What is the Enterprise Bot Template
+q_faq	51.1	What is the Enterprise Bot Template
+q_faq	51.1	What is the Enterprise Bot Template
+q_faq	51.1	What is the Enterprise Bot Template
+q_faq	51.1	What is the Enterprise Bot Template
+q_faq	51.1	What is the Enterprise Bot Template
+q_faq	51.1	What is the Enterprise Bot Template

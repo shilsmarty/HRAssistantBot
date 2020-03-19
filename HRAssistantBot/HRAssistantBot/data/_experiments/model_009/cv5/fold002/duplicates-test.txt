@@ -1,0 +1,2 @@
+Utterance	Intents
+pardon	l_general, q_chitchat
