@@ -1,0 +1,237 @@
+Label	Weight	Text
+l_general	6.095238	show previous
+l_general	6.095238	free time this afternoon please
+l_general	6.095238	don't do that anymore
+l_general	6.095238	stayfit
+l_general	6.095238	select any choice
+l_general	6.095238	apply vacations
+l_general	6.095238	my benefits
+l_general	6.095238	how can i get it
+l_general	6.095238	i want fourth
+l_general	6.095238	address to city of atlanta corrections
+l_general	6.095238	view tom chros availability
+l_general	6.095238	display weekend plans
+l_general	6.095238	none none
+l_general	6.095238	voice activated reading of appointments this week
+l_general	6.095238	exit exit
+l_general	6.095238	create note with notepad
+l_general	6.095238	travel suggestions
+l_general	6.095238	no cancel that
+l_general	6.095238	go to the next one
+l_general	6.095238	nothing please
+l_general	6.095238	previous one
+l_general	6.095238	say again
+l_general	6.095238	nobody cares stop talking
+l_general	6.095238	none of those
+l_general	6.095238	god shut up
+l_general	6.095238	go to the next three items
+l_general	6.095238	vacation
+l_general	6.095238	to buy list
+l_general	6.095238	start over
+l_general	6.095238	add to wish - list computer ram
+l_general	6.095238	santa barbara maine postal please
+l_general	6.095238	go back to the last one
+l_general	6.095238	mark state parks as favorite
+l_general	6.095238	is there any real person
+l_general	6.095238	nashville humane society rover please
+l_general	6.095238	none of them thank you
+l_general	6.095238	no no cancel it
+l_general	6.095238	is keil available tomorrow
+l_general	6.095238	no never mind
+l_general	6.095238	schaumburg covenant church schaumburg illinois please
+l_general	6.095238	at grocery list add milk
+l_general	6.095238	back
+l_general	6.095238	i love you to stop talking
+l_general	6.095238	it's finished
+l_general	6.095238	distance from taco bell to my location
+l_general	6.095238	ok stop stop
+l_general	6.095238	get back to the last one
+l_general	6.095238	cancel app
+l_general	6.095238	show the next 4 items
+l_general	6.095238	show more
+l_general	6.095238	show the next one
+l_general	6.095238	help
+l_general	6.095238	what's next
+l_general	6.095238	i want left
+l_general	6.095238	check friday at 9 am
+l_general	6.095238	check if i have time for a meeting tonight
+l_general	6.095238	opt for a random one
+l_general	6.095238	add tasks to wunderlist
+l_general	6.095238	all set
+l_general	6.095238	get directions to uniondale high school
+l_general	6.095238	i need real human help
+l_general	6.095238	select the first
+l_general	6.095238	restart
+l_general	6.095238	and after that
+l_general	6.095238	get for me rilo eagle street address
+l_general	6.095238	total rewards
+l_general	6.095238	nerver mind
+l_general	6.095238	just be
+l_general	6.095238	how many days are there between march 13th 2015 and today
+l_general	6.095238	help me in clearing the shopping note
+l_general	6.095238	ojai apple picking
+l_general	6.095238	i want bottom
+l_general	6.095238	i want to choose the lower choice
+l_general	6.095238	again
+l_general	6.095238	pull up my appointment find out how much time i have before my next appointment
+l_general	6.095238	choose the upper right one
+l_general	6.095238	i want to choose second one
+l_general	6.095238	i mean stop listening
+l_general	6.095238	show me the previous one
+l_general	6.095238	choose anyone
+l_general	6.095238	no cancel it
+l_general	6.095238	i want the first
+l_general	6.095238	i want to choose bottom one
+l_general	6.095238	a new note of name business solutions
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+q_chitchat	4	Why do you say the same thing all the time
+q_chitchat	4	That's inaccurate.
+q_chitchat	4	I appreciate it
+q_chitchat	4	Don't you ever sleep
+q_chitchat	4	Are you a person
+q_chitchat	4	Nobody cares about me
+q_chitchat	4	Which one of us is more beautiful
+q_chitchat	4	Cool!
+q_chitchat	4	Can you sleep
+q_chitchat	4	Are you a fan of tech
+q_chitchat	4	Good evening to you
+q_chitchat	4	You're no fun
+q_chitchat	4	I'm full of sadness
+q_chitchat	4	Ha
+q_chitchat	4	Do you know who I am
+q_chitchat	4	I'm an engineer
+q_chitchat	4	Say something funny
+q_chitchat	4	Haha
+q_chitchat	4	Do you like computers
+q_chitchat	4	Be quiet
+q_chitchat	4	I'm joyous
+q_chitchat	4	Yes
+q_chitchat	4	How intelligent are you
+q_chitchat	4	Why
+q_chitchat	4	I just want to go to sleep
+q_chitchat	4	I hate everything about you
+q_chitchat	4	Are you busy
+q_chitchat	4	Are you a woman
+q_chitchat	4	Try to make some sense
+q_chitchat	4	Are you spying on me
+q_chitchat	4	I'm so lonely
+q_chitchat	4	That's right
+q_chitchat	4	Are you really happy
+q_chitchat	4	Are you queer
+q_chitchat	4	Do you like my hat
+q_chitchat	4	How was your day
+q_chitchat	4	Say a silly thing
+q_chitchat	4	What's your mom's name
+q_chitchat	4	What's happening
+q_chitchat	4	Where should I go on vacation
+q_chitchat	4	How are you today
+q_chitchat	4	You are fired
+q_chitchat	4	Who's prettier, me or you
+q_chitchat	4	I think you're swell
+q_chitchat	4	It's really nice to meet you
+q_chitchat	4	I'm furious
+q_chitchat	4	You are so annoying!
+q_chitchat	4	Are you young
+q_chitchat	4	Do you sing
+q_chitchat	4	How can you help me
+q_chitchat	4	I want to go shopping
+q_chitchat	4	Omg sorry
+q_chitchat	4	Aren't you chipper
+q_chitchat	4	Do you hate me
+q_chitchat	4	I am hungry
+q_chitchat	4	Who do you report to
+q_chitchat	4	Yes, that's true
+q_chitchat	4	You're the worst
+q_chitchat	4	Can you hear me now
+q_chitchat	4	Do you know other bots
+q_chitchat	4	You're hilarious
+q_chitchat	4	That's not true.
+q_chitchat	4	No, that's not true
+q_chitchat	4	Are you prettier than me
+q_chitchat	4	I am tired
+q_chitchat	4	Who's your master
+q_chitchat	4	Who do you love
+q_chitchat	4	That wasn't funny.
+q_chitchat	4	I didn't mean that
+q_chitchat	4	You look ugly.
+q_chitchat	4	I want to lie down
+q_chitchat	4	Are you friends with other bots
+q_chitchat	4	I wish you would say something else
+q_chitchat	4	What country are you from
+q_chitchat	4	Will you be my wife
+q_chitchat	4	What's your gender
+q_chitchat	4	I have 7 cats
+q_chitchat	4	Who created you
+q_chitchat	4	Can you chat with me
+q_chitchat	4	I'm cracking up
+q_chitchat	4	That was a joke
+q_chitchat	4	Are you a swinger
+q_chitchat	4	Are you human
+q_chitchat	4	Zip it!
+q_chitchat	4	You are now unemployed
+q_chitchat	4	It's a pleasure to meet you
+q_chitchat	4	You're so funny.
+q_chitchat	4	Nice to meet you
+q_chitchat	4	I'm giving you a pink slip
+q_chitchat	4	What's your boss' name
+q_chitchat	4	Butterface.
+q_chitchat	4	That doesn't make sense
+q_chitchat	4	Who's your boss
+q_chitchat	4	Are you a man
+q_chitchat	4	Testing
+q_chitchat	4	Talk to me
+q_chitchat	4	Be silly
+q_chitchat	4	Do you have siblings
+q_chitchat	4	I'm famished
+q_chitchat	4	What do you think about love
+q_chitchat	4	Not funny.
+q_chitchat	4	What kinds of things can you do
+q_chitchat	4	Good night to you
+q_chitchat	4	Getting tired of you
+q_chitchat	4	What other bots do you know
+q_chitchat	4	Cook me something
+q_chitchat	4	Am I good-looking
+q_chitchat	4	Useless
+q_chitchat	4	Ask me a question.
+q_chitchat	4	Do you know any jokes
+q_chitchat	4	Who are you
+q_chitchat	4	Should I try out for soccer
+q_chitchat	4	Who owns you
+q_chitchat	4	Who's smarter, me or you
+q_chitchat	4	I want to lay down
+q_chitchat	4	I'm so sad
+q_chitchat	4	Do you like me
+q_chitchat	4	Are you selling my secrets
+q_chitchat	4	You are so bad at this.
+q_chitchat	4	What's the name of your boss
+q_chitchat	4	What do you do
+q_chitchat	4	You can't work for me anymore
+q_chitchat	4	Are you smart
+q_chitchat	4	I'm sad today
+q_chitchat	4	How much more awesome can you get
+q_chitchat	4	Are you free
+q_chitchat	4	Are you hungry
+q_chitchat	4	Are you selling my data
+q_faq	36.57143	Can we exclude an employee from the survey
+q_faq	36.57143	What can I do to get promoted
+q_faq	36.57143	Where do I find my floating holiday balance
+q_faq	36.57143	What can I do to earn higher rewards
+q_faq	36.57143	How do I report my used sick leave or time away from work for a medical or dental appointment
+q_faq	36.57143	How do I report my floating holidays
+q_faq	36.57143	How important is visibility to earning higher rewards
+q_faq	36.57143	Can we exclude an employee from the survey
+q_faq	36.57143	What can I do to get promoted
+q_faq	36.57143	Where do I find my floating holiday balance
+q_faq	36.57143	What can I do to earn higher rewards
+q_faq	36.57143	How do I report my used sick leave or time away from work for a medical or dental appointment
+q_faq	36.57143	How do I report my floating holidays
+q_faq	36.57143	How important is visibility to earning higher rewards

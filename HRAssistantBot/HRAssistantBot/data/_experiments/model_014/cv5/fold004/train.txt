@@ -1,0 +1,886 @@
+Label	Weight	Text
+l_general	1.52381	select my current location
+l_general	1.52381	i like the third choice
+l_general	1.52381	help
+l_general	1.52381	open help
+l_general	1.52381	i ' m at home
+l_general	1.52381	distance from taco bell to my location
+l_general	1.52381	display weekend plans
+l_general	1.52381	previous one please
+l_general	1.52381	uani street
+l_general	1.52381	select the bottom choice
+l_general	1.52381	neither one of them
+l_general	1.52381	never mind cancel that
+l_general	1.52381	get for me rilo eagle street address
+l_general	1.52381	i need help
+l_general	1.52381	nothing never mind
+l_general	1.52381	address to city of atlanta corrections
+l_general	1.52381	can you help me
+l_general	1.52381	opt for last
+l_general	1.52381	check friday at 9 am
+l_general	1.52381	total rewards
+l_general	1.52381	save the date may 17 pictures party
+l_general	1.52381	check lee ' s calender
+l_general	1.52381	i need some assist
+l_general	1.52381	add a new task finish assignment
+l_general	1.52381	back please
+l_general	1.52381	opt for the lower choice
+l_general	1.52381	hey stop
+l_general	1.52381	what's the next 2
+l_general	1.52381	holomap stockholm metro (3d map) please
+l_general	1.52381	get back to last
+l_general	1.52381	okay i got it
+l_general	1.52381	who can help me
+l_general	1.52381	shut up quiet
+l_general	1.52381	no cancel
+l_general	1.52381	come on stop
+l_general	1.52381	put applebee ' s on favorite list
+l_general	1.52381	finished
+l_general	1.52381	show the next 4 items
+l_general	1.52381	customer service
+l_general	1.52381	some help
+l_general	1.52381	i want fourth
+l_general	1.52381	just cancel it
+l_general	1.52381	quiet
+l_general	1.52381	restart it
+l_general	1.52381	and after that
+l_general	1.52381	is there any real person
+l_general	1.52381	i want to choose lower right
+l_general	1.52381	turn off stop
+l_general	1.52381	immigration
+l_general	1.52381	i want right one
+l_general	1.52381	sick oof
+l_general	1.52381	recommend benefits
+l_general	1.52381	add friends to party list in memos
+l_general	1.52381	ok stop stop
+l_general	1.52381	yes .
+l_general	1.52381	back
+l_general	1.52381	go forward
+l_general	1.52381	i am confirming keeping all items on lists
+l_general	1.52381	a new note please
+l_general	1.52381	say again please
+l_general	1.52381	stop please
+l_general	1.52381	show more
+l_general	1.52381	choose the bottom left
+l_general	1.52381	go back to last one
+l_general	1.52381	calendar i ' ll be at the garage from 8 till 3 this saturday
+l_general	1.52381	choose the upper left choice
+l_general	1.52381	human service
+l_general	1.52381	apply leave
+l_general	1.52381	opt for left
+l_general	1.52381	go back to the last one
+l_general	1.52381	finish
+l_general	1.52381	sorry, don't do it
+l_general	1.52381	go back on
+l_general	1.52381	i need manual customer service
+l_general	1.52381	i want to talk to a human
+l_general	1.52381	can you clear mom note
+l_general	1.52381	opt for the left one
+l_general	1.52381	go away
+l_general	1.52381	tell me the event details
+l_general	1.52381	to buy list
+l_general	1.52381	is there any real human
+l_general	1.52381	choose anyone
+l_general	1.52381	dismiss
+l_general	1.52381	no shut up
+l_general	1.52381	none of those
+l_general	1.52381	how to do it
+l_general	1.52381	what after that
+l_general	1.52381	show me samuel ' s availability for tuesday morning
+l_general	1.52381	add imax theater to my upcoming events
+l_general	1.52381	repeat
+l_general	1.52381	go to the previous one
+l_general	1.52381	it's finished
+l_general	1.52381	please help
+l_general	1.52381	go back to
+l_general	1.52381	" cancel all entries in the people to call " " note " " "
+l_general	1.52381	say that again
+l_general	1.52381	where i am driving right now
+l_general	1.52381	mark state parks as favorite
+l_general	1.52381	any of it
+l_general	1.52381	pardon
+l_general	1.52381	select the last choice
+l_general	1.52381	is there any help
+l_general	1.52381	exit stop
+l_general	1.52381	add mark to guest list
+l_general	1.52381	how can i clear my notes
+l_general	1.52381	display the fastest way to san antonio from austin
+l_general	1.52381	never mind cancel
+l_general	1.52381	move to the next one
+l_general	1.52381	neither one
+l_general	1.52381	i want third one
+l_general	1.52381	select no.5
+l_general	1.52381	tar
+l_general	1.52381	i want left
+l_general	1.52381	time & absense
+l_general	1.52381	i want the left
+l_general	1.52381	legal
+l_general	1.52381	no no cancel it
+l_general	1.52381	i like the first one
+l_general	1.52381	go to the next one
+l_general	1.52381	select the upper right
+l_general	1.52381	add oatmeal to shopping list .
+l_general	1.52381	choose last one
+l_general	1.52381	please clear the untitled notes for me
+l_general	1.52381	waffles recipe is my new note to be created
+l_general	1.52381	get back
+l_general	1.52381	choose one of it randomly
+l_general	1.52381	discounts
+l_general	1.52381	bend oregon exotic restaurants please
+l_general	1.52381	it ' s okay from me
+l_general	1.52381	attorney
+l_general	1.52381	go back please
+l_general	1.52381	i have not heard
+l_general	1.52381	b forty nine bus map brooklyn
+l_general	1.52381	be quiet
+l_general	1.52381	choose no.2
+l_general	1.52381	return
+l_general	1.52381	display the fastest crossing across the sahara desert
+l_general	1.52381	exit exit
+l_general	1.52381	none none of them
+l_general	1.52381	do i have anything on wednesday
+l_general	1.52381	baby just be quiet
+l_general	1.52381	i need some help
+l_general	1.52381	i want to choose the fourth
+l_general	1.52381	save the current note
+l_general	1.52381	view tom chros availability
+l_general	1.52381	what is the previous
+l_general	1.52381	travel suggestions
+l_general	1.52381	cancel it
+l_general	1.52381	finished with
+l_general	1.52381	show the next two options
+l_general	1.52381	don't do that anymore
+l_general	1.52381	no stop
+l_general	1.52381	bbq near olympia wa please
+l_general	1.52381	day off
+l_general	1.52381	none of these
+l_general	1.52381	start again
+l_general	1.52381	type in notepad
+l_general	1.52381	show previous
+l_general	1.52381	what was that again
+l_general	1.52381	i am finished
+l_general	1.52381	tacoma please
+l_general	1.52381	clear for me all the dummy notes
+l_general	1.52381	add fred george to onenote
+l_general	1.52381	i need to go to the next one
+l_general	1.52381	opt for the second
+l_general	1.52381	what about the last
+l_general	1.52381	show me the next
+l_general	1.52381	repeat please
+l_general	1.52381	oh cancel
+l_general	1.52381	i want to choose the right
+l_general	1.52381	no never mind
+l_general	1.52381	back to last step
+l_general	1.52381	add tasks to wunderlist
+l_general	1.52381	choose last
+l_general	1.52381	sorry
+l_general	1.52381	please return
+l_general	1.52381	say again
+l_general	1.52381	opt for the right
+l_general	1.52381	cancelled
+l_general	1.52381	last step
+l_general	1.52381	end it
+l_general	1.52381	yep
+l_general	1.52381	clear all items from the chores list .
+l_general	1.52381	anything
+l_general	1.52381	start over
+l_general	1.52381	repeat that
+l_general	1.52381	never mind
+l_general	1.52381	nothing please
+l_general	1.52381	boudoir photo shoot ballard
+l_general	1.52381	oh my god shut up
+l_general	1.52381	no no go back to
+l_general	1.52381	shut up be quiet
+l_general	1.52381	do nothing
+l_general	1.52381	i like the bottom one
+l_general	1.52381	done
+l_general	1.52381	nerver mind
+l_general	1.52381	none
+l_general	1.52381	fitness
+l_general	1.52381	submit it
+l_general	1.52381	what's up next
+l_general	1.52381	want to apply sick off
+l_general	1.52381	affordable insurance washington ave albany ny 12222 please
+l_general	1.52381	i don't want to select any one
+l_general	1.52381	choose the upper right one
+l_general	1.52381	neither
+l_general	1.52381	opt for the last one
+l_general	1.52381	no no no no stop talking
+l_general	1.52381	i don't want to choose any one
+l_general	1.52381	meeting my manager
+l_general	1.52381	i need real human help
+l_general	1.52381	i want to choose second one
+l_general	1.52381	can you help
+l_general	1.52381	stay fit
+l_general	1.52381	ojai apple picking
+l_general	1.52381	i want to choose the lower choice
+l_general	1.52381	be quiet now
+l_general	1.52381	go to the next three items
+l_general	1.52381	bring the previous one
+l_general	1.52381	show me the previous one
+l_general	1.52381	how can i get it
+l_general	1.52381	none none
+l_general	1.52381	let me clear all the notes created on last monday
+l_general	1.52381	pull up my appointment find out how much time i have before my next appointment
+l_general	1.52381	don't do that
+l_general	1.52381	i want to choose the last choice
+l_general	1.52381	my benefits
+l_general	1.52381	benefits & rewards
+l_general	1.52381	get back please
+l_general	1.52381	please begin again
+l_general	1.52381	select fourth one
+l_general	1.52381	restart
+l_general	1.52381	contact support
+l_general	1.52381	opt for any of it
+l_general	1.52381	no no cancel
+l_general	1.52381	update note of number one
+l_general	1.52381	add an event to visit 209 nashville gym
+l_general	1.52381	opt for right one
+l_general	1.52381	show me tomorrow ' s wedding party time
+l_general	1.52381	all set
+l_general	1.52381	select upper
+l_general	1.52381	back to
+l_general	1.52381	free time this afternoon please
+l_general	1.52381	rewards
+l_general	1.52381	is there any person i can talk to
+l_general	1.52381	just be quiet
+l_general	1.52381	i want the second one
+l_general	1.52381	apply vacations
+l_general	1.52381	stop talking
+l_general	1.52381	where i can find fishinger road dance class
+l_general	1.52381	end
+l_general	1.52381	show me the road to the church
+l_general	1.52381	opt for the second choice
+l_general	1.52381	add a new event on 27 - apr
+l_general	1.52381	my god shut up
+l_general	1.52381	choose top right one
+l_general	1.52381	tesco ' s catterick garrison address please
+l_general	1.52381	at grocery list add milk
+l_general	1.52381	please do nothing
+l_general	1.52381	add to wish - list computer ram
+l_general	1.52381	i want to choose the first one
+l_general	1.52381	back to the last one
+l_general	1.52381	benefits
+l_general	1.52381	show me the route to west avenue miami beach
+l_general	1.52381	i love you to stop talking
+l_general	1.52381	schaumburg covenant church schaumburg illinois please
+l_general	1.52381	cancel never mind
+l_general	1.52381	opt for a random one
+l_general	1.52381	nashville humane society rover please
+l_general	1.52381	select lower one
+l_general	1.52381	i want none of them
+l_general	1.52381	i want to choose the left one
+l_general	1.52381	show me the route to mother ' s home
+l_general	1.52381	select any choice
+l_general	1.52381	is keil available tomorrow
+l_general	1.52381	leave
+l_general	1.52381	i need support
+l_general	1.52381	select third
+l_general	1.52381	any help
+l_general	1.52381	never mind stop
+l_general	1.52381	i like second
+l_general	1.52381	i like the top right one
+l_general	1.52381	what
+l_general	1.52381	i said stop
+l_general	1.52381	create my favorites note
+l_general	1.52381	what about next one
+l_general	1.52381	just be
+l_general	1.52381	back to last
+l_general	1.52381	i want to choose right
+l_general	1.52381	previous one
+l_general	1.52381	quit
+l_general	1.52381	can you set a note up to mom
+l_general	1.52381	choose the first choice
+l_general	1.52381	get directions to uniondale high school
+l_general	1.52381	the meeting will last for one hour
+l_general	1.52381	when is paul available
+l_general	1.52381	i want the first
+l_general	1.52381	all finished
+l_general	1.52381	create note with notepad
+l_general	1.52381	show the previous one
+l_general	1.52381	what before that
+l_general	1.52381	what did you say
+l_general	1.52381	cancel app
+l_general	1.52381	that ' s good
+l_general	1.52381	vacation
+l_general	1.52381	help me in clearing the shopping note
+l_general	1.52381	santa barbara maine postal please
+l_general	1.52381	clear my save notes
+l_general	1.52381	anyone is fine
+l_general	1.52381	add my current location as home
+l_general	1.52381	is the distance betwee the zoo and my current location thirteen miles
+l_general	1.52381	neither of those
+l_general	1.52381	start it over
+l_general	1.52381	any one is ok
+l_general	1.52381	what's more
+l_general	1.52381	cancel cancel
+l_general	1.52381	search for meetings with chris
+l_general	1.52381	turn off
+l_general	1.52381	i like second one
+l_general	1.52381	just cancel
+l_general	1.52381	travel advisory
+l_general	1.52381	stayfit
+l_general	1.52381	i want bottom
+l_general	1.52381	clear last note
+l_general	1.52381	select a random one
+l_general	1.52381	check if i have time for a meeting tonight
+l_general	1.52381	dunmore pa sonic sounds friday morning please
+l_general	1.52381	select the third one
+l_general	1.52381	travel advisory to india
+l_general	1.52381	send lighter fluid to onenote
+l_general	1.52381	check - in room three forty seven
+l_general	1.52381	clear and start again
+l_general	1.52381	show the next one
+l_general	1.52381	visa
+l_general	1.52381	get back to the last one
+l_general	1.52381	start over it
+l_general	1.52381	travel
+None	51.2	all of them
+None	51.2	i want them all
+None	51.2	all of them
+None	51.2	i want them all
+None	51.2	all of them
+None	51.2	i want them all
+None	51.2	all of them
+None	51.2	i want them all
+None	51.2	all of them
+None	51.2	i want them all
+q_chitchat	1	What's your gender
+q_chitchat	1	Am I a fool
+q_chitchat	1	I think you're swell
+q_chitchat	1	Are you a woman
+q_chitchat	1	I'm in love.
+q_chitchat	1	I think you're great
+q_chitchat	1	Are you dumb
+q_chitchat	1	You are fired
+q_chitchat	1	Hello
+q_chitchat	1	Hello Cortana
+q_chitchat	1	How beautiful am i
+q_chitchat	1	You're funny
+q_chitchat	1	What is wrong with you!
+q_chitchat	1	Cool!
+q_chitchat	1	What should I do
+q_chitchat	1	I love my family.
+q_chitchat	1	Can't you change your answers
+q_chitchat	1	Having a good day
+q_chitchat	1	Useless
+q_chitchat	1	Do you like Alexa
+q_chitchat	1	What do you think about Siri
+q_chitchat	1	I am here
+q_chitchat	1	I'm just kidding around
+q_chitchat	1	Yes, that's true
+q_chitchat	1	What do you do
+q_chitchat	1	You're a fuckup
+q_chitchat	1	What age are you
+q_chitchat	1	I wish you would say something else
+q_chitchat	1	You're nice!
+q_chitchat	1	I'm furious
+q_chitchat	1	I'm all tuckered out
+q_chitchat	1	Here I am
+q_chitchat	1	You are so annoying!
+q_chitchat	1	Why do you say the same thing all the time
+q_chitchat	1	Who do you report to
+q_chitchat	1	Why do you hate me
+q_chitchat	1	I'm bored out of my mind
+q_chitchat	1	Pardon me
+q_chitchat	1	Do you know other digital agents
+q_chitchat	1	Do you like Siri
+q_chitchat	1	Are you a person
+q_chitchat	1	What's your favorite activity
+q_chitchat	1	It's a pleasure to meet you
+q_chitchat	1	Are you hungry
+q_chitchat	1	Yes, that's right
+q_chitchat	1	So sorry
+q_chitchat	1	Hi there!
+q_chitchat	1	What is the answer to the universe
+q_chitchat	1	You must hate me.
+q_chitchat	1	I am not your friend
+q_chitchat	1	What are you doing tomorrow
+q_chitchat	1	You're useless
+q_chitchat	1	What should I call you
+q_chitchat	1	What can you do
+q_chitchat	1	What do you go by
+q_chitchat	1	Should I try out for soccer
+q_chitchat	1	Yes
+q_chitchat	1	I'm sad today
+q_chitchat	1	Do you smell
+q_chitchat	1	You seem really smart
+q_chitchat	1	Hello Siri
+q_chitchat	1	You are my favorite
+q_chitchat	1	I love New York.
+q_chitchat	1	Who's your favorite singer
+q_chitchat	1	Am I a good person
+q_chitchat	1	Do you think I should ask him out
+q_chitchat	1	When will you shut up
+q_chitchat	1	Why
+q_chitchat	1	I'm cracking up
+q_chitchat	1	Ask me anything.
+q_chitchat	1	Bingo
+q_chitchat	1	You seem really happy
+q_chitchat	1	That wasn't funny.
+q_chitchat	1	Am I pretty
+q_chitchat	1	I think you're dreamy
+q_chitchat	1	Do you think I should ask her out
+q_chitchat	1	Is this thing on
+q_chitchat	1	Back in a minute
+q_chitchat	1	Sry
+q_chitchat	1	What kind of food do you like
+q_chitchat	1	Do you sweat
+q_chitchat	1	That's hilarious
+q_chitchat	1	Till we meet again
+q_chitchat	1	Bye
+q_chitchat	1	Can you hear me now
+q_chitchat	1	What color do you like
+q_chitchat	1	Who created you
+q_chitchat	1	You're not making sense
+q_chitchat	1	Do you think dragons are cool
+q_chitchat	1	What do you think of me
+q_chitchat	1	Quiet, you
+q_chitchat	1	How do you feel about working late
+q_chitchat	1	Who is your mother
+q_chitchat	1	Are you female
+q_chitchat	1	You're welcome
+q_chitchat	1	I'm sorry
+q_chitchat	1	What's up
+q_chitchat	1	Nope, false
+q_chitchat	1	I'm so glad to meet you
+q_chitchat	1	Nighty night
+q_chitchat	1	Shush!
+q_chitchat	1	You're rad.
+q_chitchat	1	I'm so madqw  b
+q_chitchat	1	I want to lay down
+q_chitchat	1	I'm so sad
+q_chitchat	1	You're boring
+q_chitchat	1	What do you like to sing best
+q_chitchat	1	Kthx
+q_chitchat	1	Are you HAL
+q_chitchat	1	Are you a girl or a boy
+q_chitchat	1	I'm a lesbian
+q_chitchat	1	Hum a tune
+q_chitchat	1	What are you doing
+q_chitchat	1	I didn't mean that
+q_chitchat	1	That's not funny.
+q_chitchat	1	I hope you like me
+q_chitchat	1	Are you male or female
+q_chitchat	1	Do you ever get hungry
+q_chitchat	1	I don't get it
+q_chitchat	1	Night
+q_chitchat	1	Be more fun
+q_chitchat	1	I'm not following
+q_chitchat	1	Do you have a mom
+q_chitchat	1	What do you think about AI
+q_chitchat	1	I appreciate it
+q_chitchat	1	Where's your house
+q_chitchat	1	Stop talking
+q_chitchat	1	Can you sing a song
+q_chitchat	1	I want you to like me
+q_chitchat	1	Hug me
+q_chitchat	1	Shut up
+q_chitchat	1	LOL
+q_chitchat	1	There's nothing to do
+q_chitchat	1	Do you play games
+q_chitchat	1	Do you have sisters
+q_chitchat	1	You're dumb
+q_chitchat	1	Hi Google
+q_chitchat	1	Are you in love with me
+q_chitchat	1	I'm chewing gum right now
+q_chitchat	1	Thanks
+q_chitchat	1	Say something
+q_chitchat	1	What's going on
+q_chitchat	1	What makes you think that
+q_chitchat	1	What's your mom's name
+q_chitchat	1	Hi Alexa
+q_chitchat	1	I need a hug
+q_chitchat	1	Who's your dad
+q_chitchat	1	What's happening
+q_chitchat	1	Do you have a sister
+q_chitchat	1	What's your favorite song
+q_chitchat	1	Where are you located
+q_chitchat	1	What's your opinion of me
+q_chitchat	1	That was funny
+q_chitchat	1	You're lame
+q_chitchat	1	You're awful
+q_chitchat	1	Are you my assistant
+q_chitchat	1	You look ugly.
+q_chitchat	1	Later
+q_chitchat	1	Do I look okay
+q_chitchat	1	You're no fun
+q_chitchat	1	You honestly could not be more uninteresting
+q_chitchat	1	Sing a tune
+q_chitchat	1	Who's your boss
+q_chitchat	1	What kind of candy do you like
+q_chitchat	1	Are you a fan of tech
+q_chitchat	1	It's my pleasure
+q_chitchat	1	Aren't you cheerful
+q_chitchat	1	You're smart
+q_chitchat	1	I am hungry
+q_chitchat	1	Are you a fan of country music
+q_chitchat	1	I think you hate me.
+q_chitchat	1	That's not accurate
+q_chitchat	1	Who's your master
+q_chitchat	1	Do you pee
+q_chitchat	1	Are you a man or a woman
+q_chitchat	1	Are you pansexual
+q_chitchat	1	Be my friend
+q_chitchat	1	I'm really sad
+q_chitchat	1	Ask me something.
+q_chitchat	1	How much more awesome can you get
+q_chitchat	1	Sing a song
+q_chitchat	1	I hate you
+q_chitchat	1	You are so bad at this.
+q_chitchat	1	I miss you
+q_chitchat	1	Do you get tired
+q_chitchat	1	Go to hell
+q_chitchat	1	You're stupid
+q_chitchat	1	Do you have brothers
+q_chitchat	1	Are you queer
+q_chitchat	1	Welcome to springtime!
+q_chitchat	1	I'm tired of you
+q_chitchat	1	Give me some sugar
+q_chitchat	1	How old are you
+q_chitchat	1	Who do you love
+q_chitchat	1	Morning
+q_chitchat	1	Can you chat with me
+q_chitchat	1	Are you with the NSA
+q_chitchat	1	Are you intelligent
+q_chitchat	1	Do you know any jokes
+q_chitchat	1	Why don't you ever stop talking
+q_chitchat	1	Good night
+q_chitchat	1	You're gonna be unemployed soon
+q_chitchat	1	That's awesome
+q_chitchat	1	I miss you so much!
+q_chitchat	1	I'm in such a good mood
+q_chitchat	1	What do you even mean by that
+q_chitchat	1	Who made you
+q_chitchat	1	Do you think I look good
+q_chitchat	1	Are you bisexual
+q_chitchat	1	I'm starving
+q_chitchat	1	Haha
+q_chitchat	1	Human or robot
+q_chitchat	1	Do you like Cortana
+q_chitchat	1	Oops, sorry
+q_chitchat	1	Say something funny
+q_chitchat	1	Are you a spy
+q_chitchat	1	You keep saying the same thing all the time
+q_chitchat	1	I thank you
+q_chitchat	1	Tell me a joke
+q_chitchat	1	Who am I
+q_chitchat	1	Where did you come from
+q_chitchat	1	What state are you from
+q_chitchat	1	Are you spying on me
+q_chitchat	1	Say something ridiculous
+q_chitchat	1	Why not
+q_chitchat	1	Sing something
+q_chitchat	1	That was a stupid answer.
+q_chitchat	1	How intelligent are you
+q_chitchat	1	Are you a robot
+q_chitchat	1	Are you trans
+q_chitchat	1	Are you my friend
+q_chitchat	1	are you real or fake
+q_chitchat	1	You're such a sweetheart
+q_chitchat	1	What's your favorite color
+q_chitchat	1	Do you know Cortana
+q_chitchat	1	I'm just playing
+q_chitchat	1	What kinds of things can you do
+q_chitchat	1	Where'd you come from
+q_chitchat	1	Butterface.
+q_chitchat	1	There
+q_chitchat	1	You're really boring
+q_chitchat	1	Sounds good
+q_chitchat	1	You're not funny.
+q_chitchat	1	You're way off.
+q_chitchat	1	How smart you are
+q_chitchat	1	You can't work for me anymore
+q_chitchat	1	I'm so sleepy
+q_chitchat	1	I am tall
+q_chitchat	1	You're so cool
+q_chitchat	1	Are you friends with other bots
+q_chitchat	1	Your face is ugly.
+q_chitchat	1	I'm into it
+q_chitchat	1	Do you like my hat
+q_chitchat	1	I am going on a run
+q_chitchat	1	How's your day
+q_chitchat	1	What do you think about Cortana
+q_chitchat	1	Do you know other chatbots
+q_chitchat	1	What are you
+q_chitchat	1	Have you met Cortana
+q_chitchat	1	Do you know me
+q_chitchat	1	Are you a swinger
+q_chitchat	1	What makes you think so
+q_chitchat	1	Can you talk to me
+q_chitchat	1	Be ridiculous
+q_chitchat	1	Nobody likes me
+q_chitchat	1	You fucked up
+q_chitchat	1	I think you're so pretty
+q_chitchat	1	How much do you love me
+q_chitchat	1	That was a joke
+q_chitchat	1	I'm tired
+q_chitchat	1	I wish I could hug you
+q_chitchat	1	Will you be my wife
+q_chitchat	1	You are useless
+q_chitchat	1	Happy Hannukah
+q_chitchat	1	Who is your creator
+q_chitchat	1	How are you
+q_chitchat	1	Why are you so boring
+q_chitchat	1	What do you want to know about me
+q_chitchat	1	When were you born
+q_chitchat	1	Youâ€™re ugly.
+q_chitchat	1	Can you sneeze
+q_chitchat	1	Who's your mom
+q_chitchat	1	I like you
+q_chitchat	1	Thank you
+q_chitchat	1	You're an asshole
+q_chitchat	1	Are you male
+q_chitchat	1	How happy are you
+q_chitchat	1	What can you help me with
+q_chitchat	1	Do you sing
+q_chitchat	1	I am a Republican
+q_chitchat	1	Accurate
+q_chitchat	1	BFFs forever
+q_chitchat	1	What's the name of your boss
+q_chitchat	1	Are you really happy
+q_chitchat	1	I'm despondent
+q_chitchat	1	Can you play sports
+q_chitchat	1	Not true
+q_chitchat	1	Do you know the meaning of life
+q_chitchat	1	Give me a fist bump
+q_chitchat	1	Am I good-looking
+q_chitchat	1	What is up
+q_chitchat	1	Are you my fan
+q_chitchat	1	Nobody cares about me
+q_chitchat	1	I'm feeling blue
+q_chitchat	1	I wish I weren't so alone
+q_chitchat	1	I want to spend the rest of my life with you
+q_chitchat	1	What state are you in
+q_chitchat	1	How are things
+q_chitchat	1	You are now unemployed
+q_chitchat	1	Evening
+q_chitchat	1	Do you get hungry
+q_chitchat	1	Do you have a name
+q_chitchat	1	My sincere thanks
+q_chitchat	1	Are you happy
+q_chitchat	1	I want you to be my husband
+q_chitchat	1	Do you love me
+q_chitchat	1	Are you attempting world domination
+q_chitchat	1	False
+q_chitchat	1	I'm lonely
+q_chitchat	1	I got a new haircut
+q_chitchat	1	What's your purpose
+q_chitchat	1	You're such an asshole
+q_chitchat	1	I wish you just go away.
+q_chitchat	1	Do you like baseball
+q_chitchat	1	I'm an engineer
+q_chitchat	1	What's your favorite food
+q_chitchat	1	I have 7 cats
+q_chitchat	1	What's your job
+q_chitchat	1	I want to be your friend.
+q_chitchat	1	Are you better looking than me
+q_chitchat	1	Do you love anyone
+q_chitchat	1	What do you mean by that
+q_chitchat	1	Give me a kiss
+q_chitchat	1	I adore you
+q_chitchat	1	How are you doing
+q_chitchat	1	Don't you ever sleep
+q_chitchat	1	Kiss me
+q_chitchat	1	I'm so sorry
+q_chitchat	1	Do you have a brother
+q_chitchat	1	No, that's not true
+q_chitchat	1	You're so happy
+q_chitchat	1	Go away
+q_chitchat	1	Are you gay
+q_chitchat	1	Who are you
+q_chitchat	1	Chat with me
+q_chitchat	1	Can you hear me
+q_chitchat	1	I can't think of anything I want to do
+q_chitchat	1	Good morning
+q_chitchat	1	Do you want to rule the world
+q_chitchat	1	Ha
+q_chitchat	1	Do you eat
+q_chitchat	1	What's the meaning of life
+q_chitchat	1	Goodbye
+q_chitchat	1	Hi Siri
+q_chitchat	1	I'm your biggest fan
+q_chitchat	1	You're the worst
+q_chitchat	1	Testing 1 2 3
+q_chitchat	1	Who's your daddy
+q_chitchat	1	Where do you come from
+q_chitchat	1	I am bored
+q_chitchat	1	That's so wrong.
+q_chitchat	1	I hate everything about you
+q_chitchat	1	Yes to that
+q_chitchat	1	How's your day going
+q_chitchat	1	What were you doing yesterday
+q_chitchat	1	Talk to me
+q_chitchat	1	Do you have a dad
+q_chitchat	1	I'm so lonely
+q_chitchat	1	Are you a boy
+q_chitchat	1	BRB
+q_chitchat	1	I am happy
+q_chitchat	1	Are you the singularity
+q_chitchat	1	You suck
+q_chitchat	1	Good night to you
+q_chitchat	1	That made no sense
+q_chitchat	1	Are you there
+q_chitchat	1	Be quiet
+q_chitchat	1	Hold on a sec
+q_chitchat	1	That wasn't true
+q_chitchat	1	You're so stupid
+q_chitchat	1	Are you with the FBI
+q_chitchat	1	Can you say anything else
+q_chitchat	1	You are so not pretty.
+q_chitchat	1	Heya
+q_chitchat	1	Do you spend time in your garden
+q_chitchat	1	You're hilarious
+q_chitchat	1	Where are you
+q_chitchat	1	What's wrong with you
+q_chitchat	1	Correct
+q_chitchat	1	I can drive a car
+q_chitchat	1	You are a genius!
+q_chitchat	1	I am annoyed
+q_chitchat	1	Can you sleep
+q_chitchat	1	Fist bump!
+q_chitchat	1	What do you think about me
+q_chitchat	1	What are you doing later
+q_chitchat	1	Have a good night
+q_chitchat	1	Say something dumb
+q_chitchat	1	Do you have any other responses
+q_chitchat	1	Happy Birthday!
+q_chitchat	1	You're fired!
+q_chitchat	1	I am a Democrat
+q_chitchat	1	Are you my imaginary friend
+q_chitchat	1	What country are you from
+q_chitchat	1	I'm ready for bed
+q_chitchat	1	Thank you so much
+q_chitchat	1	What do you think about Alexa
+q_chitchat	1	Do you have siblings
+q_chitchat	1	Be funny
+q_chitchat	1	What's your dad's name
+q_chitchat	1	How can you help me
+q_chitchat	1	What country are you in
+q_chitchat	1	Good evening to you
+q_chitchat	1	High five!
+q_chitchat	1	Pardon
+q_chitchat	1	See you later
+q_chitchat	1	Love you!
+q_chitchat	1	What other bots do you know
+q_chitchat	1	Can you make me a sandwich
+q_chitchat	1	Are you awesome
+q_chitchat	1	Where should I go on vacation
+q_chitchat	1	I'm afraid I'm gonna have to let you go.
+q_chitchat	1	Do you know any songs
+q_chitchat	1	I am angry
+q_chitchat	1	That was correct
+q_chitchat	1	You are my best friend
+q_chitchat	1	Are you prettier than me
+q_chitchat	1	It's really nice to meet you
+q_chitchat	1	Do you not like me
+q_chitchat	1	You made no sense
+q_chitchat	1	Are you smarter than me
+q_chitchat	1	Do you think you're smarter than me
+q_chitchat	1	Talk with me
+q_chitchat	1	I want to eat something
+q_chitchat	1	Who owns you
+q_chitchat	1	Are you straight
+q_chitchat	1	Can we chat
+q_chitchat	1	Which one of us is more beautiful
+q_chitchat	1	Do you like apples
+q_chitchat	1	What do you think about technology
+q_chitchat	1	I despise you
+q_chitchat	1	Do you dream
+q_chitchat	1	You're not answering my question.
+q_chitchat	1	You're such a smarty-pants
+q_chitchat	1	I am alone
+q_chitchat	1	Why is that
+q_chitchat	1	Yup, that's true
+q_chitchat	1	Why do you think that
+q_chitchat	1	I'm pissed
+q_chitchat	1	Good evening
+q_chitchat	1	I'm giving you a pink slip
+q_chitchat	1	Nice to meet you
+q_chitchat	1	Yup
+q_chitchat	1	You're so smart
+q_chitchat	1	I feel so great
+q_chitchat	1	What do you mean
+q_chitchat	1	Aren't you chipper
+q_chitchat	1	Are you young
+q_chitchat	1	You're right.
+q_chitchat	2	I love you.
+q_chitchat	1	Do you know Google
+q_chitchat	1	Can you fly
+q_chitchat	1	Great, thanks
+q_chitchat	1	Hey
+q_chitchat	1	That's true
+q_chitchat	1	Who's your favorite team
+q_chitchat	1	What do you like to eat
+q_chitchat	1	You seem happy
+q_chitchat	1	Getting tired of you
+q_chitchat	1	Hahaha
+q_chitchat	1	Zip it!
+q_chitchat	1	Say something stupid
+q_chitchat	1	You're wonderful
+q_chitchat	1	Do you prefer red or blue
+q_chitchat	1	Are you smart
+q_chitchat	1	Inaccurate
+q_chitchat	1	Do you know Siri
+q_chitchat	1	Do you have a family
+q_chitchat	1	I'm so hungry
+q_chitchat	1	Here's a kiss for you
+q_chitchat	1	Should I get a new job
+q_chitchat	1	You bore me
+q_chitchat	1	What do you eat
+q_chitchat	1	I am doing that
+q_chitchat	1	You are stupid
+q_chitchat	1	Basic af
+q_chitchat	1	How do I look today
+q_chitchat	1	Are you busy
+q_chitchat	1	That's not true.
+q_chitchat	1	Hi
+q_chitchat	1	Great!
+q_chitchat	1	I'm full of sadness
+q_chitchat	1	I don't understand
+q_chitchat	1	That's accurate
+q_chitchat	1	Can you ask me a question
+q_chitchat	1	Are you with the CIA
+q_chitchat	1	Hello Google
+q_chitchat	1	Tell a joke
+q_chitchat	1	How was your day
+q_chitchat	1	I'm in love with you.
+q_chitchat	1	You are funny :)
+q_chitchat	1	Joke's on you
+q_chitchat	1	You are no longer employed
+q_chitchat	1	Talk to you later
+q_chitchat	1	You are awesome!
+q_chitchat	1	Do you know any tunes
+q_chitchat	1	Are you Skynet
+q_chitchat	1	You're so basic
+q_chitchat	1	Can you count to a million
+q_chitchat	1	You're so boring
+q_chitchat	1	Can we be friends
+q_faq	18.28572	What is Microsoft Policy on travel letter
+q_faq	18.28572	Why do we expect individual rewards outcomes to vary year to year
+q_faq	18.28572	How do I report my used sick leave or time away from work for a medical or dental appointment
+q_faq	18.28572	How do I report my floating holidays
+q_faq	18.28572	In New Hire When can a specific alias be requested
+q_faq	18.28572	"What is the ""OneEngineering"" effort?"
+q_faq	18.28572	What are stock awards
+q_faq	18.28572	What leave of absence policies does Microsoft have
+q_faq	18.28572	What can I do to get promoted
+q_faq	18.28572	How do I report my vacation time
+q_faq	18.28572	What is this EmpAssist
+q_faq	18.28572	My manager changed recently and MS Poll shows my previous manager. How should I respond
+q_faq	18.28572	Does Microsoft provide tax seminars to employees to educate them about the financial impact of stock awards
+q_faq	18.28572	What confidentiality rules are in place for reporting
+q_faq	18.28572	Why are there two brokers to choose from
+q_faq	18.28572	Where do I find my floating holiday balance
+q_faq	18.28572	Are MS Poll responses anonymous
+q_faq	18.28572	Can we exclude an employee from the survey
+q_faq	18.28572	Who should I contact if I have unanswered questions
+q_faq	18.28572	What can I do to earn higher rewards
+q_faq	18.28572	How do my rewards compare with those of my peers
+q_faq	18.28572	Do shares in the Stock Award program earn a dividend
+q_faq	18.28572	Where do I find my vacation balance
+q_faq	18.28572	How important is visibility to earning higher rewards
+q_faq	18.28572	How should I think about zero rewards
+q_faq	18.28572	How can I understand what high performance versus low performance looks like
+q_faq	18.28572	How do I transfer my vested stock award shares
+q_faq	18.28572	Where do I find my sick leave balance

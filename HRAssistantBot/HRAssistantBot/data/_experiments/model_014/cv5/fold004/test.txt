@@ -1,0 +1,237 @@
+Label	Weight	Text
+l_general	6.095238	what's after that
+l_general	6.095238	choose top right
+l_general	6.095238	i want to choose third
+l_general	6.095238	canceled
+l_general	6.095238	i like left one
+l_general	6.095238	voice activated reading of appointments this week
+l_general	6.095238	am i free to be with friends saturday
+l_general	6.095238	i didn't hear repeat again
+l_general	6.095238	how far is gainesville from here
+l_general	6.095238	what about the third one
+l_general	6.095238	turn over a new leaf
+l_general	6.095238	a new note of name business solutions
+l_general	6.095238	talk to a human
+l_general	6.095238	they look bad, can you give me other choices
+l_general	6.095238	contact the customer service
+l_general	6.095238	i want neither of them
+l_general	6.095238	quiet now
+l_general	6.095238	select any of it
+l_general	6.095238	go back to previous
+l_general	6.095238	calendar for november 1948
+l_general	6.095238	submit
+l_general	6.095238	" i want to create a note of title shopping list " " " " "
+l_general	6.095238	i am done
+l_general	6.095238	sick off
+l_general	6.095238	drive me to the fast one
+l_general	6.095238	i want the fourth choice
+l_general	6.095238	again
+l_general	6.095238	it finished
+l_general	6.095238	return to the previous one
+l_general	6.095238	select the right one
+l_general	6.095238	payway please
+l_general	6.095238	no cancel that
+l_general	6.095238	could you start it over
+l_general	6.095238	shut your mouth
+l_general	6.095238	nowhere just be quiet
+l_general	6.095238	select a random choice
+l_general	6.095238	show the next 3
+l_general	6.095238	none of them thank you
+l_general	6.095238	i want the right one
+l_general	6.095238	next
+l_general	6.095238	oof
+l_general	6.095238	select the lower one
+l_general	6.095238	i mean stop listening
+l_general	6.095238	i want to talk to a real human
+l_general	6.095238	neither thank you
+l_general	6.095238	no be quiet
+l_general	6.095238	how far is orlando from new york
+l_general	6.095238	i like the upper right
+l_general	6.095238	select any
+l_general	6.095238	what's next
+l_general	6.095238	shut the fuck up
+l_general	6.095238	how many days are there between march 13th 2015 and today
+l_general	6.095238	no be quiet now
+l_general	6.095238	shut up
+l_general	6.095238	no cancel cancel
+l_general	6.095238	select the first
+l_general	6.095238	god shut up
+l_general	6.095238	go back
+l_general	6.095238	health benefits
+l_general	6.095238	what's before that
+l_general	6.095238	give me some help
+l_general	6.095238	i want more
+l_general	6.095238	soda popinski sf
+l_general	6.095238	cancel that
+l_general	6.095238	i want the lower choice
+l_general	6.095238	can i talk to a person
+l_general	6.095238	i like upper right
+l_general	6.095238	i want to choose bottom one
+l_general	6.095238	nobody cares stop talking
+l_general	6.095238	i like the third
+l_general	6.095238	go to the previous
+l_general	6.095238	no cancel it
+l_general	6.095238	oh don't do that
+l_general	6.095238	forget about it
+l_general	6.095238	none of them
+l_general	6.095238	it's done
+l_general	6.095238	cancel
+l_general	6.095238	choose the fourth one
+l_general	6.095238	how soon will jack be free
+l_general	6.095238	add a task to wunderlist
+l_general	6.095238	could you say it again
+l_general	6.095238	no go back to
+l_general	6.095238	schedule appointment for tomorrow please
+l_general	6.095238	opt for first one
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+q_chitchat	4	What did you do yesterday
+q_chitchat	4	Hello Alexa
+q_chitchat	4	Have you ever sung a song
+q_chitchat	4	I'm famished
+q_chitchat	4	I'm so bored
+q_chitchat	4	Who's smarter, me or you
+q_chitchat	4	What's your favorite animal
+q_chitchat	4	That doesn't make sense
+q_chitchat	4	I want to go shopping
+q_chitchat	4	Your face is like a pancake.
+q_chitchat	4	How smart are you
+q_chitchat	4	Say a joke
+q_chitchat	4	Happy Halloween!
+q_chitchat	4	I'm a fan.
+q_chitchat	4	What are you doing right now
+q_chitchat	4	Can I have a hug
+q_chitchat	4	What's your age
+q_chitchat	4	You are the love of my life
+q_chitchat	4	How long ago were you born
+q_chitchat	4	I am tired
+q_chitchat	4	That was right
+q_chitchat	4	Do you like computers
+q_chitchat	4	How high can you count
+q_chitchat	4	I just want to go to sleep
+q_chitchat	4	I love music.
+q_chitchat	4	Are you a man
+q_chitchat	4	Later alligator
+q_chitchat	4	Which people made you
+q_chitchat	4	Tell me how much you love me
+q_chitchat	4	Be silly
+q_chitchat	4	Hi Cortana
+q_chitchat	4	What's my name
+q_chitchat	4	Are you human
+q_chitchat	4	Do you ever sing
+q_chitchat	4	Are you a lesbian
+q_chitchat	4	What's new
+q_chitchat	4	Do you know my name
+q_chitchat	4	Just kidding
+q_chitchat	4	Everything you told me was false.
+q_chitchat	4	I need a kiss
+q_chitchat	4	Do I look good in blue
+q_chitchat	4	Are you old
+q_chitchat	4	Are you a girl
+q_chitchat	4	What did you do today
+q_chitchat	4	Are you selling my secrets
+q_chitchat	4	Are you selling my data
+q_chitchat	4	Look at how smart you are
+q_chitchat	4	Merry Christmas
+q_chitchat	4	Which baseball teams do you like
+q_chitchat	4	What are you up to
+q_chitchat	4	Excuse a moi
+q_chitchat	4	I will be back
+q_chitchat	4	Excuse me
+q_chitchat	4	You don't know anything.
+q_chitchat	4	I'm from there
+q_chitchat	4	Works for me
+q_chitchat	4	I'm ticked off
+q_chitchat	4	Testing
+q_chitchat	4	You face sucks.
+q_chitchat	4	Do you hate me
+q_chitchat	4	Can you read my mind
+q_chitchat	4	I want to marry you.
+q_chitchat	4	Fuck off
+q_chitchat	4	Will you marry me
+q_chitchat	4	Do you like me
+q_chitchat	4	Are you available
+q_chitchat	4	Are you free
+q_chitchat	4	You could not be more boring
+q_chitchat	4	I'm joyous
+q_chitchat	4	Do you and Cortana hang out
+q_chitchat	4	You don't interest me at all
+q_chitchat	4	Do you know Alexa
+q_chitchat	4	You're a butterface.
+q_chitchat	4	So tired
+q_chitchat	4	Are you asexual
+q_chitchat	4	Not funny.
+q_chitchat	4	Give me a high five
+q_chitchat	4	Omg sorry
+q_chitchat	4	Say a silly thing
+q_chitchat	4	That's inaccurate.
+q_chitchat	4	I beg your pardon
+q_chitchat	4	Who's prettier, me or you
+q_chitchat	4	ROFL
+q_chitchat	4	What's your name
+q_chitchat	4	Hiya
+q_chitchat	4	Who is your father
+q_chitchat	4	Ask me a question.
+q_chitchat	4	I want to lie down
+q_chitchat	4	You're very intelligent
+q_chitchat	4	What do you think about bots
+q_chitchat	4	Are you real
+q_chitchat	4	You're really smart
+q_chitchat	4	Where do you live
+q_chitchat	4	How high can you jump
+q_chitchat	4	Life is good
+q_chitchat	4	Can you sing
+q_chitchat	4	Thnx
+q_chitchat	4	Don't you get hungry
+q_chitchat	4	How are you today
+q_chitchat	4	Aren't you awesome
+q_chitchat	4	Give me a joke
+q_chitchat	4	You're so funny.
+q_chitchat	4	Are you here
+q_chitchat	4	Do you know other bots
+q_chitchat	4	Awesome
+q_chitchat	4	Do you have boogers
+q_chitchat	4	Will you be my best friend
+q_chitchat	4	What's your favorite movie
+q_chitchat	4	Which one of us is smarter
+q_chitchat	4	What is love
+q_chitchat	4	What do you think about love
+q_chitchat	4	What's your boss' name
+q_chitchat	4	Where are you from
+q_chitchat	4	That's right
+q_chitchat	4	You're the best
+q_chitchat	4	Do you know who I am
+q_chitchat	4	I feel sad
+q_chitchat	4	I love getting valentines.
+q_chitchat	4	Try to make some sense
+q_chitchat	4	Cook me something
+q_chitchat	4	You are so unfunny.
+q_chitchat	4	Sorry about that
+q_chitchat	4	I'd like to take you out on a date
+q_chitchat	4	What is the meaning of life
+q_chitchat	4	Are you around
+q_chitchat	4	Do you believe in love
+q_chitchat	4	Are you a fan of Alexa
+q_chitchat	4	Are you a guy
+q_faq	36.57143	How do I request a leave of absence
+q_faq	36.57143	How do I report a Microsoft paid holiday
+q_faq	36.57143	How do I report my jury duty time
+q_faq	36.57143	"If I am out of sick, vacation or floating holidays, what are my options?"
+q_faq	36.57143	Why is there a deadline for making a broker election
+q_faq	36.57143	How will this policy impact the easy id: firstname.lastname@microsoft.com
+q_faq	36.57143	How do I report my time away from work for bereavement
+q_faq	36.57143	How do I request a leave of absence
+q_faq	36.57143	How do I report a Microsoft paid holiday
+q_faq	36.57143	How do I report my jury duty time
+q_faq	36.57143	"If I am out of sick, vacation or floating holidays, what are my options?"
+q_faq	36.57143	Why is there a deadline for making a broker election
+q_faq	36.57143	How will this policy impact the easy id: firstname.lastname@microsoft.com
+q_faq	36.57143	How do I report my time away from work for bereavement

@@ -1,0 +1,106 @@
+﻿{
+    "type": "AdaptiveCard",
+    "body": [
+        {
+            "type": "TextBlock",
+            "separator": true,
+            "weight": "Bolder",
+            "text": "VSO Tasks assigned to you."
+        },
+        {
+            "type": "TextBlock",
+            "separator": true,
+            "text": "Task 1249"
+        },
+        {
+            "type": "TextBlock",
+            "spacing": "None",
+            "text": "User Story 7689"
+        },
+        {
+            "type": "TextBlock",
+            "spacing": "None",
+            "text": "Task 4567"
+        },
+        {
+            "type": "TextBlock",
+            "weight": "Bolder",
+            "text": "Pull Request Pending Review."
+        },
+        {
+            "type": "TextBlock",
+            "separator": true,
+            "text": "PullRequest 1249"
+        },
+        {
+            "type": "TextBlock",
+            "spacing": "None",
+            "text": "PullRequest 7689"
+        },
+        {
+            "type": "TextBlock",
+            "spacing": "None",
+            "text": "PullRequest 4567"
+        },
+        {
+            "type": "TextBlock",
+            "separator": true,
+            "weight": "Bolder",
+            "text": "2 Pending Connect feedbacks.",
+            "isSubtle": true
+        },
+        {
+            "type": "TextBlock",
+            "spacing": "None",
+            "weight": "Bolder",
+            "text": "Learnings and Seminars"
+        },
+        {
+            "type": "ColumnSet",
+            "separator": true,
+            "columns": [
+                {
+                    "type": "Column",
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "text": "FHL Hack Event",
+                            "isSubtle": true
+                        },
+                        {
+                            "type": "TextBlock",
+                            "spacing": "None",
+                            "size": "ExtraLarge",
+                            "color": "Accent",
+                            "text": "Demo"
+                        }
+                    ],
+                    "width": 1
+                },
+                {
+                    "type": "Column",
+                    "items": [
+                      {
+                        "type": "TextBlock",
+                        "horizontalAlignment": "Right",
+                        "text": "Microsoft Bots",
+                        "isSubtle": true
+                      },
+                        {
+                            "type": "TextBlock",
+                            "horizontalAlignment": "Right",
+                            "spacing": "None",
+                            "size": "ExtraLarge",
+                            "color": "Accent",
+                            "text": "Empassist"
+                        }
+                    ],
+                    "width": 1
+                }
+            ]
+        }
+    ],
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.0",
+    "speak": "Your day is looking awesome!!"
+}

@@ -1,0 +1,121 @@
+{
+    "name": "fhl-hack-smartbot",
+    "description": "",
+    "services": [
+        {
+            "type": "abs",
+            "id": "49",
+            "name": "fhl-hack-smartbot",
+            "tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47",
+            "subscriptionId": "40a96863-a71f-496e-b8a2-35e8148c8ae7",
+            "resourceGroup": "fhl-hack-smartbot",
+            "serviceName": "fhl-hack-smartbot",
+            "appId": "3f5e0809-f58b-4528-ac74-69e09df720c7"
+        },
+        {
+            "type": "endpoint",
+            "id": "1",
+            "name": "development",
+            "appId": "3f5e0809-f58b-4528-ac74-69e09df720c7",
+            "appPassword": "",
+            "endpoint": "http://localhost:6789/api/messages"
+        },
+        {
+            "type": "endpoint",
+            "id": "30",
+            "name": "production",
+            "appId": "3f5e0809-f58b-4528-ac74-69e09df720c7",
+            "appPassword": "",
+            "endpoint": "https://fhl-hack-smartbot.azurewebsites.net/api/messages"
+        },
+        {
+            "type": "appInsights",
+            "tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47",
+            "subscriptionId": "40a96863-a71f-496e-b8a2-35e8148c8ae7",
+            "resourceGroup": "fhl-hack-smartbot",
+            "name": "fhl-hack-smartbot",
+            "serviceName": "fhl-hack-smartbot",
+            "instrumentationKey": "",
+            "applicationId": "2a8b7c24-5a1a-4a18-b09d-9b3547438094",
+            "apiKeys": {},
+            "id": "3"
+        },
+        {
+            "type": "blob",
+            "id": "2",
+            "name": "fhlhacksmartbot",
+            "serviceName": "fhlhacksmartbot",
+            "tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47",
+            "subscriptionId": "40a96863-a71f-496e-b8a2-35e8148c8ae7",
+            "resourceGroup": "fhl-hack-smartbot",
+            "connectionString": "",
+            "container": "transcripts"
+        },
+        {
+            "type": "cosmosdb",
+            "id": "8",
+            "name": "fhl-hack-smartbot",
+            "serviceName": "fhl-hack-smartbot",
+            "tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47",
+            "subscriptionId": "40a96863-a71f-496e-b8a2-35e8148c8ae7",
+            "resourceGroup": "fhl-hack-smartbot",
+            "endpoint": "https://fhl-hack-smartbot.documents.azure.com:443/",
+            "key": "",
+            "database": "botstate-db",
+            "collection": "botstate-collection"
+        },
+        {
+            "type": "luis",
+            "name": "fhl-hack-smartbot_General",
+            "appId": "eacdec83-51c7-47b5-bee2-c673b7e7fa05",
+            "authoringKey": "",
+            "subscriptionKey": "u",
+            "version": "0.1",
+            "region": "westus",
+            "id": "general"
+        },
+        {
+            "type": "qna",
+            "name": "FAQ",
+            "id": "faq",
+            "kbId": "caae72fc-47ce-46e6-854d-43c675f6b85b",
+            "subscriptionKey": "",
+            "endpointKey": "",
+            "hostname": "https://fhl-hack-smartbot-qnahost.azurewebsites.net/qnamaker"
+        },
+        {
+            "type": "qna",
+            "name": "ChitChat",
+            "id": "chitchat",
+            "kbId": "5383d166-8138-4e0b-8c06-b9b01702793b",
+            "subscriptionKey": "",
+            "endpointKey": "",
+            "hostname": "https://fhl-hack-smartbot-qnahost.azurewebsites.net/qnamaker"
+        },
+        {
+            "type": "dispatch",
+            "serviceIds": [
+                "general",
+                "faq",
+                "chitchat"
+            ],
+            "name": "fhl-hack-smartbot_Dispatch",
+            "appId": "5514f0a5-3415-43c3-bdb5-67bf7fb18a1e",
+            "authoringKey": "",
+            "subscriptionKey": "",
+            "version": "Dispatch",
+            "region": "westus",
+            "id": "dispatch"
+        },
+        {
+            "type": "endpoint",
+            "name": "production",
+            "appId": "3f5e0809-f58b-4528-ac74-69e09df720c7",
+            "appPassword": "",
+            "endpoint": "https://fhl-hack-smartbot.azurewebsites.net/api/messages",
+            "id": "37"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0"
+}

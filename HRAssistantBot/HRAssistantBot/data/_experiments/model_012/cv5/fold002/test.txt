@@ -1,0 +1,236 @@
+Label	Weight	Text
+l_general	6.168674	choose anyone
+l_general	6.168674	select third
+l_general	6.168674	i want to choose the fourth
+l_general	6.168674	can you clear mom note
+l_general	6.168674	show the next two options
+l_general	6.168674	neither thank you
+l_general	6.168674	any one is ok
+l_general	6.168674	cancel it
+l_general	6.168674	done
+l_general	6.168674	update note of number one
+l_general	6.168674	display the fastest way to san antonio from austin
+l_general	6.168674	all set
+l_general	6.168674	what after that
+l_general	6.168674	opt for a random one
+l_general	6.168674	back to last
+l_general	6.168674	soda popinski sf
+l_general	6.168674	search for meetings with chris
+l_general	6.168674	clear last note
+l_general	6.168674	no no no no stop talking
+l_general	6.168674	customer service
+l_general	6.168674	opt for the lower choice
+l_general	6.168674	back to
+l_general	6.168674	restart it
+l_general	6.168674	can you help me
+l_general	6.168674	forget about it
+l_general	6.168674	no shut up
+l_general	6.168674	none of those
+l_general	6.168674	check lee ' s calender
+l_general	6.168674	go back to
+l_general	6.168674	display weekend plans
+l_general	6.168674	say again
+l_general	6.168674	my god shut up
+l_general	6.168674	please begin again
+l_general	6.168674	add to wish - list computer ram
+l_general	6.168674	choose the upper left choice
+l_general	6.168674	i said stop
+l_general	6.168674	i ' m at home
+l_general	6.168674	benefits & rewards
+l_general	6.168674	start over
+l_general	6.168674	what about the last
+l_general	6.168674	tesco ' s catterick garrison address please
+l_general	6.168674	i want to choose the lower choice
+l_general	6.168674	just cancel
+l_general	6.168674	turn over a new leaf
+l_general	6.168674	add my current location as home
+l_general	6.168674	sorry, don't do it
+l_general	6.168674	none of them
+l_general	6.168674	never mind cancel that
+l_general	6.168674	bend oregon exotic restaurants please
+l_general	6.168674	get back
+l_general	6.168674	go to the next three items
+l_general	6.168674	quiet now
+l_general	6.168674	can you set a note up to mom
+l_general	6.168674	i want more
+l_general	6.168674	when is paul available
+l_general	6.168674	please do nothing
+l_general	6.168674	sorry
+l_general	6.168674	schaumburg covenant church schaumburg illinois please
+l_general	6.168674	ojai apple picking
+l_general	6.168674	what's after that
+l_general	6.168674	select lower one
+l_general	6.168674	i like the third
+l_general	6.168674	select any of it
+l_general	6.168674	i want neither of them
+l_general	6.168674	i want bottom
+l_general	6.168674	i want to choose the first one
+l_general	6.168674	show the next 4 items
+l_general	6.168674	i want the first
+l_general	6.168674	can you help
+l_general	6.168674	i have not heard
+l_general	6.168674	save the current note
+l_general	6.168674	opt for any of it
+l_general	6.168674	cancel
+l_general	6.168674	give me some help
+l_general	6.168674	check if i have time for a meeting tonight
+l_general	6.168674	select no.5
+l_general	6.168674	select the right one
+l_general	6.168674	canceled
+l_general	6.168674	nothing never mind
+l_general	6.168674	finished with
+l_general	6.168674	select my current location
+l_general	6.168674	nobody cares stop talking
+l_general	6.168674	i didn't hear repeat again
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+q_chitchat	4	What's your favorite movie
+q_chitchat	4	What's your mom's name
+q_chitchat	4	I miss you so much!
+q_chitchat	4	Later alligator
+q_chitchat	4	What's your favorite color
+q_chitchat	4	You are so not pretty.
+q_chitchat	4	ROFL
+q_chitchat	4	Do you know the meaning of life
+q_chitchat	4	Are you dumb
+q_chitchat	4	Do you like apples
+q_chitchat	4	Do you hate me
+q_chitchat	4	I got a new haircut
+q_chitchat	4	Do you like Alexa
+q_chitchat	4	Are you straight
+q_chitchat	4	How long ago were you born
+q_chitchat	4	Who's your favorite singer
+q_chitchat	4	You're way off.
+q_chitchat	4	That doesn't make sense
+q_chitchat	4	Are you a boy
+q_chitchat	4	What's my name
+q_chitchat	4	Cook me something
+q_chitchat	4	So sorry
+q_chitchat	4	I'm ticked off
+q_chitchat	4	Are you a girl or a boy
+q_chitchat	4	I despise you
+q_chitchat	4	You suck
+q_chitchat	4	Can we chat
+q_chitchat	4	Who do you report to
+q_chitchat	4	That made no sense
+q_chitchat	4	Why do you hate me
+q_chitchat	4	What country are you from
+q_chitchat	4	I beg your pardon
+q_chitchat	4	Are you available
+q_chitchat	4	How's your day going
+q_chitchat	4	That was correct
+q_chitchat	4	Testing 1 2 3
+q_chitchat	4	Nighty night
+q_chitchat	4	Bingo
+q_chitchat	4	You're so funny.
+q_chitchat	4	Be quiet
+q_chitchat	4	You're so smart
+q_chitchat	4	Great!
+q_chitchat	4	Are you busy
+q_chitchat	4	You're such an asshole
+q_chitchat	4	You're useless
+q_chitchat	4	I appreciate it
+q_chitchat	4	It's a pleasure to meet you
+q_chitchat	4	Where do you live
+q_chitchat	4	Am I pretty
+q_chitchat	4	Are you a girl
+q_chitchat	4	Hi there!
+q_chitchat	4	You're such a smarty-pants
+q_chitchat	4	What's your opinion of me
+q_chitchat	4	How are you
+q_chitchat	4	What's wrong with you
+q_chitchat	4	Why don't you ever stop talking
+q_chitchat	4	Just kidding
+q_chitchat	4	Have you met Cortana
+q_chitchat	4	Oops, sorry
+q_chitchat	4	Say something stupid
+q_chitchat	4	What is up
+q_chitchat	4	Yup, that's true
+q_chitchat	4	Human or robot
+q_chitchat	4	Tell a joke
+q_chitchat	4	What do you go by
+q_chitchat	4	Yes to that
+q_chitchat	4	Hahaha
+q_chitchat	4	I'm just kidding around
+q_chitchat	4	I'm sad today
+q_chitchat	4	You are a genius!
+q_chitchat	4	I'm so madqw  b
+q_chitchat	4	Say something dumb
+q_chitchat	4	What's the meaning of life
+q_chitchat	4	That's so wrong.
+q_chitchat	4	What's your favorite animal
+q_chitchat	4	Am I a fool
+q_chitchat	4	Are you happy
+q_chitchat	4	Who's your dad
+q_chitchat	4	Do you know other chatbots
+q_chitchat	4	Are you old
+q_chitchat	4	Who's prettier, me or you
+q_chitchat	4	Nope, false
+q_chitchat	4	Can you count to a million
+q_chitchat	4	Hi Google
+q_chitchat	4	What's your boss' name
+q_chitchat	4	You must hate me.
+q_chitchat	4	You can't work for me anymore
+q_chitchat	4	Are you HAL
+q_chitchat	4	Are you hungry
+q_chitchat	4	Haha
+q_chitchat	4	Try to make some sense
+q_chitchat	4	What did you do yesterday
+q_chitchat	4	Cool!
+q_chitchat	4	Say something
+q_chitchat	4	Are you there
+q_chitchat	4	I'm tired
+q_chitchat	4	Be my friend
+q_chitchat	4	Good evening to you
+q_chitchat	4	I'm cracking up
+q_chitchat	4	Bye
+q_chitchat	4	Do you ever get hungry
+q_chitchat	4	High five!
+q_chitchat	4	Do you know other digital agents
+q_chitchat	4	I am a Democrat
+q_chitchat	4	Why do you think that
+q_chitchat	4	Do you know any jokes
+q_chitchat	4	I'm sorry
+q_chitchat	4	Hug me
+q_chitchat	4	Are you friends with other bots
+q_chitchat	4	Excuse me
+q_chitchat	4	I am annoyed
+q_chitchat	4	Where should I go on vacation
+q_chitchat	4	Evening
+q_chitchat	4	Joke's on you
+q_chitchat	4	What are you doing right now
+q_chitchat	4	Say a joke
+q_chitchat	4	No, that's not true
+q_chitchat	4	Do you know Alexa
+q_chitchat	4	That was a stupid answer.
+q_chitchat	4	I adore you
+q_chitchat	4	Ha
+q_chitchat	4	Give me some sugar
+q_chitchat	4	Yes, that's true
+q_chitchat	4	How high can you count
+q_chitchat	4	Will you be my best friend
+q_chitchat	4	Hello Alexa
+q_chitchat	4	What color do you like
+q_chitchat	4	You are awesome!
+q_faq	36.57143	How do I request a leave of absence
+q_faq	36.57143	Where do I find my sick leave balance
+q_faq	36.57143	What can I do to earn higher rewards
+q_faq	36.57143	What leave of absence policies does Microsoft have
+q_faq	36.57143	Do shares in the Stock Award program earn a dividend
+q_faq	36.57143	In New Hire When can a specific alias be requested
+q_faq	36.57143	How important is visibility to earning higher rewards
+q_faq	36.57143	How do I request a leave of absence
+q_faq	36.57143	Where do I find my sick leave balance
+q_faq	36.57143	What can I do to earn higher rewards
+q_faq	36.57143	What leave of absence policies does Microsoft have
+q_faq	36.57143	Do shares in the Stock Award program earn a dividend
+q_faq	36.57143	In New Hire When can a specific alias be requested
+q_faq	36.57143	How important is visibility to earning higher rewards

@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/FHL.Hack.SmartAssistantBot/FHL.Hack.SmartAssistantBot/fhl-hack-smartbot.bot
+/.vs
+/FHL.Hack.SmartAssistantBot/FHL.Hack.SmartAssistantBot/bin/Debug/netcoreapp2.2
+/FHL.Hack.SmartAssistantBot/FHL.Hack.SmartAssistantBot/obj
+/FHL.Hack.SmartAssistantBot/FHL.Hack.SmartAssistantBot.Tests/obj
+/FHL.Hack.SmartAssistant.APIs.Benefits/.vs/FHL.Hack.SmartAssistant.APIs.Benefits/v15
+/HRAssistantBot/HRAssistantBot/bin/Debug/netcoreapp2.2
+/HRAssistantBot/HRAssistantBot/obj
+/HRAssistantBot/HRAssistantBot.Tests/bin/Debug/netcoreapp2.2
+/HRAssistantBot/HRAssistantBot.Tests/obj
+/HRAssistantBot.APIs.Benefits/Benefits.API/obj
+/HRAssistantBot.APIs.Benefits/Benefits.Models/obj
+/HRAssistantBot.APIs.Benefits/Benefits.Services/obj

@@ -1,0 +1,227 @@
+Label	Weight	Text
+l_general	6.564103	no stop
+l_general	6.564103	choose the upper left choice
+l_general	6.564103	back to last
+l_general	6.564103	none
+l_general	6.564103	any one is ok
+l_general	6.564103	submit
+l_general	6.564103	repeat that
+l_general	6.564103	i want third one
+l_general	6.564103	nothing never mind
+l_general	6.564103	i want to choose the last choice
+l_general	6.564103	it ' s okay from me
+l_general	6.564103	don't do that
+l_general	6.564103	sorry, don't do it
+l_general	6.564103	add a new event on 27 - apr
+l_general	6.564103	i want bottom
+l_general	6.564103	back to last step
+l_general	6.564103	add a new task finish assignment
+l_general	6.564103	add tasks to wunderlist
+l_general	6.564103	select any of it
+l_general	6.564103	start it over
+l_general	6.564103	no be quiet now
+l_general	6.564103	i want fourth
+l_general	6.564103	is the distance betwee the zoo and my current location thirteen miles
+l_general	6.564103	just cancel it
+l_general	6.564103	quit
+l_general	6.564103	i want to choose the fourth
+l_general	6.564103	nothing please
+l_general	6.564103	select my current location
+l_general	6.564103	to buy list
+l_general	6.564103	none of them thank you
+l_general	6.564103	sorry
+l_general	6.564103	some help
+l_general	6.564103	cancel never mind
+l_general	6.564103	i want more
+l_general	6.564103	finished
+l_general	6.564103	be quiet
+l_general	6.564103	select the lower one
+l_general	6.564103	affordable insurance washington ave albany ny 12222 please
+l_general	6.564103	please help
+l_general	6.564103	show me the route to west avenue miami beach
+l_general	6.564103	who can help me
+l_general	6.564103	show the next 3
+l_general	6.564103	how can i clear my notes
+l_general	6.564103	select any
+l_general	6.564103	forget about it
+l_general	6.564103	human service
+l_general	6.564103	return
+l_general	6.564103	what about the last
+l_general	6.564103	i mean stop listening
+l_general	6.564103	shut your mouth
+l_general	6.564103	tesco ' s catterick garrison address please
+l_general	6.564103	open help
+l_general	6.564103	select a random one
+l_general	6.564103	stop please
+l_general	6.564103	search for meetings with chris
+l_general	6.564103	cancel it
+l_general	6.564103	send lighter fluid to onenote
+l_general	6.564103	cancel that
+l_general	6.564103	let me clear all the notes created on last monday
+l_general	6.564103	choose no.2
+l_general	6.564103	submit it
+l_general	6.564103	i need real human help
+l_general	6.564103	i need support
+l_general	6.564103	type in notepad
+l_general	6.564103	come on stop
+l_general	6.564103	boudoir photo shoot ballard
+l_general	6.564103	i want none of them
+l_general	6.564103	nerver mind
+l_general	6.564103	i like the bottom one
+l_general	6.564103	help
+l_general	6.564103	just be quiet
+l_general	6.564103	holomap stockholm metro (3d map) please
+l_general	6.564103	no be quiet
+l_general	6.564103	i want to choose the lower choice
+l_general	6.564103	i want the fourth choice
+l_general	6.564103	show the next two options
+l_general	6.564103	add to wish - list computer ram
+l_general	6.564103	add fred george to onenote
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+q_chitchat	4	You're hilarious
+q_chitchat	4	I'm cracking up
+q_chitchat	4	Are you awesome
+q_chitchat	4	What's your favorite color
+q_chitchat	4	Are you around
+q_chitchat	4	Do you not like me
+q_chitchat	4	You're a butterface.
+q_chitchat	4	I can't think of anything I want to do
+q_chitchat	4	That was right
+q_chitchat	4	That made no sense
+q_chitchat	4	Do you spend time in your garden
+q_chitchat	4	What do you like to eat
+q_chitchat	4	Am I a fool
+q_chitchat	4	You are my favorite
+q_chitchat	4	Should I get a new job
+q_chitchat	4	Are you a man
+q_chitchat	4	Who is your mother
+q_chitchat	4	Ask me anything.
+q_chitchat	4	Who are you
+q_chitchat	4	I'm just kidding around
+q_chitchat	4	Heya
+q_chitchat	4	What are you up to
+q_chitchat	4	Are you with the CIA
+q_chitchat	4	Are you really happy
+q_chitchat	4	Love you!
+q_chitchat	4	I want to go shopping
+q_chitchat	4	Morning
+q_chitchat	4	Who made you
+q_chitchat	4	What state are you from
+q_chitchat	4	Do you know other bots
+q_chitchat	4	Are you my friend
+q_chitchat	4	Do you prefer red or blue
+q_chitchat	4	Why do you hate me
+q_chitchat	4	Who created you
+q_chitchat	4	I wish you would say something else
+q_chitchat	4	What's your dad's name
+q_chitchat	4	Are you bisexual
+q_chitchat	4	Good morning
+q_chitchat	4	I'm despondent
+q_chitchat	4	I'm feeling blue
+q_chitchat	4	What's your age
+q_chitchat	4	How much do you love me
+q_chitchat	4	Is this thing on
+q_chitchat	4	I'm famished
+q_chitchat	4	You seem really happy
+q_chitchat	4	Thank you so much
+q_chitchat	4	Are you busy
+q_chitchat	4	What should I call you
+q_chitchat	4	Do you hate me
+q_chitchat	4	Are you prettier than me
+q_chitchat	4	That wasn't funny.
+q_chitchat	4	Later alligator
+q_chitchat	4	Welcome to springtime!
+q_chitchat	4	I think you're dreamy
+q_chitchat	4	Are you attempting world domination
+q_chitchat	4	Who do you report to
+q_chitchat	4	I like you
+q_chitchat	4	Aren't you cheerful
+q_chitchat	4	Give me a fist bump
+q_chitchat	4	Who am I
+q_chitchat	4	You're so basic
+q_chitchat	4	You are now unemployed
+q_chitchat	4	Excuse a moi
+q_chitchat	4	What's the meaning of life
+q_chitchat	4	I'd like to take you out on a date
+q_chitchat	4	I adore you
+q_chitchat	4	How happy are you
+q_chitchat	4	Are you a person
+q_chitchat	4	Do you play games
+q_chitchat	4	What country are you from
+q_chitchat	4	I'm furious
+q_chitchat	4	That's not funny.
+q_chitchat	4	Are you free
+q_chitchat	4	Oops, sorry
+q_chitchat	4	What's your gender
+q_chitchat	4	You seem happy
+q_chitchat	4	Can you count to a million
+q_chitchat	4	Nighty night
+q_chitchat	4	What age are you
+q_chitchat	4	What is up
+q_chitchat	4	Are you pansexual
+q_chitchat	4	Getting tired of you
+q_chitchat	4	What is the answer to the universe
+q_chitchat	4	How high can you count
+q_chitchat	4	I'm a lesbian
+q_chitchat	4	Do you know who I am
+q_chitchat	4	You're very intelligent
+q_chitchat	4	What is the meaning of life
+q_chitchat	4	Thnx
+q_chitchat	4	Which people made you
+q_chitchat	4	Hum a tune
+q_chitchat	4	Are you asexual
+q_chitchat	4	Say a joke
+q_chitchat	4	Hug me
+q_chitchat	4	You're stupid
+q_chitchat	4	I love music.
+q_chitchat	4	I can drive a car
+q_chitchat	4	Are you a robot
+q_chitchat	4	You're the worst
+q_chitchat	4	That's true
+q_chitchat	4	I am doing that
+q_chitchat	4	You're gonna be unemployed soon
+q_chitchat	4	Do you pee
+q_chitchat	4	How high can you jump
+q_chitchat	4	Are you a boy
+q_chitchat	4	Can I have a hug
+q_chitchat	4	Can you hear me
+q_chitchat	4	What color do you like
+q_chitchat	4	Your face is ugly.
+q_chitchat	4	I feel sad
+q_chitchat	4	You are so not pretty.
+q_chitchat	4	I am happy
+q_chitchat	4	Are you Skynet
+q_chitchat	4	That doesn't make sense
+q_chitchat	4	How are you
+q_chitchat	4	Do you like baseball
+q_chitchat	4	What is love
+q_chitchat	4	Nobody cares about me
+q_chitchat	4	What do you think about Cortana
+q_chitchat	4	I just want to go to sleep
+q_chitchat	4	Do you like apples
+q_chitchat	4	What's the name of your boss
+q_chitchat	4	Talk to me
+q_chitchat	4	So sorry
+q_chitchat	4	Basic af
+q_chitchat	4	Say something dumb
+q_chitchat	4	Are you a fan of tech
+q_chitchat	4	Are you gay
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template

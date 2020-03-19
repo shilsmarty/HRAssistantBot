@@ -1,0 +1,207 @@
+Label	Weight	Text
+l_general	8.810345	quiet now
+l_general	8.810345	i am done
+l_general	8.810345	could you start it over
+l_general	8.810345	none none of them
+l_general	8.810345	no go back to
+l_general	8.810345	select the lower one
+l_general	8.810345	shut up be quiet
+l_general	8.810345	opt for any of it
+l_general	8.810345	neither of those
+l_general	8.810345	can you help me
+l_general	8.810345	i like the upper right
+l_general	8.810345	show the next two options
+l_general	8.810345	talk to a human
+l_general	8.810345	exit exit
+l_general	8.810345	choose the fourth one
+l_general	8.810345	i want to choose the lower choice
+l_general	8.810345	no cancel it
+l_general	8.810345	none none
+l_general	8.810345	what about the last
+l_general	8.810345	submit
+l_general	8.810345	go back to the last one
+l_general	8.810345	neither one
+l_general	8.810345	repeat please
+l_general	8.810345	all set
+l_general	8.810345	neither
+l_general	8.810345	i have not heard
+l_general	8.810345	what's after that
+l_general	8.810345	it finished
+l_general	8.810345	can you help
+l_general	8.810345	back to last step
+l_general	8.810345	none of these
+l_general	8.810345	repeat
+l_general	8.810345	choose last
+l_general	8.810345	select a random choice
+l_general	8.810345	cancel never mind
+l_general	8.810345	none of them thank you
+l_general	8.810345	any one is ok
+l_general	8.810345	pardon
+l_general	8.810345	please return
+l_general	8.810345	what's more
+l_general	8.810345	please begin again
+l_general	8.810345	cancel it
+l_general	8.810345	start again
+l_general	8.810345	canceled
+l_general	8.810345	cancel that
+l_general	8.810345	go to the next three items
+l_general	8.810345	i like second
+l_general	8.810345	no be quiet now
+l_general	8.810345	what about the third one
+l_general	8.810345	do nothing
+l_general	8.810345	go to the previous one
+l_general	8.810345	how to do it
+l_general	8.810345	no be quiet
+l_general	8.810345	start over it
+l_general	8.810345	end it
+l_general	8.810345	i like the third choice
+l_general	8.810345	just cancel it
+l_general	8.810345	anything
+None	51.1	i want to all of them
+None	51.1	i want to all of them
+None	51.1	i want to all of them
+None	51.1	i want to all of them
+None	51.1	i want to all of them
+None	51.1	i want to all of them
+None	51.1	i want to all of them
+None	51.1	i want to all of them
+None	51.1	i want to all of them
+None	51.1	i want to all of them
+q_chitchat	3.96124	Am I a fool
+q_chitchat	3.96124	Are you straight
+q_chitchat	3.96124	Youâ€™re ugly.
+q_chitchat	3.96124	How smart are you
+q_chitchat	3.96124	How can you help me
+q_chitchat	3.96124	I'm ticked off
+q_chitchat	3.96124	You are stupid
+q_chitchat	3.96124	You're hilarious
+q_chitchat	3.96124	I'm full of sadness
+q_chitchat	3.96124	You're a fuckup
+q_chitchat	3.96124	Give me a kiss
+q_chitchat	3.96124	I think you're great
+q_chitchat	3.96124	What's your favorite color
+q_chitchat	3.96124	Good night
+q_chitchat	3.96124	Great, thanks
+q_chitchat	3.96124	Yup, that's true
+q_chitchat	3.96124	What's your name
+q_chitchat	3.96124	Where are you located
+q_chitchat	3.96124	Where's your house
+q_chitchat	3.96124	Hahaha
+q_chitchat	3.96124	You are my favorite
+q_chitchat	3.96124	Zip it!
+q_chitchat	3.96124	Will you be my wife
+q_chitchat	3.96124	I'm lonely
+q_chitchat	3.96124	BRB
+q_chitchat	3.96124	Who's your favorite team
+q_chitchat	3.96124	Are you female
+q_chitchat	3.96124	Are you a fan of tech
+q_chitchat	3.96124	Why do you hate me
+q_chitchat	3.96124	Tell a joke
+q_chitchat	3.96124	Excuse me
+q_chitchat	3.96124	Where'd you come from
+q_chitchat	3.96124	Correct
+q_chitchat	3.96124	You're not answering my question.
+q_chitchat	3.96124	Stop talking
+q_chitchat	3.96124	Are you dumb
+q_chitchat	3.96124	I'm so bored
+q_chitchat	3.96124	Talk to you later
+q_chitchat	3.96124	Do you think I look good
+q_chitchat	3.96124	What should I call you
+q_chitchat	3.96124	Testing 1 2 3
+q_chitchat	3.96124	Are you real
+q_chitchat	3.96124	Are you awesome
+q_chitchat	3.96124	Where are you
+q_chitchat	3.96124	I am here
+q_chitchat	3.96124	Are you a spy
+q_chitchat	3.96124	Why is that
+q_chitchat	3.96124	Are you intelligent
+q_chitchat	3.96124	I am angry
+q_chitchat	3.96124	I'd like to take you out on a date
+q_chitchat	3.96124	Ask me something.
+q_chitchat	3.96124	Can you play sports
+q_chitchat	3.96124	Who's your master
+q_chitchat	3.96124	Thnx
+q_chitchat	3.96124	Do you sing
+q_chitchat	3.96124	You are the love of my life
+q_chitchat	3.96124	I want to spend the rest of my life with you
+q_chitchat	3.96124	What are you
+q_chitchat	3.96124	Don't you get hungry
+q_chitchat	3.96124	Who is your father
+q_chitchat	3.96124	Do you like me
+q_chitchat	3.96124	You're right.
+q_chitchat	3.96124	Do you have a mom
+q_chitchat	3.96124	You seem really happy
+q_chitchat	3.96124	You don't know anything.
+q_chitchat	3.96124	You face sucks.
+q_chitchat	3.96124	What is the meaning of life
+q_chitchat	3.96124	That was a stupid answer.
+q_chitchat	3.96124	Say something ridiculous
+q_chitchat	3.96124	You're an asshole
+q_chitchat	3.96124	Are you with the CIA
+q_chitchat	3.96124	Can you count to a million
+q_chitchat	3.96124	Are you old
+q_chitchat	7.922481	I love you.
+q_chitchat	3.96124	It's my pleasure
+q_chitchat	3.96124	Don't you ever sleep
+q_chitchat	3.96124	What do you think about me
+q_chitchat	3.96124	Say something stupid
+q_chitchat	3.96124	What can you do
+q_chitchat	3.96124	Why don't you ever stop talking
+q_chitchat	3.96124	You're such a sweetheart
+q_chitchat	3.96124	Try to make some sense
+q_chitchat	3.96124	Accurate
+q_chitchat	3.96124	Are you there
+q_chitchat	3.96124	How beautiful am i
+q_chitchat	3.96124	What can you help me with
+q_chitchat	3.96124	You are no longer employed
+q_chitchat	3.96124	Do you love anyone
+q_chitchat	3.96124	Are you a man
+q_chitchat	3.96124	Here I am
+q_chitchat	3.96124	What do you think about Cortana
+q_chitchat	3.96124	Will you be my best friend
+q_chitchat	3.96124	Hello
+q_chitchat	3.96124	Do you ever get hungry
+q_chitchat	3.96124	You're dumb
+q_chitchat	3.96124	That was correct
+q_chitchat	3.96124	I want to be your friend.
+q_chitchat	3.96124	Hello Google
+q_chitchat	3.96124	What do you do
+q_chitchat	3.96124	I think you're dreamy
+q_chitchat	3.96124	My sincere thanks
+q_chitchat	3.96124	Do you not like me
+q_chitchat	3.96124	You're funny
+q_chitchat	3.96124	Useless
+q_chitchat	3.96124	I'm not following
+q_chitchat	3.96124	I got a new haircut
+q_chitchat	3.96124	Do you think dragons are cool
+q_chitchat	3.96124	I miss you so much!
+q_chitchat	3.96124	Are you bisexual
+q_chitchat	3.96124	I am happy
+q_chitchat	3.96124	Do you like baseball
+q_chitchat	3.96124	You're useless
+q_chitchat	3.96124	Are you a girl
+q_chitchat	3.96124	Are you friends with other bots
+q_chitchat	3.96124	Give me a fist bump
+q_chitchat	3.96124	I am a Democrat
+q_chitchat	3.96124	Happy Hannukah
+q_chitchat	3.96124	Kthx
+q_chitchat	3.96124	Are you my fan
+q_chitchat	3.96124	Till we meet again
+q_chitchat	3.96124	Nice to meet you
+q_chitchat	3.96124	I'm so sorry
+q_chitchat	3.96124	What kind of candy do you like
+q_chitchat	3.96124	What do you think about love
+q_chitchat	3.96124	How high can you count
+q_chitchat	3.96124	What's happening
+q_chitchat	3.96124	You're such a smarty-pants
+q_chitchat	3.96124	Can we be friends
+q_faq	51.1	What is the Enterprise Bot Template
+q_faq	51.1	What is the Enterprise Bot Template
+q_faq	51.1	What is the Enterprise Bot Template
+q_faq	51.1	What is the Enterprise Bot Template
+q_faq	51.1	What is the Enterprise Bot Template
+q_faq	51.1	What is the Enterprise Bot Template
+q_faq	51.1	What is the Enterprise Bot Template
+q_faq	51.1	What is the Enterprise Bot Template
+q_faq	51.1	What is the Enterprise Bot Template
+q_faq	51.1	What is the Enterprise Bot Template

@@ -1,0 +1,237 @@
+Label	Weight	Text
+l_general	6.095238	choose the upper right one
+l_general	6.095238	i want neither of them
+l_general	6.095238	finished with
+l_general	6.095238	no cancel
+l_general	6.095238	calendar i ' ll be at the garage from 8 till 3 this saturday
+l_general	6.095238	do nothing
+l_general	6.095238	let me clear all the notes created on last monday
+l_general	6.095238	voice activated reading of appointments this week
+l_general	6.095238	select third
+l_general	6.095238	oof
+l_general	6.095238	i want to choose the fourth
+l_general	6.095238	meeting my manager
+l_general	6.095238	exit stop
+l_general	6.095238	can you clear mom note
+l_general	6.095238	none none of them
+l_general	6.095238	okay i got it
+l_general	6.095238	back to last step
+l_general	6.095238	say that again
+l_general	6.095238	can you set a note up to mom
+l_general	6.095238	health benefits
+l_general	6.095238	bend oregon exotic restaurants please
+l_general	6.095238	choose the fourth one
+l_general	6.095238	i like the third choice
+l_general	6.095238	baby just be quiet
+l_general	6.095238	choose the bottom left
+l_general	6.095238	nowhere just be quiet
+l_general	6.095238	what about the last
+l_general	6.095238	soda popinski sf
+l_general	6.095238	holomap stockholm metro (3d map) please
+l_general	6.095238	end
+l_general	6.095238	travel
+l_general	6.095238	i like the third
+l_general	6.095238	shut up be quiet
+l_general	6.095238	i need to go to the next one
+l_general	6.095238	all finished
+l_general	6.095238	no go back to
+l_general	6.095238	i want to talk to a real human
+l_general	6.095238	go to the previous one
+l_general	6.095238	back to last
+l_general	6.095238	fitness
+l_general	6.095238	cancel app
+l_general	6.095238	next
+l_general	6.095238	none of those
+l_general	6.095238	how many days are there between march 13th 2015 and today
+l_general	6.095238	select the first
+l_general	6.095238	finished
+l_general	6.095238	no no cancel
+l_general	6.095238	total rewards
+l_general	6.095238	give me some help
+l_general	6.095238	never mind cancel that
+l_general	6.095238	display the fastest crossing across the sahara desert
+l_general	6.095238	cancelled
+l_general	6.095238	i said stop
+l_general	6.095238	forget about it
+l_general	6.095238	show me tomorrow ' s wedding party time
+l_general	6.095238	check - in room three forty seven
+l_general	6.095238	clear last note
+l_general	6.095238	send lighter fluid to onenote
+l_general	6.095238	bring the previous one
+l_general	6.095238	mark state parks as favorite
+l_general	6.095238	a new note please
+l_general	6.095238	santa barbara maine postal please
+l_general	6.095238	i didn't hear repeat again
+l_general	6.095238	what was that again
+l_general	6.095238	what did you say
+l_general	6.095238	return to the previous one
+l_general	6.095238	be quiet now
+l_general	6.095238	i need manual customer service
+l_general	6.095238	get for me rilo eagle street address
+l_general	6.095238	i mean stop listening
+l_general	6.095238	do i have anything on wednesday
+l_general	6.095238	please help
+l_general	6.095238	check friday at 9 am
+l_general	6.095238	neither thank you
+l_general	6.095238	start again
+l_general	6.095238	show me the route to mother ' s home
+l_general	6.095238	what is the previous
+l_general	6.095238	and after that
+l_general	6.095238	i want more
+l_general	6.095238	add to wish - list computer ram
+l_general	6.095238	any help
+l_general	6.095238	immigration
+l_general	6.095238	choose the first choice
+l_general	6.095238	apply vacations
+None	51.2	all of them
+None	51.2	all of them
+None	51.2	all of them
+None	51.2	all of them
+None	51.2	all of them
+None	51.2	all of them
+None	51.2	all of them
+None	51.2	all of them
+None	51.2	all of them
+None	51.2	all of them
+q_chitchat	4	You are so bad at this.
+q_chitchat	4	Tell me how much you love me
+q_chitchat	4	Hello Google
+q_chitchat	4	Are you around
+q_chitchat	4	I don't understand
+q_chitchat	4	Are you a swinger
+q_chitchat	4	You're not making sense
+q_chitchat	4	You are now unemployed
+q_chitchat	4	You seem really happy
+q_chitchat	4	Works for me
+q_chitchat	4	Who's your favorite team
+q_chitchat	4	Not funny.
+q_chitchat	4	I just want to go to sleep
+q_chitchat	4	I'm furious
+q_chitchat	4	What do you think about me
+q_chitchat	4	Give me a fist bump
+q_chitchat	4	How was your day
+q_chitchat	4	Are you here
+q_chitchat	4	Sorry about that
+q_chitchat	4	Do you get tired
+q_chitchat	4	You're the worst
+q_chitchat	4	You're really smart
+q_chitchat	4	You're right.
+q_chitchat	4	What's your name
+q_chitchat	4	Chat with me
+q_chitchat	4	What is wrong with you!
+q_chitchat	4	I am a Republican
+q_chitchat	4	Say something
+q_chitchat	4	What's the meaning of life
+q_chitchat	4	Thnx
+q_chitchat	4	What state are you in
+q_chitchat	4	Can you make me a sandwich
+q_chitchat	4	Should I try out for soccer
+q_chitchat	4	Good evening
+q_chitchat	4	Joke's on you
+q_chitchat	4	Who am I
+q_chitchat	4	I'm so bored
+q_chitchat	4	Sing a song
+q_chitchat	4	Hello
+q_chitchat	4	Where should I go on vacation
+q_chitchat	4	Try to make some sense
+q_chitchat	4	Do you prefer red or blue
+q_chitchat	4	Yes, that's right
+q_chitchat	4	Are you a man or a woman
+q_chitchat	4	I am tired
+q_chitchat	4	I think you're so pretty
+q_chitchat	4	I'm joyous
+q_chitchat	4	Can you sing
+q_chitchat	4	I'm in love.
+q_chitchat	4	You're lame
+q_chitchat	4	Have a good night
+q_chitchat	4	I think you're great
+q_chitchat	4	Tell a joke
+q_chitchat	4	Do you ever sing
+q_chitchat	4	That doesn't make sense
+q_chitchat	4	BFFs forever
+q_chitchat	4	I want to lay down
+q_chitchat	4	What's your boss' name
+q_chitchat	4	I adore you
+q_chitchat	4	You're wonderful
+q_chitchat	4	Aren't you awesome
+q_chitchat	4	I'm so sleepy
+q_chitchat	4	I want to be your friend.
+q_chitchat	4	How old are you
+q_chitchat	4	You're so cool
+q_chitchat	4	Do you have siblings
+q_chitchat	4	Say a joke
+q_chitchat	4	You're a butterface.
+q_chitchat	4	Hum a tune
+q_chitchat	4	You're gonna be unemployed soon
+q_chitchat	4	What's your mom's name
+q_chitchat	4	I want to lie down
+q_chitchat	4	You are my best friend
+q_chitchat	4	Are you there
+q_chitchat	4	Having a good day
+q_chitchat	4	I love getting valentines.
+q_chitchat	4	Merry Christmas
+q_chitchat	4	I want you to like me
+q_chitchat	4	I'm so lonely
+q_chitchat	4	You are useless
+q_chitchat	4	How beautiful am i
+q_chitchat	4	What do you think about bots
+q_chitchat	4	Hold on a sec
+q_chitchat	4	What's your favorite movie
+q_chitchat	4	Excuse a moi
+q_chitchat	4	Are you happy
+q_chitchat	4	Yup, that's true
+q_chitchat	4	How smart are you
+q_chitchat	4	Youâ€™re ugly.
+q_chitchat	4	How high can you jump
+q_chitchat	4	That was a stupid answer.
+q_chitchat	4	Do you like Alexa
+q_chitchat	4	I wish you would say something else
+q_chitchat	4	Can you hear me
+q_chitchat	4	I'm feeling blue
+q_chitchat	4	I'm from there
+q_chitchat	4	Awesome
+q_chitchat	4	What are you doing right now
+q_chitchat	4	How are you doing
+q_chitchat	4	What country are you from
+q_chitchat	4	I'm a lesbian
+q_chitchat	4	That's right
+q_chitchat	4	Welcome to springtime!
+q_chitchat	4	You're smart
+q_chitchat	4	How intelligent are you
+q_chitchat	4	Are you better looking than me
+q_chitchat	4	Are you human
+q_chitchat	4	Hi Alexa
+q_chitchat	4	I am alone
+q_chitchat	4	I want to spend the rest of my life with you
+q_chitchat	4	Are you spying on me
+q_chitchat	4	Be ridiculous
+q_chitchat	4	Give me a kiss
+q_chitchat	4	Kthx
+q_chitchat	4	I feel sad
+q_chitchat	4	Are you HAL
+q_chitchat	4	Hahaha
+q_chitchat	4	Do you know other digital agents
+q_chitchat	4	Nobody likes me
+q_chitchat	4	I'm so sorry
+q_chitchat	4	Who's prettier, me or you
+q_chitchat	4	What is the answer to the universe
+q_chitchat	4	I hate you
+q_chitchat	4	What's going on
+q_chitchat	4	Do you know Google
+q_chitchat	4	Be funny
+q_chitchat	4	Why do you say the same thing all the time
+q_chitchat	4	I'm so sad
+q_faq	36.57143	Where do I find my vacation balance
+q_faq	36.57143	How do I report my floating holidays
+q_faq	36.57143	What confidentiality rules are in place for reporting
+q_faq	36.57143	What can I do to earn higher rewards
+q_faq	36.57143	Do shares in the Stock Award program earn a dividend
+q_faq	36.57143	How do I report my used sick leave or time away from work for a medical or dental appointment
+q_faq	36.57143	How do I report my vacation time
+q_faq	36.57143	Where do I find my vacation balance
+q_faq	36.57143	How do I report my floating holidays
+q_faq	36.57143	What confidentiality rules are in place for reporting
+q_faq	36.57143	What can I do to earn higher rewards
+q_faq	36.57143	Do shares in the Stock Award program earn a dividend
+q_faq	36.57143	How do I report my used sick leave or time away from work for a medical or dental appointment
+q_faq	36.57143	How do I report my vacation time

@@ -1,0 +1,237 @@
+Label	Weight	Text
+l_general	6.083333	i want third one
+l_general	6.083333	they look bad, can you give me other choices
+l_general	6.083333	show me the previous one
+l_general	6.083333	no cancel it
+l_general	6.083333	what's up next
+l_general	6.083333	neither one of them
+l_general	6.083333	b forty nine bus map brooklyn
+l_general	6.083333	show the next one
+l_general	6.083333	nerver mind
+l_general	6.083333	no be quiet now
+l_general	6.083333	apply leave
+l_general	6.083333	i want to choose bottom one
+l_general	6.083333	update note of number one
+l_general	6.083333	any of it
+l_general	6.083333	i want the lower choice
+l_general	6.083333	i am done
+l_general	6.083333	select the bottom choice
+l_general	6.083333	canceled
+l_general	6.083333	could you start it over
+l_general	6.083333	return
+l_general	6.083333	get directions to uniondale high school
+l_general	6.083333	i need help
+l_general	6.083333	attorney
+l_general	6.083333	some help
+l_general	6.083333	" i want to create a note of title shopping list " " " " "
+l_general	6.083333	go forward
+l_general	6.083333	select any
+l_general	6.083333	ojai apple picking
+l_general	6.083333	exit exit
+l_general	6.083333	go back to previous
+l_general	6.083333	affordable insurance washington ave albany ny 12222 please
+l_general	6.083333	show me the route to west avenue miami beach
+l_general	6.083333	what's after that
+l_general	6.083333	move to the next one
+l_general	6.083333	i want to choose the lower choice
+l_general	6.083333	go back to
+l_general	6.083333	my benefits
+l_general	6.083333	go back to the last one
+l_general	6.083333	add a new event on 27 - apr
+l_general	6.083333	anything
+l_general	6.083333	address to city of atlanta corrections
+l_general	6.083333	neither of those
+l_general	6.083333	i don't want to select any one
+l_general	6.083333	cancel never mind
+l_general	6.083333	i love you to stop talking
+l_general	6.083333	any one is ok
+l_general	6.083333	schedule appointment for tomorrow please
+l_general	6.083333	i like the first one
+l_general	6.083333	shut up quiet
+l_general	6.083333	i want to choose second one
+l_general	6.083333	choose last
+l_general	6.083333	i like second
+l_general	6.083333	shut up
+l_general	6.083333	what about next one
+l_general	6.083333	select the last choice
+l_general	6.083333	select any choice
+l_general	6.083333	show me the next
+l_general	6.083333	ok stop stop
+l_general	6.083333	is the distance betwee the zoo and my current location thirteen miles
+l_general	6.083333	opt for the last one
+l_general	6.083333	travel advisory to india
+l_general	6.083333	what's the next 2
+l_general	6.083333	bbq near olympia wa please
+l_general	6.083333	go away
+l_general	6.083333	i ' m at home
+l_general	6.083333	who can help me
+l_general	6.083333	opt for the lower choice
+l_general	6.083333	back to the last one
+l_general	6.083333	is keil available tomorrow
+l_general	6.083333	sorry, don't do it
+l_general	6.083333	show the next 4 items
+l_general	6.083333	i don't want to choose any one
+l_general	6.083333	choose top right
+l_general	6.083333	i need real human help
+l_general	6.083333	human service
+l_general	6.083333	add imax theater to my upcoming events
+l_general	6.083333	choose top right one
+l_general	6.083333	add a new task finish assignment
+l_general	6.083333	when is paul available
+l_general	6.083333	travel advisory
+l_general	6.083333	neither one
+l_general	6.083333	back to
+l_general	6.083333	dismiss
+l_general	6.083333	shut your mouth
+None	51.1	i want them all
+None	51.1	i want them all
+None	51.1	i want them all
+None	51.1	i want them all
+None	51.1	i want them all
+None	51.1	i want them all
+None	51.1	i want them all
+None	51.1	i want them all
+None	51.1	i want them all
+None	51.1	i want them all
+q_chitchat	3.96124	Pardon
+q_chitchat	3.96124	Basic af
+q_chitchat	3.96124	You are no longer employed
+q_chitchat	3.96124	Can you play sports
+q_chitchat	3.96124	You are fired
+q_chitchat	3.96124	Can you hear me now
+q_chitchat	3.96124	You're such a sweetheart
+q_chitchat	3.96124	What color do you like
+q_chitchat	3.96124	Sing a tune
+q_chitchat	3.96124	How are you
+q_chitchat	3.96124	What's your age
+q_chitchat	3.96124	I'd like to take you out on a date
+q_chitchat	3.96124	Give me some sugar
+q_chitchat	3.96124	I love my family.
+q_chitchat	3.96124	How much more awesome can you get
+q_chitchat	3.96124	I wish I weren't so alone
+q_chitchat	3.96124	What's your purpose
+q_chitchat	3.96124	Hug me
+q_chitchat	3.96124	Are you really happy
+q_chitchat	3.96124	Yes, that's true
+q_chitchat	3.96124	I'm ready for bed
+q_chitchat	3.96124	You're so happy
+q_chitchat	3.96124	Who's your boss
+q_chitchat	3.96124	How do you feel about working late
+q_chitchat	3.96124	Aren't you chipper
+q_chitchat	3.96124	What's your favorite food
+q_chitchat	3.96124	I'm your biggest fan
+q_chitchat	3.96124	Can't you change your answers
+q_chitchat	3.96124	Are you selling my data
+q_chitchat	3.96124	How can you help me
+q_chitchat	3.96124	I'm so madqw  b
+q_chitchat	3.96124	I'm chewing gum right now
+q_chitchat	3.96124	Are you available
+q_chitchat	3.96124	Are you smarter than me
+q_chitchat	3.96124	Which one of us is more beautiful
+q_chitchat	3.96124	Talk with me
+q_chitchat	3.96124	Till we meet again
+q_chitchat	3.96124	Are you awesome
+q_chitchat	3.96124	Do you have sisters
+q_chitchat	3.96124	I wish you just go away.
+q_chitchat	3.96124	You bore me
+q_chitchat	3.96124	Sing something
+q_chitchat	3.96124	Are you queer
+q_chitchat	3.96124	Do you know any songs
+q_chitchat	3.96124	What's up
+q_chitchat	3.96124	I'm sad today
+q_chitchat	3.96124	You're a fuckup
+q_chitchat	3.96124	That's hilarious
+q_chitchat	3.96124	Do you ever get hungry
+q_chitchat	3.96124	What should I do
+q_chitchat	3.96124	I think you're swell
+q_chitchat	3.96124	Are you pansexual
+q_chitchat	3.96124	Testing
+q_chitchat	3.96124	I'm in love with you.
+q_chitchat	3.96124	Do you know who I am
+q_chitchat	3.96124	Back in a minute
+q_chitchat	3.96124	It's really nice to meet you
+q_chitchat	3.96124	Hiya
+q_chitchat	3.96124	I'm all tuckered out
+q_chitchat	3.96124	Nighty night
+q_chitchat	3.96124	I appreciate it
+q_chitchat	3.96124	Happy Birthday!
+q_chitchat	3.96124	I'm despondent
+q_chitchat	3.96124	Are you intelligent
+q_chitchat	3.96124	That wasn't funny.
+q_chitchat	3.96124	Are you with the NSA
+q_chitchat	3.96124	I'm just playing
+q_chitchat	3.96124	Can you read my mind
+q_chitchat	3.96124	Say a silly thing
+q_chitchat	3.96124	I'm tired
+q_chitchat	3.96124	When were you born
+q_chitchat	3.96124	I want to eat something
+q_chitchat	3.96124	Who's your mom
+q_chitchat	3.96124	Hi Cortana
+q_chitchat	3.96124	Say something stupid
+q_chitchat	3.96124	Can you say anything else
+q_chitchat	3.96124	I don't get it
+q_chitchat	3.96124	Your face is like a pancake.
+q_chitchat	3.96124	Thanks
+q_chitchat	3.96124	Are you young
+q_chitchat	3.96124	What's your favorite activity
+q_chitchat	3.96124	How's your day going
+q_chitchat	3.96124	Are you free
+q_chitchat	3.96124	Who's your dad
+q_chitchat	3.96124	There
+q_chitchat	3.96124	Bye
+q_chitchat	3.96124	Do you have a family
+q_chitchat	3.96124	Be quiet
+q_chitchat	3.96124	Where are you
+q_chitchat	3.96124	What did you do yesterday
+q_chitchat	3.96124	I'm an engineer
+q_chitchat	3.96124	Shush!
+q_chitchat	3.96124	What can you help me with
+q_chitchat	3.96124	Great!
+q_chitchat	3.96124	I need a kiss
+q_chitchat	3.96124	I beg your pardon
+q_chitchat	3.96124	Do you like apples
+q_chitchat	3.96124	I can't think of anything I want to do
+q_chitchat	3.96124	What were you doing yesterday
+q_chitchat	3.96124	Zip it!
+q_chitchat	3.96124	You're an asshole
+q_chitchat	3.96124	You are a genius!
+q_chitchat	3.96124	Yes
+q_chitchat	3.96124	Where'd you come from
+q_chitchat	3.96124	That's so wrong.
+q_chitchat	3.96124	Where's your house
+q_chitchat	3.96124	Can we be friends
+q_chitchat	3.96124	What makes you think that
+q_chitchat	3.96124	Who's smarter, me or you
+q_chitchat	3.96124	Do you like me
+q_chitchat	3.96124	You are so not pretty.
+q_chitchat	3.96124	Are you a woman
+q_chitchat	3.96124	Are you with the CIA
+q_chitchat	3.96124	What do you even mean by that
+q_chitchat	3.96124	I am going on a run
+q_chitchat	3.96124	What do you think about technology
+q_chitchat	3.96124	Who's your favorite singer
+q_chitchat	3.96124	How high can you count
+q_chitchat	3.96124	Nope, false
+q_chitchat	3.96124	Who is your father
+q_chitchat	7.922481	I love you.
+q_chitchat	3.96124	Do you have any other responses
+q_chitchat	3.96124	Can you sing a song
+q_chitchat	3.96124	What's wrong with you
+q_chitchat	3.96124	What are you doing tomorrow
+q_chitchat	3.96124	Am I a good person
+q_chitchat	3.96124	You suck
+q_chitchat	3.96124	Night
+q_faq	36.5	Where do I find my sick leave balance
+q_faq	36.5	Where do I find my floating holiday balance
+q_faq	36.5	What is Microsoft Policy on travel letter
+q_faq	36.5	How will this policy impact the easy id: firstname.lastname@microsoft.com
+q_faq	36.5	In New Hire When can a specific alias be requested
+q_faq	36.5	How do I report my jury duty time
+q_faq	36.5	What are stock awards
+q_faq	36.5	Where do I find my sick leave balance
+q_faq	36.5	Where do I find my floating holiday balance
+q_faq	36.5	What is Microsoft Policy on travel letter
+q_faq	36.5	How will this policy impact the easy id: firstname.lastname@microsoft.com
+q_faq	36.5	In New Hire When can a specific alias be requested
+q_faq	36.5	How do I report my jury duty time
+q_faq	36.5	What are stock awards

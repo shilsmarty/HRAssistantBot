@@ -1,0 +1,227 @@
+Label	Weight	Text
+l_general	6.564103	select the lower one
+l_general	6.564103	i want to talk to a real human
+l_general	6.564103	i want neither of them
+l_general	6.564103	none of these
+l_general	6.564103	please begin again
+l_general	6.564103	add tasks to wunderlist
+l_general	6.564103	i like left one
+l_general	6.564103	what about next one
+l_general	6.564103	move to the next one
+l_general	6.564103	back to
+l_general	6.564103	go back on
+l_general	6.564103	clear all items from the chores list .
+l_general	6.564103	turn off stop
+l_general	6.564103	none of those
+l_general	6.564103	i want to choose second one
+l_general	6.564103	save the current note
+l_general	6.564103	quit
+l_general	6.564103	calendar i ' ll be at the garage from 8 till 3 this saturday
+l_general	6.564103	distance from taco bell to my location
+l_general	6.564103	show previous
+l_general	6.564103	never mind stop
+l_general	6.564103	get directions to uniondale high school
+l_general	6.564103	get back
+l_general	6.564103	shut up be quiet
+l_general	6.564103	is there any help
+l_general	6.564103	choose one of it randomly
+l_general	6.564103	i want to choose the first one
+l_general	6.564103	i want the first
+l_general	6.564103	can you help
+l_general	6.564103	show me the previous one
+l_general	6.564103	what after that
+l_general	6.564103	oh my god shut up
+l_general	6.564103	opt for first one
+l_general	6.564103	all set
+l_general	6.564103	show the previous one
+l_general	6.564103	forget about it
+l_general	6.564103	opt for last
+l_general	6.564103	i want to choose the left one
+l_general	6.564103	don't do that anymore
+l_general	6.564103	i want to choose right
+l_general	6.564103	ok stop stop
+l_general	6.564103	say again please
+l_general	6.564103	select a random one
+l_general	6.564103	go back to the last one
+l_general	6.564103	opt for any of it
+l_general	6.564103	contact support
+l_general	6.564103	anyone is fine
+l_general	6.564103	i am finished
+l_general	6.564103	where i am driving right now
+l_general	6.564103	choose last one
+l_general	6.564103	cancel app
+l_general	6.564103	holomap stockholm metro (3d map) please
+l_general	6.564103	choose the fourth one
+l_general	6.564103	go to the next one
+l_general	6.564103	i want to choose lower right
+l_general	6.564103	tell me the event details
+l_general	6.564103	choose the upper left choice
+l_general	6.564103	no no cancel it
+l_general	6.564103	check friday at 9 am
+l_general	6.564103	check lee ' s calender
+l_general	6.564103	what's before that
+l_general	6.564103	sorry, don't do it
+l_general	6.564103	add friends to party list in memos
+l_general	6.564103	pull up my appointment find out how much time i have before my next appointment
+l_general	6.564103	i want more
+l_general	6.564103	put applebee ' s on favorite list
+l_general	6.564103	don't do that
+l_general	6.564103	payway please
+l_general	6.564103	select any choice
+l_general	6.564103	never mind cancel that
+l_general	6.564103	i have not heard
+l_general	6.564103	help me in clearing the shopping note
+l_general	6.564103	i said stop
+l_general	6.564103	end it
+l_general	6.564103	what's the next 2
+l_general	6.564103	view tom chros availability
+l_general	6.564103	i like the third
+l_general	6.564103	please help
+None	51.2	all of them
+None	51.2	all of them
+None	51.2	all of them
+None	51.2	all of them
+None	51.2	all of them
+None	51.2	all of them
+None	51.2	all of them
+None	51.2	all of them
+None	51.2	all of them
+None	51.2	all of them
+q_chitchat	4	Are you real
+q_chitchat	4	Who's your favorite team
+q_chitchat	4	What kind of candy do you like
+q_chitchat	4	Do you sing
+q_chitchat	4	Can you sing a song
+q_chitchat	4	What's your favorite animal
+q_chitchat	4	That wasn't true
+q_chitchat	4	You're smart
+q_chitchat	4	Correct
+q_chitchat	4	You're right.
+q_chitchat	4	What's going on
+q_chitchat	4	I am tall
+q_chitchat	4	You made no sense
+q_chitchat	4	Merry Christmas
+q_chitchat	4	Hahaha
+q_chitchat	4	It's my pleasure
+q_chitchat	4	Have you met Cortana
+q_chitchat	4	Should I try out for soccer
+q_chitchat	4	Give me a high five
+q_chitchat	4	Why do you hate me
+q_chitchat	4	Do you have a family
+q_chitchat	4	High five!
+q_chitchat	4	I'm just kidding around
+q_chitchat	4	Talk to you later
+q_chitchat	4	How's your day
+q_chitchat	4	I hate everything about you
+q_chitchat	4	You are useless
+q_chitchat	4	What can you do
+q_chitchat	4	You're so stupid
+q_chitchat	4	I'm in love.
+q_chitchat	4	You're boring
+q_chitchat	4	Do you believe in love
+q_chitchat	4	You're such a smarty-pants
+q_chitchat	4	Aren't you awesome
+q_chitchat	4	Do you like apples
+q_chitchat	4	How smart are you
+q_chitchat	4	Am I a good person
+q_chitchat	4	Butterface.
+q_chitchat	4	I want to spend the rest of my life with you
+q_chitchat	4	Which one of us is more beautiful
+q_chitchat	4	Do you know Siri
+q_chitchat	4	Are you a boy
+q_chitchat	4	Thanks
+q_chitchat	4	I am going on a run
+q_chitchat	4	What's my name
+q_chitchat	4	Are you gay
+q_chitchat	4	You are funny :)
+q_chitchat	4	Are you bisexual
+q_chitchat	4	Joke's on you
+q_chitchat	4	Bye
+q_chitchat	4	Are you a robot
+q_chitchat	4	What can you help me with
+q_chitchat	4	are you real or fake
+q_chitchat	4	Do you know any songs
+q_chitchat	4	Kiss me
+q_chitchat	4	What's up
+q_chitchat	4	Are you a fan of country music
+q_chitchat	4	You are a genius!
+q_chitchat	4	I'm so glad to meet you
+q_chitchat	4	I'm tired
+q_chitchat	4	What do you think about AI
+q_chitchat	4	Are you old
+q_chitchat	4	Where'd you come from
+q_chitchat	4	Sing something
+q_chitchat	4	Are you happy
+q_chitchat	4	I think you hate me.
+q_chitchat	4	Who's your boss
+q_chitchat	4	Are you there
+q_chitchat	4	Are you with the CIA
+q_chitchat	4	How much do you love me
+q_chitchat	4	Can you sleep
+q_chitchat	4	Do you want to rule the world
+q_chitchat	4	Do you eat
+q_chitchat	4	I'm starving
+q_chitchat	4	You are my favorite
+q_chitchat	4	You're really boring
+q_chitchat	4	You're so boring
+q_chitchat	4	Can you talk to me
+q_chitchat	4	Good night
+q_chitchat	4	Can you chat with me
+q_chitchat	4	Haha
+q_chitchat	4	Do you pee
+q_chitchat	4	You're very intelligent
+q_chitchat	4	Aren't you chipper
+q_chitchat	4	Are you a girl or a boy
+q_chitchat	4	What state are you in
+q_chitchat	4	That's right
+q_chitchat	4	I want to lie down
+q_chitchat	4	What's your purpose
+q_chitchat	4	I am happy
+q_chitchat	4	I'm ready for bed
+q_chitchat	4	What did you do today
+q_chitchat	4	Am I a fool
+q_chitchat	4	Are you with the FBI
+q_chitchat	4	Are you my imaginary friend
+q_chitchat	4	Who's your mom
+q_chitchat	4	That wasn't funny.
+q_chitchat	4	What's your opinion of me
+q_chitchat	4	Thank you so much
+q_chitchat	4	I am here
+q_chitchat	4	Nobody likes me
+q_chitchat	4	You're not making sense
+q_chitchat	4	Which baseball teams do you like
+q_chitchat	4	You are so unfunny.
+q_chitchat	4	I miss you
+q_chitchat	4	What makes you think so
+q_chitchat	4	I just want to go to sleep
+q_chitchat	4	Tell me a joke
+q_chitchat	4	Who am I
+q_chitchat	4	Do you think I look good
+q_chitchat	4	Do I look good in blue
+q_chitchat	4	Are you hungry
+q_chitchat	4	Happy Hannukah
+q_chitchat	4	Are you a spy
+q_chitchat	4	Basic af
+q_chitchat	4	Sorry about that
+q_chitchat	4	Are you selling my data
+q_chitchat	4	What is wrong with you!
+q_chitchat	4	You bore me
+q_chitchat	4	You are my best friend
+q_chitchat	4	Thank you
+q_chitchat	4	How much more awesome can you get
+q_chitchat	4	Can you read my mind
+q_chitchat	4	I need a hug
+q_chitchat	4	Do you have a sister
+q_chitchat	4	What's your favorite movie
+q_chitchat	4	Do you have a brother
+q_chitchat	4	Where's your house
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template

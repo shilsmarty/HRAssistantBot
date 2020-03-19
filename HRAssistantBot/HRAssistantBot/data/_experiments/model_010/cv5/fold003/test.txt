@@ -1,0 +1,227 @@
+Label	Weight	Text
+l_general	6.564103	go to the next three items
+l_general	6.564103	add oatmeal to shopping list .
+l_general	6.564103	add mark to guest list
+l_general	6.564103	show the next two options
+l_general	6.564103	add fred george to onenote
+l_general	6.564103	what after that
+l_general	6.564103	is keil available tomorrow
+l_general	6.564103	tell me the event details
+l_general	6.564103	no never mind
+l_general	6.564103	is there any real human
+l_general	6.564103	update note of number one
+l_general	6.564103	submit it
+l_general	6.564103	say again please
+l_general	6.564103	select the last choice
+l_general	6.564103	opt for last
+l_general	6.564103	go to the next one
+l_general	6.564103	never mind stop
+l_general	6.564103	what before that
+l_general	6.564103	repeat please
+l_general	6.564103	no no go back to
+l_general	6.564103	submit
+l_general	6.564103	i want to choose bottom one
+l_general	6.564103	any help
+l_general	6.564103	address to city of atlanta corrections
+l_general	6.564103	previous one please
+l_general	6.564103	tesco ' s catterick garrison address please
+l_general	6.564103	check lee ' s calender
+l_general	6.564103	i like upper right
+l_general	6.564103	what is the previous
+l_general	6.564103	show the previous one
+l_general	6.564103	i didn't hear repeat again
+l_general	6.564103	pardon
+l_general	6.564103	oh my god shut up
+l_general	6.564103	i don't want to select any one
+l_general	6.564103	help me in clearing the shopping note
+l_general	6.564103	santa barbara maine postal please
+l_general	6.564103	can you help me
+l_general	6.564103	and after that
+l_general	6.564103	save the current note
+l_general	6.564103	what was that again
+l_general	6.564103	sorry
+l_general	6.564103	just cancel
+l_general	6.564103	neither thank you
+l_general	6.564103	show more
+l_general	6.564103	select any of it
+l_general	6.564103	create note with notepad
+l_general	6.564103	go back
+l_general	6.564103	i like the third choice
+l_general	6.564103	i want left
+l_general	6.564103	select no.5
+l_general	6.564103	check friday at 9 am
+l_general	6.564103	choose top right
+l_general	6.564103	nashville humane society rover please
+l_general	6.564103	any of it
+l_general	6.564103	select a random choice
+l_general	6.564103	turn over a new leaf
+l_general	6.564103	human service
+l_general	6.564103	oh cancel
+l_general	6.564103	start over it
+l_general	6.564103	select lower one
+l_general	6.564103	put applebee ' s on favorite list
+l_general	6.564103	all set
+l_general	6.564103	i love you to stop talking
+l_general	6.564103	i want to choose the lower choice
+l_general	6.564103	some help
+l_general	6.564103	show the next one
+l_general	6.564103	choose last
+l_general	6.564103	i said stop
+l_general	6.564103	i am finished
+l_general	6.564103	please clear the untitled notes for me
+l_general	6.564103	that ' s good
+l_general	6.564103	add to wish - list computer ram
+l_general	6.564103	pull up my appointment find out how much time i have before my next appointment
+l_general	6.564103	add a new event on 27 - apr
+l_general	6.564103	show the next 3
+l_general	6.564103	i want to choose right
+l_general	6.564103	" i want to create a note of title shopping list " " " " "
+l_general	6.564103	no cancel cancel
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+q_chitchat	4	You're so stupid
+q_chitchat	4	Why is that
+q_chitchat	4	Can you count to a million
+q_chitchat	4	How beautiful am i
+q_chitchat	4	Can we be friends
+q_chitchat	4	What do you like to sing best
+q_chitchat	4	Are you happy
+q_chitchat	4	I want to eat something
+q_chitchat	4	I'm ticked off
+q_chitchat	4	What is the meaning of life
+q_chitchat	4	Are you a lesbian
+q_chitchat	4	What's your dad's name
+q_chitchat	4	Hold on a sec
+q_chitchat	4	Works for me
+q_chitchat	4	Merry Christmas
+q_chitchat	4	Are you a fan of country music
+q_chitchat	4	Hello Google
+q_chitchat	4	Pardon
+q_chitchat	4	I think you hate me.
+q_chitchat	4	I'm tired of you
+q_chitchat	4	Am I a good person
+q_chitchat	4	I am hungry
+q_chitchat	4	What's going on
+q_chitchat	4	Do you play games
+q_chitchat	4	How's your day
+q_chitchat	4	Are you asexual
+q_chitchat	4	Give me a fist bump
+q_chitchat	4	Is this thing on
+q_chitchat	4	I'm chewing gum right now
+q_chitchat	4	What's new
+q_chitchat	4	You're not answering my question.
+q_chitchat	4	How much do you love me
+q_chitchat	4	Yes, that's true
+q_chitchat	4	I'd like to take you out on a date
+q_chitchat	4	You're smart
+q_chitchat	4	I want to lie down
+q_chitchat	4	False
+q_chitchat	4	Who's prettier, me or you
+q_chitchat	4	Love you!
+q_chitchat	4	Are you prettier than me
+q_chitchat	4	What do you think about Cortana
+q_chitchat	4	It's really nice to meet you
+q_chitchat	4	Who is your creator
+q_chitchat	4	Do you eat
+q_chitchat	4	Nobody cares about me
+q_chitchat	4	I'm feeling blue
+q_chitchat	4	Thank you so much
+q_chitchat	4	I love music.
+q_chitchat	4	Are you trans
+q_chitchat	4	Everything you told me was false.
+q_chitchat	4	Be ridiculous
+q_chitchat	4	I am doing that
+q_chitchat	4	Do you know any jokes
+q_chitchat	4	You're such a sweetheart
+q_chitchat	4	I am annoyed
+q_chitchat	4	I'm full of sadness
+q_chitchat	4	Sing a song
+q_chitchat	4	High five!
+q_chitchat	4	What kind of candy do you like
+q_chitchat	4	Do you think you're smarter than me
+q_chitchat	4	Where should I go on vacation
+q_chitchat	4	Who's your daddy
+q_chitchat	4	Yup, that's true
+q_chitchat	4	Try to make some sense
+q_chitchat	4	Can you say anything else
+q_chitchat	4	Can you hear me now
+q_chitchat	4	Are you there
+q_chitchat	4	Are you a person
+q_chitchat	4	You're so happy
+q_chitchat	4	I think you're great
+q_chitchat	4	Are you old
+q_chitchat	4	So tired
+q_chitchat	4	Thank you
+q_chitchat	4	You're way off.
+q_chitchat	4	I'm ready for bed
+q_chitchat	4	I miss you so much!
+q_chitchat	4	That's right
+q_chitchat	4	How are you
+q_chitchat	4	I am angry
+q_chitchat	4	How smart you are
+q_chitchat	4	I'm so hungry
+q_chitchat	4	Can you talk to me
+q_chitchat	4	I'm an engineer
+q_chitchat	4	Back in a minute
+q_chitchat	4	Am I a fool
+q_chitchat	4	Stop talking
+q_chitchat	4	Do you spend time in your garden
+q_chitchat	4	Goodbye
+q_chitchat	4	Are you better looking than me
+q_chitchat	4	My sincere thanks
+q_chitchat	4	What state are you in
+q_chitchat	4	What can you help me with
+q_chitchat	4	I am happy
+q_chitchat	4	Morning
+q_chitchat	4	Do you know other bots
+q_chitchat	4	I don't understand
+q_chitchat	4	Hi Alexa
+q_chitchat	4	Happy Hannukah
+q_chitchat	4	Are you gay
+q_chitchat	4	I need a hug
+q_chitchat	4	Quiet, you
+q_chitchat	4	Be my friend
+q_chitchat	4	Talk to you later
+q_chitchat	4	You're the worst
+q_chitchat	4	You're a butterface.
+q_chitchat	4	Tell me a joke
+q_chitchat	4	What can you do
+q_chitchat	4	Hi there!
+q_chitchat	4	Shut up
+q_chitchat	4	What's your favorite song
+q_chitchat	4	How do you feel about working late
+q_chitchat	4	What's happening
+q_chitchat	4	Should I try out for soccer
+q_chitchat	4	Am I pretty
+q_chitchat	4	I think you're so pretty
+q_chitchat	4	How can you help me
+q_chitchat	4	You are so annoying!
+q_chitchat	4	I'm not following
+q_chitchat	4	Are you selling my data
+q_chitchat	4	Do you like Alexa
+q_chitchat	4	What's your favorite color
+q_chitchat	4	What are you doing
+q_chitchat	4	Where are you located
+q_chitchat	4	Thnx
+q_chitchat	4	That was right
+q_chitchat	4	Nobody likes me
+q_chitchat	4	What's my name
+q_chitchat	4	I have 7 cats
+q_faq	51.2	Can we exclude an employee from the survey
+q_faq	51.2	What leave of absence policies does Microsoft have
+q_faq	51.2	How do I report my floating holidays
+q_faq	51.2	Do shares in the Stock Award program earn a dividend
+q_faq	51.2	How do I request a leave of absence
+q_faq	51.2	Can we exclude an employee from the survey
+q_faq	51.2	What leave of absence policies does Microsoft have
+q_faq	51.2	How do I report my floating holidays
+q_faq	51.2	Do shares in the Stock Award program earn a dividend
+q_faq	51.2	How do I request a leave of absence

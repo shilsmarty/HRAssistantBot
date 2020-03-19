@@ -1,0 +1,231 @@
+Label	Weight	Text
+l_general	6.564103	select the right one
+l_general	6.564103	go to the next one
+l_general	6.564103	please return
+l_general	6.564103	i want to choose the fourth
+l_general	6.564103	show the next one
+l_general	6.564103	i want to choose third
+l_general	6.564103	no cancel that
+l_general	6.564103	move to the next one
+l_general	6.564103	clear last note
+l_general	6.564103	i mean stop listening
+l_general	6.564103	neither one
+l_general	6.564103	opt for the lower choice
+l_general	6.564103	" i want to create a note of title shopping list " " " " "
+l_general	6.564103	no go back to
+l_general	6.564103	go back please
+l_general	6.564103	end it
+l_general	6.564103	i want to choose the right
+l_general	6.564103	some help
+l_general	6.564103	what's before that
+l_general	6.564103	oh don't do that
+l_general	6.564103	can you help
+l_general	6.564103	can you set a note up to mom
+l_general	6.564103	choose the fourth one
+l_general	6.564103	shut your mouth
+l_general	6.564103	come on stop
+l_general	6.564103	select the first
+l_general	6.564103	search for meetings with chris
+l_general	6.564103	say that again
+l_general	6.564103	none none of them
+l_general	6.564103	start again
+l_general	6.564103	choose the bottom left
+l_general	6.564103	to buy list
+l_general	6.564103	no never mind
+l_general	6.564103	i want the right one
+l_general	6.564103	no shut up
+l_general	6.564103	i like second
+l_general	6.564103	quiet
+l_general	6.564103	back to
+l_general	6.564103	check lee ' s calender
+l_general	6.564103	done
+l_general	6.564103	is there any real person
+l_general	6.564103	mark state parks as favorite
+l_general	6.564103	how far is gainesville from here
+l_general	6.564103	i want to choose the left one
+l_general	6.564103	shut the fuck up
+l_general	6.564103	meeting my manager
+l_general	6.564103	select lower one
+l_general	6.564103	customer service
+l_general	6.564103	shut up be quiet
+l_general	6.564103	anything
+l_general	6.564103	back please
+l_general	6.564103	check - in room three forty seven
+l_general	6.564103	all set
+l_general	6.564103	no no go back to
+l_general	6.564103	restart
+l_general	6.564103	repeat
+l_general	6.564103	help
+l_general	6.564103	show previous
+l_general	6.564103	voice activated reading of appointments this week
+l_general	6.564103	shut up quiet
+l_general	6.564103	open help
+l_general	6.564103	i am done
+l_general	6.564103	i have not heard
+l_general	6.564103	show more
+l_general	6.564103	go to the next three items
+l_general	6.564103	choose the first choice
+l_general	6.564103	go away
+l_general	6.564103	opt for right one
+l_general	6.564103	turn over a new leaf
+l_general	6.564103	never mind stop
+l_general	6.564103	is there any help
+l_general	6.564103	no be quiet
+l_general	6.564103	show the next two options
+l_general	6.564103	i want bottom
+l_general	6.564103	i like the upper right
+l_general	6.564103	add a new task finish assignment
+l_general	6.564103	show the previous one
+l_general	6.564103	opt for the last one
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+q_chitchat	4	Do you know who I am
+q_chitchat	4	Say something ridiculous
+q_chitchat	4	You're wonderful
+q_chitchat	4	What did you do today
+q_chitchat	4	Can you hear me
+q_chitchat	4	Stop talking
+q_chitchat	4	Everything you told me was false.
+q_chitchat	4	Are you hungry
+q_chitchat	4	What's your age
+q_chitchat	4	I'm in love.
+q_chitchat	4	Which one of us is more beautiful
+q_chitchat	4	Testing 1 2 3
+q_chitchat	4	Are you with the CIA
+q_chitchat	4	How long ago were you born
+q_chitchat	4	You suck
+q_chitchat	4	ROFL
+q_chitchat	4	Chat with me
+q_chitchat	4	Are you my fan
+q_chitchat	4	LOL
+q_chitchat	4	You're stupid
+q_chitchat	4	Love you!
+q_chitchat	4	Who's your boss
+q_chitchat	4	Do you like computers
+q_chitchat	4	Can you sing
+q_chitchat	4	Do you know any songs
+q_chitchat	4	Do you love me
+q_chitchat	4	You're hilarious
+q_chitchat	4	What's the name of your boss
+q_chitchat	4	Inaccurate
+q_chitchat	4	You are so annoying!
+q_chitchat	4	What do you want to know about me
+q_chitchat	4	What other bots do you know
+q_chitchat	4	Do you think I should ask her out
+q_chitchat	4	What do you think about Cortana
+q_chitchat	4	You made no sense
+q_chitchat	4	What is up
+q_chitchat	4	I wish you just go away.
+q_chitchat	4	Hold on a sec
+q_chitchat	4	Evening
+q_chitchat	4	You're very intelligent
+q_chitchat	4	Hi
+q_chitchat	4	Why are you so boring
+q_chitchat	4	Will you be my wife
+q_chitchat	4	What's wrong with you
+q_chitchat	4	Can you ask me a question
+q_chitchat	4	When will you shut up
+q_chitchat	4	You are stupid
+q_chitchat	4	Do you know me
+q_chitchat	4	That made no sense
+q_chitchat	4	I'm full of sadness
+q_chitchat	4	You must hate me.
+q_chitchat	4	What do you think about Siri
+q_chitchat	4	Do I look okay
+q_chitchat	4	Nighty night
+q_chitchat	4	Are you free
+q_chitchat	4	Nope, false
+q_chitchat	4	Are you young
+q_chitchat	4	Look at how smart you are
+q_chitchat	4	Say a silly thing
+q_chitchat	4	I'm an engineer
+q_chitchat	4	I hope you like me
+q_chitchat	4	I wish I weren't so alone
+q_chitchat	4	What's your dad's name
+q_chitchat	4	Do you prefer red or blue
+q_chitchat	4	You're no fun
+q_chitchat	4	Where should I go on vacation
+q_chitchat	4	Who am I
+q_chitchat	4	You're such a sweetheart
+q_chitchat	4	Heya
+q_chitchat	4	Do you believe in love
+q_chitchat	4	What can you do
+q_chitchat	4	Great!
+q_chitchat	4	Who is your mother
+q_chitchat	4	What's your boss' name
+q_chitchat	4	What's your mom's name
+q_chitchat	4	Yes
+q_chitchat	4	Yup
+q_chitchat	4	Where do you live
+q_chitchat	4	Who do you love
+q_chitchat	4	Testing
+q_chitchat	4	Do you ever sing
+q_chitchat	4	What do you think about technology
+q_chitchat	4	I need a kiss
+q_chitchat	4	How are you today
+q_chitchat	4	You're welcome
+q_chitchat	4	You're smart
+q_chitchat	4	You're awful
+q_chitchat	4	I am bored
+q_chitchat	4	Go to hell
+q_chitchat	4	Are you HAL
+q_chitchat	4	You could not be more boring
+q_chitchat	4	Aren't you chipper
+q_chitchat	4	You're so stupid
+q_chitchat	4	You honestly could not be more uninteresting
+q_chitchat	4	Welcome to springtime!
+q_chitchat	4	Which one of us is smarter
+q_chitchat	4	Do you have a brother
+q_chitchat	4	Tell a joke
+q_chitchat	4	Are you real
+q_chitchat	4	Shush!
+q_chitchat	4	I'm ready for bed
+q_chitchat	4	Have you met Cortana
+q_chitchat	4	Are you a person
+q_chitchat	4	Hello Google
+q_chitchat	4	What's your favorite song
+q_chitchat	4	Human or robot
+q_chitchat	4	What do you think about AI
+q_chitchat	4	You're so happy
+q_chitchat	4	Are you a man
+q_chitchat	4	Who owns you
+q_chitchat	4	Ask me anything.
+q_chitchat	4	Why do you hate me
+q_chitchat	4	Give me a fist bump
+q_chitchat	4	That's awesome
+q_chitchat	4	Here I am
+q_chitchat	4	Hi Alexa
+q_chitchat	4	How much more awesome can you get
+q_chitchat	4	Nobody cares about me
+q_chitchat	4	Aren't you awesome
+q_chitchat	4	I am tall
+q_chitchat	4	How are you doing
+q_chitchat	4	Are you Skynet
+q_chitchat	4	Omg sorry
+q_chitchat	4	You're not making sense
+q_chitchat	4	You're so smart
+q_chitchat	4	Having a good day
+q_chitchat	4	I am happy
+q_chitchat	4	Good night to you
+q_faq	36.57143	How do I transfer my vested stock award shares
+q_faq	36.57143	Does Microsoft provide tax seminars to employees to educate them about the financial impact of stock awards
+q_faq	36.57143	How do I report a Microsoft paid holiday
+q_faq	36.57143	How do I report my jury duty time
+q_faq	36.57143	How do I report my used sick leave or time away from work for a medical or dental appointment
+q_faq	36.57143	Can we exclude an employee from the survey
+q_faq	36.57143	Who should I contact if I have unanswered questions
+q_faq	36.57143	How do I transfer my vested stock award shares
+q_faq	36.57143	Does Microsoft provide tax seminars to employees to educate them about the financial impact of stock awards
+q_faq	36.57143	How do I report a Microsoft paid holiday
+q_faq	36.57143	How do I report my jury duty time
+q_faq	36.57143	How do I report my used sick leave or time away from work for a medical or dental appointment
+q_faq	36.57143	Can we exclude an employee from the survey
+q_faq	36.57143	Who should I contact if I have unanswered questions

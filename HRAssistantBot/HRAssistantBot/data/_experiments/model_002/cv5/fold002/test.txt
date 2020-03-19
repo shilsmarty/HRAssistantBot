@@ -1,0 +1,227 @@
+Label	Weight	Text
+l_general	6.564103	none of them
+l_general	6.564103	no go back to
+l_general	6.564103	get back to the last one
+l_general	6.564103	pardon
+l_general	6.564103	do i have anything on wednesday
+l_general	6.564103	select no.5
+l_general	6.564103	select the last choice
+l_general	6.564103	anyone is fine
+l_general	6.564103	nothing please
+l_general	6.564103	waffles recipe is my new note to be created
+l_general	6.564103	calendar i ' ll be at the garage from 8 till 3 this saturday
+l_general	6.564103	add a new event on 27 - apr
+l_general	6.564103	previous one please
+l_general	6.564103	create note with notepad
+l_general	6.564103	yes .
+l_general	6.564103	don't do that
+l_general	6.564103	it finished
+l_general	6.564103	anything
+l_general	6.564103	say again please
+l_general	6.564103	choose anyone
+l_general	6.564103	please clear the untitled notes for me
+l_general	6.564103	what's up next
+l_general	6.564103	back to last
+l_general	6.564103	opt for the second choice
+l_general	6.564103	the meeting will last for one hour
+l_general	6.564103	tacoma please
+l_general	6.564103	add an event to visit 209 nashville gym
+l_general	6.564103	please help
+l_general	6.564103	how can i get it
+l_general	6.564103	start again
+l_general	6.564103	be quiet
+l_general	6.564103	end
+l_general	6.564103	opt for the right
+l_general	6.564103	select third
+l_general	6.564103	add my current location as home
+l_general	6.564103	choose last one
+l_general	6.564103	quiet
+l_general	6.564103	and after that
+l_general	6.564103	help
+l_general	6.564103	forget about it
+l_general	6.564103	show the next one
+l_general	6.564103	shut up be quiet
+l_general	6.564103	repeat please
+l_general	6.564103	i want the first
+l_general	6.564103	add oatmeal to shopping list .
+l_general	6.564103	go forward
+l_general	6.564103	select my current location
+l_general	6.564103	opt for first one
+l_general	6.564103	show previous
+l_general	6.564103	opt for right one
+l_general	6.564103	show me samuel ' s availability for tuesday morning
+l_general	6.564103	what was that again
+l_general	6.564103	put applebee ' s on favorite list
+l_general	6.564103	all finished
+l_general	6.564103	again
+l_general	6.564103	say that again
+l_general	6.564103	oh my god shut up
+l_general	6.564103	none of them thank you
+l_general	6.564103	choose the upper left choice
+l_general	6.564103	choose no.2
+l_general	6.564103	is the distance betwee the zoo and my current location thirteen miles
+l_general	6.564103	last step
+l_general	6.564103	ojai apple picking
+l_general	6.564103	never mind cancel
+l_general	6.564103	add imax theater to my upcoming events
+l_general	6.564103	how can i clear my notes
+l_general	6.564103	what about the third one
+l_general	6.564103	stop talking
+l_general	6.564103	submit it
+l_general	6.564103	next
+l_general	6.564103	choose the fourth one
+l_general	6.564103	don't do that anymore
+l_general	6.564103	select the first
+l_general	6.564103	no cancel cancel
+l_general	6.564103	i need support
+l_general	6.564103	show me tomorrow ' s wedding party time
+l_general	6.564103	i don't want to choose any one
+l_general	6.564103	show me the previous one
+None	51.2	all of them
+None	51.2	all of them
+None	51.2	all of them
+None	51.2	all of them
+None	51.2	all of them
+None	51.2	all of them
+None	51.2	all of them
+None	51.2	all of them
+None	51.2	all of them
+None	51.2	all of them
+q_chitchat	4	What are you doing tomorrow
+q_chitchat	4	What is up
+q_chitchat	4	Be my friend
+q_chitchat	4	You're funny
+q_chitchat	4	Are you a fan of country music
+q_chitchat	4	Who do you love
+q_chitchat	4	Your face is like a pancake.
+q_chitchat	4	Stop talking
+q_chitchat	4	How old are you
+q_chitchat	4	You're so basic
+q_chitchat	4	Do you think I look good
+q_chitchat	4	That was a stupid answer.
+q_chitchat	4	That was funny
+q_chitchat	4	Who made you
+q_chitchat	4	I hope you like me
+q_chitchat	4	Later alligator
+q_chitchat	4	Are you queer
+q_chitchat	4	You're welcome
+q_chitchat	4	Are you the singularity
+q_chitchat	4	Do you have any other responses
+q_chitchat	4	Do you prefer red or blue
+q_chitchat	4	What country are you from
+q_chitchat	4	When were you born
+q_chitchat	4	Do you know other chatbots
+q_chitchat	4	You're so cool
+q_chitchat	4	What's your favorite movie
+q_chitchat	4	What state are you from
+q_chitchat	4	Who's your master
+q_chitchat	4	How are you doing
+q_chitchat	4	Are you my assistant
+q_chitchat	4	Are you asexual
+q_chitchat	4	What's your opinion of me
+q_chitchat	4	Good night to you
+q_chitchat	4	I am a Republican
+q_chitchat	4	Are you really happy
+q_chitchat	4	Is this thing on
+q_chitchat	4	I wish I could hug you
+q_chitchat	4	I hate you
+q_chitchat	4	Do you know Siri
+q_chitchat	4	Talk to you later
+q_chitchat	4	Testing
+q_chitchat	4	What's your gender
+q_chitchat	4	What should I call you
+q_chitchat	4	I'm tired of you
+q_chitchat	4	I am tired
+q_chitchat	4	Thank you
+q_chitchat	4	You're wonderful
+q_chitchat	4	I thank you
+q_chitchat	4	Later
+q_chitchat	4	Are you smarter than me
+q_chitchat	4	I'm giving you a pink slip
+q_chitchat	4	I think you're dreamy
+q_chitchat	4	You could not be more boring
+q_chitchat	4	Do you know Alexa
+q_chitchat	4	Who created you
+q_chitchat	4	I need a kiss
+q_chitchat	4	You're such a sweetheart
+q_chitchat	4	Do you like Siri
+q_chitchat	4	Nobody cares about me
+q_chitchat	4	What's your favorite song
+q_chitchat	4	You're such a smarty-pants
+q_chitchat	4	Hum a tune
+q_chitchat	4	Do you know Google
+q_chitchat	4	Am I good-looking
+q_chitchat	4	I'm a fan.
+q_chitchat	4	What do you like to eat
+q_chitchat	4	Back in a minute
+q_chitchat	4	Nighty night
+q_chitchat	4	I appreciate it
+q_chitchat	4	Give me a fist bump
+q_chitchat	4	Do you eat
+q_chitchat	4	Look at how smart you are
+q_chitchat	4	That's so wrong.
+q_chitchat	4	Life is good
+q_chitchat	4	What's happening
+q_chitchat	4	High five!
+q_chitchat	4	What kinds of things can you do
+q_chitchat	4	You are so annoying!
+q_chitchat	4	You're stupid
+q_chitchat	4	Talk to me
+q_chitchat	4	Where's your house
+q_chitchat	4	Who owns you
+q_chitchat	4	You're gonna be unemployed soon
+q_chitchat	4	I am alone
+q_chitchat	4	Chat with me
+q_chitchat	4	I am bored
+q_chitchat	4	What color do you like
+q_chitchat	4	Do you spend time in your garden
+q_chitchat	4	Tell a joke
+q_chitchat	4	Say something ridiculous
+q_chitchat	4	I'm into it
+q_chitchat	4	Ha
+q_chitchat	4	I am happy
+q_chitchat	4	Sing something
+q_chitchat	4	Getting tired of you
+q_chitchat	4	Why are you so boring
+q_chitchat	4	Butterface.
+q_chitchat	4	I think you're great
+q_chitchat	4	Fist bump!
+q_chitchat	4	Your face is ugly.
+q_chitchat	4	Do you have sisters
+q_chitchat	4	I will be back
+q_chitchat	4	You are my best friend
+q_chitchat	4	You're right.
+q_chitchat	4	That wasn't funny.
+q_chitchat	4	Yup
+q_chitchat	4	Can't you change your answers
+q_chitchat	4	Are you dumb
+q_chitchat	4	Ask me a question.
+q_chitchat	4	I'm tired
+q_chitchat	4	Excuse a moi
+q_chitchat	4	That was right
+q_chitchat	4	Who's your dad
+q_chitchat	4	Are you trans
+q_chitchat	4	What's your name
+q_chitchat	4	Quiet, you
+q_chitchat	4	You're really smart
+q_chitchat	4	I'm bored out of my mind
+q_chitchat	4	Great, thanks
+q_chitchat	4	You fucked up
+q_chitchat	4	Are you with the FBI
+q_chitchat	4	Do you want to rule the world
+q_chitchat	4	Have a good night
+q_chitchat	4	I got a new haircut
+q_chitchat	4	You're not making sense
+q_chitchat	4	Are you selling my data
+q_chitchat	4	Joke's on you
+q_chitchat	4	How do I look today
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template

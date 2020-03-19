@@ -1,0 +1,237 @@
+Label	Weight	Text
+l_general	6.095238	choose no.2
+l_general	6.095238	am i free to be with friends saturday
+l_general	6.095238	show previous
+l_general	6.095238	rewards
+l_general	6.095238	time & absense
+l_general	6.095238	schaumburg covenant church schaumburg illinois please
+l_general	6.095238	yes .
+l_general	6.095238	tacoma please
+l_general	6.095238	i need some help
+l_general	6.095238	how soon will jack be free
+l_general	6.095238	none of them thank you
+l_general	6.095238	i want to choose lower right
+l_general	6.095238	go to the previous
+l_general	6.095238	quiet
+l_general	6.095238	i need support
+l_general	6.095238	a new note of name business solutions
+l_general	6.095238	no stop
+l_general	6.095238	start it over
+l_general	6.095238	stayfit
+l_general	6.095238	go back please
+l_general	6.095238	tesco ' s catterick garrison address please
+l_general	6.095238	add friends to party list in memos
+l_general	6.095238	boudoir photo shoot ballard
+l_general	6.095238	it's finished
+l_general	6.095238	go to the next three items
+l_general	6.095238	visa
+l_general	6.095238	cancel that
+l_general	6.095238	how far is gainesville from here
+l_general	6.095238	i want to talk to a human
+l_general	6.095238	is there any real human
+l_general	6.095238	what
+l_general	6.095238	get back
+l_general	6.095238	i like the upper right
+l_general	6.095238	please clear the untitled notes for me
+l_general	6.095238	start over it
+l_general	6.095238	day off
+l_general	6.095238	sick off
+l_general	6.095238	select any of it
+l_general	6.095238	choose one of it randomly
+l_general	6.095238	nobody cares stop talking
+l_general	6.095238	go back
+l_general	6.095238	show the next 3
+l_general	6.095238	it finished
+l_general	6.095238	quit
+l_general	6.095238	what before that
+l_general	6.095238	shut the fuck up
+l_general	6.095238	select no.5
+l_general	6.095238	opt for any of it
+l_general	6.095238	i want to choose right
+l_general	6.095238	i want the left
+l_general	6.095238	help me in clearing the shopping note
+l_general	6.095238	oh cancel
+l_general	6.095238	at grocery list add milk
+l_general	6.095238	never mind stop
+l_general	6.095238	i want the right one
+l_general	6.095238	no never mind
+l_general	6.095238	opt for the left one
+l_general	6.095238	repeat that
+l_general	6.095238	add my current location as home
+l_general	6.095238	clear and start again
+l_general	6.095238	none
+l_general	6.095238	select upper
+l_general	6.095238	recommend benefits
+l_general	6.095238	" cancel all entries in the people to call " " note " " "
+l_general	6.095238	what's next
+l_general	6.095238	vacation
+l_general	6.095238	calendar for november 1948
+l_general	6.095238	nothing never mind
+l_general	6.095238	done
+l_general	6.095238	stop please
+l_general	6.095238	help
+l_general	6.095238	could you say it again
+l_general	6.095238	can you help
+l_general	6.095238	contact support
+l_general	6.095238	never mind cancel
+l_general	6.095238	choose last one
+l_general	6.095238	come on stop
+l_general	6.095238	submit
+l_general	6.095238	be quiet
+l_general	6.095238	how can i get it
+l_general	6.095238	please do nothing
+l_general	6.095238	where i can find fishinger road dance class
+l_general	6.095238	previous one please
+l_general	6.095238	is there any help
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+q_chitchat	4	I'm starving
+q_chitchat	4	You are my favorite
+q_chitchat	4	You're so smart
+q_chitchat	4	That's not funny.
+q_chitchat	4	Ask me something.
+q_chitchat	4	Yup
+q_chitchat	4	Where are you located
+q_chitchat	4	You're so funny.
+q_chitchat	4	What do you mean by that
+q_chitchat	4	I'm in such a good mood
+q_chitchat	4	Hi there!
+q_chitchat	4	I have 7 cats
+q_chitchat	4	Do you pee
+q_chitchat	4	Give me a joke
+q_chitchat	4	Are you female
+q_chitchat	4	You're useless
+q_chitchat	4	What do you eat
+q_chitchat	4	I'm giving you a pink slip
+q_chitchat	4	Do you think I look good
+q_chitchat	4	I am angry
+q_chitchat	4	Human or robot
+q_chitchat	4	Do you dream
+q_chitchat	4	I'm sorry
+q_chitchat	4	I need a hug
+q_chitchat	4	Ask me a question.
+q_chitchat	4	Are you a boy
+q_chitchat	4	What's the name of your boss
+q_chitchat	4	I'm famished
+q_chitchat	4	What do you think about AI
+q_chitchat	4	Look at how smart you are
+q_chitchat	4	That's accurate
+q_chitchat	4	I hope you like me
+q_chitchat	4	Nice to meet you
+q_chitchat	4	Can you chat with me
+q_chitchat	4	Do you know Cortana
+q_chitchat	4	Shut up
+q_chitchat	4	Who do you report to
+q_chitchat	4	I'm into it
+q_chitchat	4	Are you a robot
+q_chitchat	4	You could not be more boring
+q_chitchat	4	Be more fun
+q_chitchat	4	I am here
+q_chitchat	4	What do you mean
+q_chitchat	4	You're rad.
+q_chitchat	4	Do you and Cortana hang out
+q_chitchat	4	Heya
+q_chitchat	4	I'm so glad to meet you
+q_chitchat	4	I miss you so much!
+q_chitchat	4	So sorry
+q_chitchat	4	Can you sneeze
+q_chitchat	4	That was a joke
+q_chitchat	4	Are you in love with me
+q_chitchat	4	Sounds good
+q_chitchat	4	That made no sense
+q_chitchat	4	Are you real
+q_chitchat	4	Good night to you
+q_chitchat	4	What do you think about love
+q_chitchat	4	Kiss me
+q_chitchat	4	What's your favorite animal
+q_chitchat	4	Say something dumb
+q_chitchat	4	Good morning
+q_chitchat	4	Say something ridiculous
+q_chitchat	4	That was right
+q_chitchat	4	Do you have brothers
+q_chitchat	4	Useless
+q_chitchat	4	You're so stupid
+q_chitchat	4	Good evening to you
+q_chitchat	4	Are you my assistant
+q_chitchat	4	Later alligator
+q_chitchat	4	You're stupid
+q_chitchat	4	Hello Siri
+q_chitchat	4	Will you be my wife
+q_chitchat	4	Should I get a new job
+q_chitchat	4	You are so unfunny.
+q_chitchat	4	You are stupid
+q_chitchat	4	I think you hate me.
+q_chitchat	4	Stop talking
+q_chitchat	4	You honestly could not be more uninteresting
+q_chitchat	4	Hi
+q_chitchat	4	I'm not following
+q_chitchat	4	Do you know any jokes
+q_chitchat	4	I wish I could hug you
+q_chitchat	4	Are you friends with other bots
+q_chitchat	4	What's happening
+q_chitchat	4	I am happy
+q_chitchat	4	You're way off.
+q_chitchat	4	I want to marry you.
+q_chitchat	4	LOL
+q_chitchat	4	Do you sweat
+q_chitchat	4	You face sucks.
+q_chitchat	4	Are you asexual
+q_chitchat	4	Do you hate me
+q_chitchat	4	What's your favorite song
+q_chitchat	4	Go to hell
+q_chitchat	4	I miss you
+q_chitchat	4	What's your dad's name
+q_chitchat	4	Do you have a mom
+q_chitchat	4	Do you like Cortana
+q_chitchat	4	You don't know anything.
+q_chitchat	4	I'm so hungry
+q_chitchat	4	Fist bump!
+q_chitchat	4	Are you prettier than me
+q_chitchat	4	Do you know other chatbots
+q_chitchat	4	What do you want to know about me
+q_chitchat	4	I will be back
+q_chitchat	4	Butterface.
+q_chitchat	4	Where do you come from
+q_chitchat	4	Can you sleep
+q_chitchat	4	Give me a high five
+q_chitchat	4	Cook me something
+q_chitchat	4	You're no fun
+q_chitchat	4	Love you!
+q_chitchat	4	Thank you
+q_chitchat	4	When will you shut up
+q_chitchat	4	Which people made you
+q_chitchat	4	I love New York.
+q_chitchat	4	What's your job
+q_chitchat	4	Do you like computers
+q_chitchat	4	Here's a kiss for you
+q_chitchat	4	I'm tired of you
+q_chitchat	4	Are you the singularity
+q_chitchat	4	Is this thing on
+q_chitchat	4	That's not true.
+q_chitchat	4	That's awesome
+q_chitchat	4	I am not your friend
+q_chitchat	4	Am I good-looking
+q_chitchat	4	What is up
+q_chitchat	4	What's your opinion of me
+q_faq	36.57143	Who should I contact if I have unanswered questions
+q_faq	36.57143	Are MS Poll responses anonymous
+q_faq	36.57143	Why is there a deadline for making a broker election
+q_faq	36.57143	My manager changed recently and MS Poll shows my previous manager. How should I respond
+q_faq	36.57143	How do I report a Microsoft paid holiday
+q_faq	36.57143	How do I transfer my vested stock award shares
+q_faq	36.57143	"What is the ""OneEngineering"" effort?"
+q_faq	36.57143	Who should I contact if I have unanswered questions
+q_faq	36.57143	Are MS Poll responses anonymous
+q_faq	36.57143	Why is there a deadline for making a broker election
+q_faq	36.57143	My manager changed recently and MS Poll shows my previous manager. How should I respond
+q_faq	36.57143	How do I report a Microsoft paid holiday
+q_faq	36.57143	How do I transfer my vested stock award shares
+q_faq	36.57143	"What is the ""OneEngineering"" effort?"

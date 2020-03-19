@@ -1,0 +1,207 @@
+Label	Weight	Text
+l_general	8.827586	i want none of them
+l_general	8.827586	i want to choose right
+l_general	8.827586	don't do that
+l_general	8.827586	never mind stop
+l_general	8.827586	i want to talk to a real human
+l_general	8.827586	i want to choose third
+l_general	8.827586	start over
+l_general	8.827586	get back
+l_general	8.827586	move to the next one
+l_general	8.827586	nothing please
+l_general	8.827586	i want to choose the first one
+l_general	8.827586	i want third one
+l_general	8.827586	opt for a random one
+l_general	8.827586	show me the previous one
+l_general	8.827586	dismiss
+l_general	8.827586	god shut up
+l_general	8.827586	show the next 3
+l_general	8.827586	opt for first one
+l_general	8.827586	opt for the left one
+l_general	8.827586	i didn't hear repeat again
+l_general	8.827586	cancel cancel
+l_general	8.827586	i need real human help
+l_general	8.827586	ok stop stop
+l_general	8.827586	back to
+l_general	8.827586	show previous
+l_general	8.827586	exit stop
+l_general	8.827586	quit
+l_general	8.827586	i like the top right one
+l_general	8.827586	all finished
+l_general	8.827586	get back to the last one
+l_general	8.827586	bring the previous one
+l_general	8.827586	select the last choice
+l_general	8.827586	select the third one
+l_general	8.827586	no never mind
+l_general	8.827586	what's next
+l_general	8.827586	shut the fuck up
+l_general	8.827586	baby just be quiet
+l_general	8.827586	stop please
+l_general	8.827586	forget about it
+l_general	8.827586	choose the bottom left
+l_general	8.827586	i want to choose bottom one
+l_general	8.827586	opt for last
+l_general	8.827586	hey stop
+l_general	8.827586	i don't want to choose any one
+l_general	8.827586	i want left
+l_general	8.827586	come on stop
+l_general	8.827586	i want the left
+l_general	8.827586	i need manual customer service
+l_general	8.827586	what is the previous
+l_general	8.827586	never mind cancel that
+l_general	8.827586	select the bottom choice
+l_general	8.827586	opt for left
+l_general	8.827586	go to the previous
+l_general	8.827586	choose the upper left choice
+l_general	8.827586	get back to last
+l_general	8.827586	say again
+l_general	8.827586	last step
+l_general	8.827586	show more
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+q_chitchat	4	Who owns you
+q_chitchat	4	Life is good
+q_chitchat	4	Haha
+q_chitchat	4	Do you know any jokes
+q_chitchat	4	I can drive a car
+q_chitchat	4	Quiet, you
+q_chitchat	4	Why do you say the same thing all the time
+q_chitchat	4	Are you my imaginary friend
+q_chitchat	4	Do you have a family
+q_chitchat	4	Yes to that
+q_chitchat	4	I'm in love with you.
+q_chitchat	4	Where do you come from
+q_chitchat	4	LOL
+q_chitchat	4	I love music.
+q_chitchat	4	Will you marry me
+q_chitchat	4	I want to lay down
+q_chitchat	4	Say something dumb
+q_chitchat	4	Where did you come from
+q_chitchat	4	Are you a person
+q_chitchat	4	Yup
+q_chitchat	4	Sounds good
+q_chitchat	4	Cool!
+q_chitchat	4	You're very intelligent
+q_chitchat	4	Do you know other bots
+q_chitchat	4	Do you ever sing
+q_chitchat	4	You're no fun
+q_chitchat	4	Are you in love with me
+q_chitchat	4	So tired
+q_chitchat	4	You're so funny.
+q_chitchat	4	Talk with me
+q_chitchat	4	Are you pansexual
+q_chitchat	4	You don't interest me at all
+q_chitchat	4	You're such an asshole
+q_chitchat	4	Who is your creator
+q_chitchat	4	Cook me something
+q_chitchat	4	Can you fly
+q_chitchat	4	Are you the singularity
+q_chitchat	4	Are you around
+q_chitchat	4	What are you doing later
+q_chitchat	4	Who created you
+q_chitchat	4	Night
+q_chitchat	4	I hope you like me
+q_chitchat	4	You're not making sense
+q_chitchat	4	You are so unfunny.
+q_chitchat	4	I want to go shopping
+q_chitchat	4	Testing
+q_chitchat	4	Have a good night
+q_chitchat	4	Good morning
+q_chitchat	4	I'm chewing gum right now
+q_chitchat	4	That's not accurate
+q_chitchat	4	I'm all tuckered out
+q_chitchat	4	Are you a man or a woman
+q_chitchat	4	How was your day
+q_chitchat	4	Are you selling my secrets
+q_chitchat	4	Do you know Siri
+q_chitchat	4	Do you prefer red or blue
+q_chitchat	4	Why
+q_chitchat	4	You seem happy
+q_chitchat	4	You're really smart
+q_chitchat	4	Can you sneeze
+q_chitchat	4	Can you sing
+q_chitchat	4	You are awesome!
+q_chitchat	4	I'm into it
+q_chitchat	4	I'm despondent
+q_chitchat	4	I am doing that
+q_chitchat	4	What other bots do you know
+q_chitchat	4	You are now unemployed
+q_chitchat	4	I want to marry you.
+q_chitchat	4	Give me some sugar
+q_chitchat	4	That's awesome
+q_chitchat	4	Do you hate me
+q_chitchat	4	Kiss me
+q_chitchat	4	Nobody cares about me
+q_chitchat	4	Are you attempting world domination
+q_chitchat	4	I am going on a run
+q_chitchat	4	Hey
+q_chitchat	4	Are you trans
+q_chitchat	4	Are you male or female
+q_chitchat	4	You are a genius!
+q_chitchat	4	Everything you told me was false.
+q_chitchat	4	That wasn't true
+q_chitchat	4	Do you know other digital agents
+q_chitchat	4	What country are you in
+q_chitchat	4	Are you a swinger
+q_chitchat	4	You're fired!
+q_chitchat	4	Hi Google
+q_chitchat	4	I am tired
+q_chitchat	4	Do you dream
+q_chitchat	4	Do you have sisters
+q_chitchat	4	I just want to go to sleep
+q_chitchat	4	Sing something
+q_chitchat	4	You're the worst
+q_chitchat	4	It's a pleasure to meet you
+q_chitchat	4	What kind of food do you like
+q_chitchat	4	How are things
+q_chitchat	4	Do you get hungry
+q_chitchat	4	Shut up
+q_chitchat	4	I thank you
+q_chitchat	4	Can you hear me now
+q_chitchat	4	Your face is ugly.
+q_chitchat	4	Are you really happy
+q_chitchat	4	I'm so madqw  b
+q_chitchat	4	Talk to me
+q_chitchat	4	What do you want to know about me
+q_chitchat	4	I'm your biggest fan
+q_chitchat	4	I want to lie down
+q_chitchat	4	How much do you love me
+q_chitchat	4	Thanks
+q_chitchat	4	Who's smarter, me or you
+q_chitchat	4	That's inaccurate.
+q_chitchat	4	Awesome
+q_chitchat	4	You are so annoying!
+q_chitchat	4	Back in a minute
+q_chitchat	4	That was funny
+q_chitchat	4	You could not be more boring
+q_chitchat	4	Can you hear me
+q_chitchat	4	Nope, false
+q_chitchat	4	How happy are you
+q_chitchat	4	Am I pretty
+q_chitchat	4	I'm tired
+q_chitchat	4	What are you doing
+q_chitchat	4	Be quiet
+q_chitchat	4	Are you male
+q_chitchat	4	I'm furious
+q_chitchat	4	I despise you
+q_chitchat	4	I'm so sad
+q_chitchat	4	Go away
+q_chitchat	4	I love getting valentines.
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template

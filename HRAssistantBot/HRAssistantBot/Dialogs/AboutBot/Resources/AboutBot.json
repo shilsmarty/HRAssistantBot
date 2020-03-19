@@ -1,0 +1,128 @@
+﻿{
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "type": "AdaptiveCard",
+  "version": "1.0",
+  "body": [
+    {
+      "type": "TextBlock",
+      "text": "EmpAssist Smart Virtual Assistance",
+      "weight": "bolder",
+      "size": "medium"
+    },
+    {
+      "type": "ColumnSet",
+      "columns": [
+        {
+          "type": "Column",
+          "width": "auto",
+          "items": [
+            {
+              "type": "Image",
+              "url": "https://fhlhacksmartbot.blob.core.windows.net/images/Empassist.png",
+              "size": "small",
+              "style": "person"
+            }
+          ]
+        },
+        {
+          "type": "Column",
+          "width": "stretch",
+          "items": [
+            {
+              "type": "TextBlock",
+              "text": "Employee Experience Team",
+              "weight": "bolder",
+              "wrap": true
+            },
+            {
+              "type": "TextBlock",
+              "spacing": "none",
+              "text": "Created {{DATE(2019-03-27T06:08:39Z, SHORT)}}",
+              "isSubtle": true,
+              "wrap": true
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "type": "TextBlock",
+      "text": "There are many opportunities in HR and CELA which need a simple flow and generic approach for greater level of automation. This smart assistant is to help Microsoft Employees in saving valuable time and getting them exactly what they are looking for",
+      "wrap": true
+    },
+    {
+      "type": "FactSet",
+      "facts": [
+        {
+          "title": "1.)",
+          "value": "Submit vacation (Using TAR app) through Voice command based activation."
+        },
+        {
+          "title": "2.):",
+          "value": "Read though Calendar and meetings of the day."
+        },
+        {
+          "title": "3.)",
+          "value": "Recommend learning and events near you."
+        },
+        {
+          "title": "4.)",
+          "value": "Assistance from FAQs"
+        },
+        {
+          "title": "5.)",
+          "value": "Search through HR content though voice activation."
+        },
+        {
+          "title": "6.)",
+          "value": "and many more scenarios which this smart assistant can scope for."
+        }
+      ]
+    },
+    {
+      "type": "FactSet",
+      "facts": [
+        {
+          "title": "Team:",
+          "value": "RaviGori Directs"
+        },
+        {
+          "title": "Capabilities:",
+          "value": "Scenarios like TAR, Benefits, Graph, Immigration, Recommendations"
+        },
+        {
+          "title": "Event",
+          "value": "FHL Hack"
+        },
+        {
+          "title": "Due date:",
+          "value": "29th March 2019"
+        }
+      ]
+    }
+  ],
+  "actions": [
+    {
+      "type": "Action.ShowCard",
+      "title": "Feedback",
+      "card": {
+        "type": "AdaptiveCard",
+        "body": [
+          {
+            "type": "Input.Text",
+            "id": "comment",
+            "isMultiline": true,
+            "placeholder": "Please provide your feedback, Any Complaints i don't mind ;)"
+          }
+        ],
+        "actions": [
+          {
+            "type": "Action.Submit",
+            "title": "OK"
+          }
+        ]
+      }
+    }
+  ]
+}

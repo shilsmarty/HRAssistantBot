@@ -1,0 +1,227 @@
+Label	Weight	Text
+l_general	6.564103	calendar i ' ll be at the garage from 8 till 3 this saturday
+l_general	6.564103	opt for the left one
+l_general	6.564103	i want to choose the left one
+l_general	6.564103	it's done
+l_general	6.564103	drive me to the fast one
+l_general	6.564103	show the next 4 items
+l_general	6.564103	opt for left
+l_general	6.564103	choose top right one
+l_general	6.564103	none
+l_general	6.564103	customer service
+l_general	6.564103	contact support
+l_general	6.564103	i want the lower choice
+l_general	6.564103	where i can find fishinger road dance class
+l_general	6.564103	can you help
+l_general	6.564103	all finished
+l_general	6.564103	nobody cares stop talking
+l_general	6.564103	neither one of them
+l_general	6.564103	is there any person i can talk to
+l_general	6.564103	voice activated reading of appointments this week
+l_general	6.564103	end
+l_general	6.564103	display the fastest crossing across the sahara desert
+l_general	6.564103	uani street
+l_general	6.564103	what about the third one
+l_general	6.564103	what
+l_general	6.564103	start again
+l_general	6.564103	choose the fourth one
+l_general	6.564103	restart
+l_general	6.564103	how many days are there between march 13th 2015 and today
+l_general	6.564103	go back please
+l_general	6.564103	when is paul available
+l_general	6.564103	soda popinski sf
+l_general	6.564103	help
+l_general	6.564103	just be
+l_general	6.564103	go forward
+l_general	6.564103	cancel it
+l_general	6.564103	return
+l_general	6.564103	i need real human help
+l_general	6.564103	no shut up
+l_general	6.564103	it finished
+l_general	6.564103	back please
+l_general	6.564103	choose the first choice
+l_general	6.564103	nothing never mind
+l_general	6.564103	a new note of name business solutions
+l_general	6.564103	yes .
+l_general	6.564103	end it
+l_general	6.564103	what about next one
+l_general	6.564103	is the distance betwee the zoo and my current location thirteen miles
+l_general	6.564103	opt for the second choice
+l_general	6.564103	could you start it over
+l_general	6.564103	never mind
+l_general	6.564103	neither of those
+l_general	6.564103	no stop
+l_general	6.564103	meeting my manager
+l_general	6.564103	let me clear all the notes created on last monday
+l_general	6.564103	just be quiet
+l_general	6.564103	what's before that
+l_general	6.564103	none of them
+l_general	6.564103	could you say it again
+l_general	6.564103	calendar for november 1948
+l_general	6.564103	display the fastest way to san antonio from austin
+l_general	6.564103	no be quiet now
+l_general	6.564103	clear last note
+l_general	6.564103	choose last one
+l_general	6.564103	god shut up
+l_general	6.564103	select the lower one
+l_general	6.564103	i am confirming keeping all items on lists
+l_general	6.564103	previous one
+l_general	6.564103	go back to previous
+l_general	6.564103	select the first
+l_general	6.564103	i want to choose third
+l_general	6.564103	select the upper right
+l_general	6.564103	anyone is fine
+l_general	6.564103	restart it
+l_general	6.564103	select the bottom choice
+l_general	6.564103	what's up next
+l_general	6.564103	select my current location
+l_general	6.564103	mark state parks as favorite
+l_general	6.564103	go away
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+q_chitchat	4	I have 7 cats
+q_chitchat	4	Are you a swinger
+q_chitchat	4	Who are you
+q_chitchat	4	I didn't mean that
+q_chitchat	4	Yup
+q_chitchat	4	LOL
+q_chitchat	4	Good morning
+q_chitchat	4	Aren't you chipper
+q_chitchat	4	I am not your friend
+q_chitchat	4	How high can you jump
+q_chitchat	4	How smart are you
+q_chitchat	4	I'm pissed
+q_chitchat	4	What do you like to eat
+q_chitchat	4	I love my family.
+q_chitchat	4	That doesn't make sense
+q_chitchat	4	How high can you count
+q_chitchat	4	Do you get hungry
+q_chitchat	4	Where are you
+q_chitchat	4	Are you smart
+q_chitchat	4	Are you a girl or a boy
+q_chitchat	4	Do I look okay
+q_chitchat	4	I will be back
+q_chitchat	4	Yes to that
+q_chitchat	4	I'm a lesbian
+q_chitchat	4	Do you have a family
+q_chitchat	4	Just kidding
+q_chitchat	4	Zip it!
+q_chitchat	4	What do you think about AI
+q_chitchat	4	Nighty night
+q_chitchat	4	I want to go shopping
+q_chitchat	4	You are my favorite
+q_chitchat	4	Haha
+q_chitchat	4	Are you a guy
+q_chitchat	4	I need a kiss
+q_chitchat	4	What do you think about Alexa
+q_chitchat	4	I appreciate it
+q_chitchat	4	How happy are you
+q_chitchat	4	I thank you
+q_chitchat	4	I wish you would say something else
+q_chitchat	4	Be more fun
+q_chitchat	4	I think you're dreamy
+q_chitchat	4	I'm afraid I'm gonna have to let you go.
+q_chitchat	4	Give me a high five
+q_chitchat	4	That was correct
+q_chitchat	4	Do you prefer red or blue
+q_chitchat	4	Can I have a hug
+q_chitchat	4	How's your day going
+q_chitchat	4	That made no sense
+q_chitchat	4	Do you not like me
+q_chitchat	4	Do you think I should ask her out
+q_chitchat	4	What's the name of your boss
+q_chitchat	4	That was a joke
+q_chitchat	4	Which one of us is smarter
+q_chitchat	4	What's your favorite movie
+q_chitchat	4	I'm furious
+q_chitchat	4	Are you awesome
+q_chitchat	4	Are you selling my secrets
+q_chitchat	4	That wasn't true
+q_chitchat	4	How old are you
+q_chitchat	4	Which one of us is more beautiful
+q_chitchat	4	That's accurate
+q_chitchat	4	That's not accurate
+q_chitchat	4	Can you chat with me
+q_chitchat	4	You don't interest me at all
+q_chitchat	4	I'm just playing
+q_chitchat	4	Who's your master
+q_chitchat	4	Who's your mom
+q_chitchat	4	Shush!
+q_chitchat	4	Who's smarter, me or you
+q_chitchat	4	You're not making sense
+q_chitchat	4	Kiss me
+q_chitchat	4	What's your purpose
+q_chitchat	4	Bye
+q_chitchat	4	What should I call you
+q_chitchat	4	I'm so glad to meet you
+q_chitchat	4	You're rad.
+q_chitchat	4	Are you intelligent
+q_chitchat	4	How was your day
+q_chitchat	4	Be funny
+q_chitchat	4	Say something stupid
+q_chitchat	4	That's not funny.
+q_chitchat	4	I feel sad
+q_chitchat	4	Hi Siri
+q_chitchat	4	You're so cool
+q_chitchat	4	Why not
+q_chitchat	4	You made no sense
+q_chitchat	4	Great, thanks
+q_chitchat	4	What did you do today
+q_chitchat	4	Your face is like a pancake.
+q_chitchat	4	Do you have a sister
+q_chitchat	4	See you later
+q_chitchat	4	Where do you come from
+q_chitchat	4	There's nothing to do
+q_chitchat	4	When will you shut up
+q_chitchat	4	Which people made you
+q_chitchat	4	Hello Cortana
+q_chitchat	4	What makes you think that
+q_chitchat	4	You're no fun
+q_chitchat	4	Joke's on you
+q_chitchat	4	I'm lonely
+q_chitchat	4	Have a good night
+q_chitchat	4	Say something dumb
+q_chitchat	4	Hiya
+q_chitchat	4	Are you with the NSA
+q_chitchat	4	Who is your mother
+q_chitchat	4	You look ugly.
+q_chitchat	4	Human or robot
+q_chitchat	4	Do you ever sing
+q_chitchat	4	What's your age
+q_chitchat	4	I'm so sorry
+q_chitchat	4	I'm despondent
+q_chitchat	4	Aren't you cheerful
+q_chitchat	4	Which baseball teams do you like
+q_chitchat	4	You are no longer employed
+q_chitchat	4	How are you today
+q_chitchat	4	What should I do
+q_chitchat	4	Give me a kiss
+q_chitchat	4	Are you my assistant
+q_chitchat	4	Will you be my best friend
+q_chitchat	4	What's your mom's name
+q_chitchat	4	How much more awesome can you get
+q_chitchat	4	You're useless
+q_chitchat	4	Hi Cortana
+q_chitchat	4	I'm cracking up
+q_chitchat	4	You're dumb
+q_chitchat	4	How long ago were you born
+q_chitchat	4	You're welcome
+q_chitchat	4	Say something ridiculous
+q_faq	51.2	How do I transfer my vested stock award shares
+q_faq	51.2	How do I report my used sick leave or time away from work for a medical or dental appointment
+q_faq	51.2	Why is there a deadline for making a broker election
+q_faq	51.2	How do I report my vacation time
+q_faq	51.2	How do I report a Microsoft paid holiday
+q_faq	51.2	How do I transfer my vested stock award shares
+q_faq	51.2	How do I report my used sick leave or time away from work for a medical or dental appointment
+q_faq	51.2	Why is there a deadline for making a broker election
+q_faq	51.2	How do I report my vacation time
+q_faq	51.2	How do I report a Microsoft paid holiday

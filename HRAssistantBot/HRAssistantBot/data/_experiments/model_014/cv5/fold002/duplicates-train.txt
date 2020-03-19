@@ -1,0 +1,3 @@
+Utterance	Intents
+shut up	l_general, q_chitchat
+pardon	l_general, q_chitchat

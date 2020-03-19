@@ -1,0 +1,227 @@
+Label	Weight	Text
+l_general	6.564103	okay i got it
+l_general	6.564103	ojai apple picking
+l_general	6.564103	quiet
+l_general	6.564103	choose the fourth one
+l_general	6.564103	choose the first choice
+l_general	6.564103	select the bottom choice
+l_general	6.564103	stop talking
+l_general	6.564103	back
+l_general	6.564103	what was that again
+l_general	6.564103	start over
+l_general	6.564103	schaumburg covenant church schaumburg illinois please
+l_general	6.564103	neither one of them
+l_general	6.564103	nashville humane society rover please
+l_general	6.564103	please do nothing
+l_general	6.564103	shut the fuck up
+l_general	6.564103	none none
+l_general	6.564103	go to the previous
+l_general	6.564103	can you help me
+l_general	6.564103	check lee ' s calender
+l_general	6.564103	bend oregon exotic restaurants please
+l_general	6.564103	go to the previous one
+l_general	6.564103	none none of them
+l_general	6.564103	when is paul available
+l_general	6.564103	go back to previous
+l_general	6.564103	i want right one
+l_general	6.564103	opt for the last one
+l_general	6.564103	how to do it
+l_general	6.564103	meeting my manager
+l_general	6.564103	opt for left
+l_general	6.564103	it finished
+l_general	6.564103	create my favorites note
+l_general	6.564103	i want to choose the first one
+l_general	6.564103	clear and start again
+l_general	6.564103	back to the last one
+l_general	6.564103	i want the first
+l_general	6.564103	back to
+l_general	6.564103	no cancel it
+l_general	6.564103	display weekend plans
+l_general	6.564103	i need manual customer service
+l_general	6.564103	show the next 4 items
+l_general	6.564103	any of it
+l_general	6.564103	at grocery list add milk
+l_general	6.564103	opt for a random one
+l_general	6.564103	start over it
+l_general	6.564103	start again
+l_general	6.564103	don't do that anymore
+l_general	6.564103	yes .
+l_general	6.564103	i like the upper right
+l_general	6.564103	neither one
+l_general	6.564103	i don't want to choose any one
+l_general	6.564103	get back
+l_general	6.564103	go back please
+l_general	6.564103	how soon will jack be free
+l_general	6.564103	uani street
+l_general	6.564103	anyone is fine
+l_general	6.564103	show the next one
+l_general	6.564103	what's more
+l_general	6.564103	go back
+l_general	6.564103	baby just be quiet
+l_general	6.564103	choose the upper right one
+l_general	6.564103	oh my god shut up
+l_general	6.564103	please begin again
+l_general	6.564103	i like the top right one
+l_general	6.564103	contact the customer service
+l_general	6.564103	select fourth one
+l_general	6.564103	i want to choose the left one
+l_general	6.564103	god shut up
+l_general	6.564103	just be
+l_general	6.564103	shut up quiet
+l_general	6.564103	exit stop
+l_general	6.564103	ok stop stop
+l_general	6.564103	opt for first one
+l_general	6.564103	my god shut up
+l_general	6.564103	could you say it again
+l_general	6.564103	what's before that
+l_general	6.564103	i want to choose the right
+l_general	6.564103	is there any person i can talk to
+l_general	6.564103	drive me to the fast one
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+q_chitchat	4	Haha
+q_chitchat	4	Do you smell
+q_chitchat	4	What's your favorite song
+q_chitchat	4	Are you my assistant
+q_chitchat	4	LOL
+q_chitchat	4	Do you eat
+q_chitchat	4	What's your mom's name
+q_chitchat	4	You're funny
+q_chitchat	4	You bore me
+q_chitchat	4	Are you a girl
+q_chitchat	4	Ask me a question.
+q_chitchat	4	Are you with the FBI
+q_chitchat	4	I'm sad today
+q_chitchat	4	I'm not following
+q_chitchat	4	You're really smart
+q_chitchat	4	I'm all tuckered out
+q_chitchat	4	Say something
+q_chitchat	4	You're right.
+q_chitchat	4	Bye
+q_chitchat	4	Joke's on you
+q_chitchat	4	Do you and Cortana hang out
+q_chitchat	4	I'm in love with you.
+q_chitchat	4	You're useless
+q_chitchat	4	Are you happy
+q_chitchat	4	I'm in such a good mood
+q_chitchat	4	What are you
+q_chitchat	4	You are so annoying!
+q_chitchat	4	What were you doing yesterday
+q_chitchat	4	I need a kiss
+q_chitchat	4	I hate you
+q_chitchat	4	Am I pretty
+q_chitchat	4	Butterface.
+q_chitchat	4	Sing a song
+q_chitchat	4	Where did you come from
+q_chitchat	4	Have you ever sung a song
+q_chitchat	4	I'm really sad
+q_chitchat	4	Don't you get hungry
+q_chitchat	4	What's your job
+q_chitchat	4	Who's your favorite singer
+q_chitchat	4	You're such a smarty-pants
+q_chitchat	4	You're an asshole
+q_chitchat	4	It's my pleasure
+q_chitchat	4	Hi Cortana
+q_chitchat	4	You are stupid
+q_chitchat	4	Do you think I look good
+q_chitchat	4	That was a joke
+q_chitchat	4	I want you to be my husband
+q_chitchat	4	Who's your boss
+q_chitchat	4	I miss you
+q_chitchat	4	Who's your mom
+q_chitchat	4	Do you know the meaning of life
+q_chitchat	4	I'm ready for bed
+q_chitchat	4	What do you mean by that
+q_chitchat	4	What state are you in
+q_chitchat	4	That was correct
+q_chitchat	4	What do you think about bots
+q_chitchat	4	Do you have a family
+q_chitchat	4	That's not accurate
+q_chitchat	4	Am I a good person
+q_chitchat	4	You must hate me.
+q_chitchat	4	You are the love of my life
+q_chitchat	4	Which one of us is more beautiful
+q_chitchat	4	I don't get it
+q_chitchat	4	Try to make some sense
+q_chitchat	4	Here I am
+q_chitchat	4	You're rad.
+q_chitchat	4	Where do you come from
+q_chitchat	4	Hi Siri
+q_chitchat	4	How are you today
+q_chitchat	4	Shush!
+q_chitchat	4	I want to marry you.
+q_chitchat	4	What is wrong with you!
+q_chitchat	4	Pardon
+q_chitchat	4	What can you help me with
+q_chitchat	4	You're so stupid
+q_chitchat	4	I am here
+q_chitchat	4	Do you dream
+q_chitchat	4	What do you think about AI
+q_chitchat	4	Do you know any songs
+q_chitchat	4	I feel so great
+q_chitchat	4	Be quiet
+q_chitchat	4	What are you doing
+q_chitchat	4	Sing a tune
+q_chitchat	4	I am angry
+q_chitchat	4	Hello
+q_chitchat	4	I'm in love.
+q_chitchat	4	I want you to like me
+q_chitchat	4	Yup, that's true
+q_chitchat	4	Are you real
+q_chitchat	4	Do you have a dad
+q_chitchat	4	What other bots do you know
+q_chitchat	4	You're dumb
+q_chitchat	4	You're boring
+q_chitchat	4	I love getting valentines.
+q_chitchat	4	There's nothing to do
+q_chitchat	4	Are you with the NSA
+q_chitchat	4	Nice to meet you
+q_chitchat	4	What do you think about technology
+q_chitchat	4	Hi
+q_chitchat	4	Are you better looking than me
+q_chitchat	4	Which baseball teams do you like
+q_chitchat	4	Do you have any other responses
+q_chitchat	4	Fuck off
+q_chitchat	4	How do you feel about working late
+q_chitchat	4	I'm pissed
+q_chitchat	4	Be my friend
+q_chitchat	4	What kind of candy do you like
+q_chitchat	4	Do you ever sing
+q_chitchat	4	Are you old
+q_chitchat	4	You made no sense
+q_chitchat	4	You honestly could not be more uninteresting
+q_chitchat	4	Hi Google
+q_chitchat	4	That's inaccurate.
+q_chitchat	4	Are you smart
+q_chitchat	4	Not true
+q_chitchat	4	I think you're swell
+q_chitchat	4	I hate everything about you
+q_chitchat	4	Do you sing
+q_chitchat	4	I am a Democrat
+q_chitchat	4	Am I good-looking
+q_chitchat	4	Talk to you later
+q_chitchat	4	I'm giving you a pink slip
+q_chitchat	4	Do you know any jokes
+q_chitchat	4	Are you a swinger
+q_chitchat	4	Are you intelligent
+q_chitchat	4	I wish I weren't so alone
+q_chitchat	4	I am tall
+q_chitchat	4	Useless
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template

@@ -1,0 +1,237 @@
+Label	Weight	Text
+l_general	6.083333	add a new event on 27 - apr
+l_general	6.083333	my god shut up
+l_general	6.083333	choose top right one
+l_general	6.083333	tesco ' s catterick garrison address please
+l_general	6.083333	at grocery list add milk
+l_general	6.083333	please do nothing
+l_general	6.083333	add to wish - list computer ram
+l_general	6.083333	i want to choose the first one
+l_general	6.083333	back to the last one
+l_general	6.083333	benefits
+l_general	6.083333	show me the route to west avenue miami beach
+l_general	6.083333	i love you to stop talking
+l_general	6.083333	schaumburg covenant church schaumburg illinois please
+l_general	6.083333	cancel never mind
+l_general	6.083333	opt for a random one
+l_general	6.083333	nashville humane society rover please
+l_general	6.083333	select lower one
+l_general	6.083333	i want none of them
+l_general	6.083333	i want to choose the left one
+l_general	6.083333	show me the route to mother ' s home
+l_general	6.083333	select any choice
+l_general	6.083333	is keil available tomorrow
+l_general	6.083333	leave
+l_general	6.083333	i need support
+l_general	6.083333	select third
+l_general	6.083333	any help
+l_general	6.083333	never mind stop
+l_general	6.083333	i like second
+l_general	6.083333	i like the top right one
+l_general	6.083333	what
+l_general	6.083333	i said stop
+l_general	6.083333	create my favorites note
+l_general	6.083333	what about next one
+l_general	6.083333	just be
+l_general	6.083333	back to last
+l_general	6.083333	i want to choose right
+l_general	6.083333	previous one
+l_general	6.083333	quit
+l_general	6.083333	can you set a note up to mom
+l_general	6.083333	choose the first choice
+l_general	6.083333	get directions to uniondale high school
+l_general	6.083333	the meeting will last for one hour
+l_general	6.083333	when is paul available
+l_general	6.083333	i want the first
+l_general	6.083333	all finished
+l_general	6.083333	create note with notepad
+l_general	6.083333	show the previous one
+l_general	6.083333	what before that
+l_general	6.083333	what did you say
+l_general	6.083333	cancel app
+l_general	6.083333	that ' s good
+l_general	6.083333	vacation
+l_general	6.083333	help me in clearing the shopping note
+l_general	6.083333	santa barbara maine postal please
+l_general	6.083333	clear my save notes
+l_general	6.083333	anyone is fine
+l_general	6.083333	add my current location as home
+l_general	6.083333	is the distance betwee the zoo and my current location thirteen miles
+l_general	6.083333	neither of those
+l_general	6.083333	start it over
+l_general	6.083333	any one is ok
+l_general	6.083333	what's more
+l_general	6.083333	cancel cancel
+l_general	6.083333	search for meetings with chris
+l_general	6.083333	turn off
+l_general	6.083333	i like second one
+l_general	6.083333	just cancel
+l_general	6.083333	travel advisory
+l_general	6.083333	stayfit
+l_general	6.083333	i want bottom
+l_general	6.083333	clear last note
+l_general	6.083333	select a random one
+l_general	6.083333	check if i have time for a meeting tonight
+l_general	6.083333	dunmore pa sonic sounds friday morning please
+l_general	6.083333	select the third one
+l_general	6.083333	travel advisory to india
+l_general	6.083333	send lighter fluid to onenote
+l_general	6.083333	check - in room three forty seven
+l_general	6.083333	clear and start again
+l_general	6.083333	show the next one
+l_general	6.083333	visa
+l_general	6.083333	get back to the last one
+l_general	6.083333	start over it
+l_general	6.083333	travel
+None	51.1	i want to all of them
+None	51.1	i want to all of them
+None	51.1	i want to all of them
+None	51.1	i want to all of them
+None	51.1	i want to all of them
+None	51.1	i want to all of them
+None	51.1	i want to all of them
+None	51.1	i want to all of them
+None	51.1	i want to all of them
+None	51.1	i want to all of them
+q_chitchat	3.96124	Do you spend time in your garden
+q_chitchat	3.96124	You're hilarious
+q_chitchat	3.96124	Where are you
+q_chitchat	3.96124	What's wrong with you
+q_chitchat	3.96124	Correct
+q_chitchat	3.96124	I can drive a car
+q_chitchat	3.96124	You are a genius!
+q_chitchat	3.96124	I am annoyed
+q_chitchat	3.96124	Can you sleep
+q_chitchat	3.96124	Fist bump!
+q_chitchat	3.96124	What do you think about me
+q_chitchat	3.96124	What are you doing later
+q_chitchat	3.96124	Have a good night
+q_chitchat	3.96124	Say something dumb
+q_chitchat	3.96124	Do you have any other responses
+q_chitchat	3.96124	Happy Birthday!
+q_chitchat	3.96124	You're fired!
+q_chitchat	3.96124	I am a Democrat
+q_chitchat	3.96124	Are you my imaginary friend
+q_chitchat	3.96124	What country are you from
+q_chitchat	3.96124	I'm ready for bed
+q_chitchat	3.96124	Thank you so much
+q_chitchat	3.96124	What do you think about Alexa
+q_chitchat	3.96124	Do you have siblings
+q_chitchat	3.96124	Be funny
+q_chitchat	3.96124	What's your dad's name
+q_chitchat	3.96124	How can you help me
+q_chitchat	3.96124	What country are you in
+q_chitchat	3.96124	Good evening to you
+q_chitchat	3.96124	High five!
+q_chitchat	3.96124	Pardon
+q_chitchat	3.96124	See you later
+q_chitchat	3.96124	Love you!
+q_chitchat	3.96124	What other bots do you know
+q_chitchat	3.96124	Can you make me a sandwich
+q_chitchat	3.96124	Are you awesome
+q_chitchat	3.96124	Where should I go on vacation
+q_chitchat	3.96124	I'm afraid I'm gonna have to let you go.
+q_chitchat	3.96124	Do you know any songs
+q_chitchat	3.96124	I am angry
+q_chitchat	3.96124	That was correct
+q_chitchat	3.96124	You are my best friend
+q_chitchat	3.96124	Are you prettier than me
+q_chitchat	3.96124	It's really nice to meet you
+q_chitchat	3.96124	Do you not like me
+q_chitchat	3.96124	You made no sense
+q_chitchat	3.96124	Are you smarter than me
+q_chitchat	3.96124	Do you think you're smarter than me
+q_chitchat	3.96124	Talk with me
+q_chitchat	3.96124	I want to eat something
+q_chitchat	3.96124	Who owns you
+q_chitchat	3.96124	Are you straight
+q_chitchat	3.96124	Can we chat
+q_chitchat	3.96124	Which one of us is more beautiful
+q_chitchat	3.96124	Do you like apples
+q_chitchat	3.96124	What do you think about technology
+q_chitchat	3.96124	I despise you
+q_chitchat	3.96124	Do you dream
+q_chitchat	3.96124	You're not answering my question.
+q_chitchat	3.96124	You're such a smarty-pants
+q_chitchat	3.96124	I am alone
+q_chitchat	3.96124	Why is that
+q_chitchat	3.96124	Yup, that's true
+q_chitchat	3.96124	Why do you think that
+q_chitchat	3.96124	I'm pissed
+q_chitchat	3.96124	Good evening
+q_chitchat	3.96124	I'm giving you a pink slip
+q_chitchat	3.96124	Nice to meet you
+q_chitchat	3.96124	Yup
+q_chitchat	3.96124	You're so smart
+q_chitchat	3.96124	I feel so great
+q_chitchat	3.96124	What do you mean
+q_chitchat	3.96124	Aren't you chipper
+q_chitchat	3.96124	Are you young
+q_chitchat	3.96124	You're right.
+q_chitchat	7.922481	I love you.
+q_chitchat	3.96124	Do you know Google
+q_chitchat	3.96124	Can you fly
+q_chitchat	3.96124	Great, thanks
+q_chitchat	3.96124	Hey
+q_chitchat	3.96124	That's true
+q_chitchat	3.96124	Who's your favorite team
+q_chitchat	3.96124	What do you like to eat
+q_chitchat	3.96124	You seem happy
+q_chitchat	3.96124	Getting tired of you
+q_chitchat	3.96124	Hahaha
+q_chitchat	3.96124	Zip it!
+q_chitchat	3.96124	Say something stupid
+q_chitchat	3.96124	You're wonderful
+q_chitchat	3.96124	Do you prefer red or blue
+q_chitchat	3.96124	Are you smart
+q_chitchat	3.96124	Inaccurate
+q_chitchat	3.96124	Do you know Siri
+q_chitchat	3.96124	Do you have a family
+q_chitchat	3.96124	I'm so hungry
+q_chitchat	3.96124	Here's a kiss for you
+q_chitchat	3.96124	Should I get a new job
+q_chitchat	3.96124	You bore me
+q_chitchat	3.96124	What do you eat
+q_chitchat	3.96124	I am doing that
+q_chitchat	3.96124	You are stupid
+q_chitchat	3.96124	Basic af
+q_chitchat	3.96124	How do I look today
+q_chitchat	3.96124	Are you busy
+q_chitchat	3.96124	That's not true.
+q_chitchat	3.96124	Hi
+q_chitchat	3.96124	Great!
+q_chitchat	3.96124	I'm full of sadness
+q_chitchat	3.96124	I don't understand
+q_chitchat	3.96124	That's accurate
+q_chitchat	3.96124	Can you ask me a question
+q_chitchat	3.96124	Are you with the CIA
+q_chitchat	3.96124	Hello Google
+q_chitchat	3.96124	Tell a joke
+q_chitchat	3.96124	How was your day
+q_chitchat	3.96124	I'm in love with you.
+q_chitchat	3.96124	You are funny :)
+q_chitchat	3.96124	Joke's on you
+q_chitchat	3.96124	You are no longer employed
+q_chitchat	3.96124	Talk to you later
+q_chitchat	3.96124	You are awesome!
+q_chitchat	3.96124	Do you know any tunes
+q_chitchat	3.96124	Are you Skynet
+q_chitchat	3.96124	You're so basic
+q_chitchat	3.96124	Can you count to a million
+q_chitchat	3.96124	You're so boring
+q_chitchat	3.96124	Can we be friends
+q_chitchat	3.96124	What did you do yesterday
+q_faq	36.5	Do shares in the Stock Award program earn a dividend
+q_faq	36.5	Where do I find my vacation balance
+q_faq	36.5	How important is visibility to earning higher rewards
+q_faq	36.5	How should I think about zero rewards
+q_faq	36.5	How can I understand what high performance versus low performance looks like
+q_faq	36.5	How do I transfer my vested stock award shares
+q_faq	36.5	Where do I find my sick leave balance
+q_faq	36.5	Do shares in the Stock Award program earn a dividend
+q_faq	36.5	Where do I find my vacation balance
+q_faq	36.5	How important is visibility to earning higher rewards
+q_faq	36.5	How should I think about zero rewards
+q_faq	36.5	How can I understand what high performance versus low performance looks like
+q_faq	36.5	How do I transfer my vested stock award shares
+q_faq	36.5	Where do I find my sick leave balance

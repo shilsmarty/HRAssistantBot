@@ -1,0 +1,227 @@
+Label	Weight	Text
+l_general	6.551282	i want to choose the left one
+l_general	6.551282	free time this afternoon please
+l_general	6.551282	help
+l_general	6.551282	dismiss
+l_general	6.551282	voice activated reading of appointments this week
+l_general	6.551282	shut up quiet
+l_general	6.551282	neither thank you
+l_general	6.551282	i need some help
+l_general	6.551282	god shut up
+l_general	6.551282	tacoma please
+l_general	6.551282	what's more
+l_general	6.551282	no go back to
+l_general	6.551282	show previous
+l_general	6.551282	how can i get it
+l_general	6.551282	i want to choose right
+l_general	6.551282	add a new task finish assignment
+l_general	6.551282	no cancel it
+l_general	6.551282	add an event to visit 209 nashville gym
+l_general	6.551282	affordable insurance washington ave albany ny 12222 please
+l_general	6.551282	i need help
+l_general	6.551282	cancel
+l_general	6.551282	show me the route to west avenue miami beach
+l_general	6.551282	yep
+l_general	6.551282	select the bottom choice
+l_general	6.551282	no shut up
+l_general	6.551282	exit stop
+l_general	6.551282	what is the previous
+l_general	6.551282	quiet
+l_general	6.551282	okay i got it
+l_general	6.551282	what was that again
+l_general	6.551282	choose one of it randomly
+l_general	6.551282	i want to choose second one
+l_general	6.551282	pardon
+l_general	6.551282	i don't want to choose any one
+l_general	6.551282	i am done
+l_general	6.551282	what's next
+l_general	6.551282	i am confirming keeping all items on lists
+l_general	6.551282	opt for first one
+l_general	6.551282	opt for a random one
+l_general	6.551282	waffles recipe is my new note to be created
+l_general	6.551282	no stop
+l_general	6.551282	go away
+l_general	6.551282	i need some assist
+l_general	6.551282	show me the next
+l_general	6.551282	some help
+l_general	6.551282	say that again
+l_general	6.551282	nowhere just be quiet
+l_general	6.551282	get back please
+l_general	6.551282	choose the upper right one
+l_general	6.551282	go back on
+l_general	6.551282	start it over
+l_general	6.551282	how soon will jack be free
+l_general	6.551282	type in notepad
+l_general	6.551282	it's done
+l_general	6.551282	go to the next one
+l_general	6.551282	i want to choose third
+l_general	6.551282	done
+l_general	6.551282	check if i have time for a meeting tonight
+l_general	6.551282	go back to
+l_general	6.551282	what before that
+l_general	6.551282	bend oregon exotic restaurants please
+l_general	6.551282	finish
+l_general	6.551282	that ' s good
+l_general	6.551282	submit
+l_general	6.551282	i want the fourth choice
+l_general	6.551282	i am finished
+l_general	6.551282	opt for the second choice
+l_general	6.551282	previous one
+l_general	6.551282	finished with
+l_general	6.551282	oh cancel
+l_general	6.551282	back to the last one
+l_general	6.551282	talk to a human
+l_general	6.551282	is there any real human
+l_general	6.551282	i want to choose lower right
+l_general	6.551282	restart it
+l_general	6.551282	previous one please
+l_general	6.551282	add a new event on 27 - apr
+l_general	6.551282	please begin again
+None	51.1	i want them all
+None	51.1	i want them all
+None	51.1	i want them all
+None	51.1	i want them all
+None	51.1	i want them all
+None	51.1	i want them all
+None	51.1	i want them all
+None	51.1	i want them all
+None	51.1	i want them all
+None	51.1	i want them all
+q_chitchat	3.96124	Can I have a hug
+q_chitchat	3.96124	You are no longer employed
+q_chitchat	3.96124	Be more fun
+q_chitchat	3.96124	Who is your creator
+q_chitchat	3.96124	You made no sense
+q_chitchat	3.96124	Who's smarter, me or you
+q_chitchat	3.96124	Till we meet again
+q_chitchat	3.96124	Be ridiculous
+q_chitchat	3.96124	Be my friend
+q_chitchat	3.96124	Stop talking
+q_chitchat	3.96124	What can you do
+q_chitchat	3.96124	You're so stupid
+q_chitchat	3.96124	Do you pee
+q_chitchat	3.96124	Say something ridiculous
+q_chitchat	3.96124	What's wrong with you
+q_chitchat	3.96124	Who's your master
+q_chitchat	3.96124	Do you want to rule the world
+q_chitchat	3.96124	I am tall
+q_chitchat	3.96124	Be funny
+q_chitchat	3.96124	Do you know any tunes
+q_chitchat	3.96124	You are so not pretty.
+q_chitchat	3.96124	Tell me a joke
+q_chitchat	3.96124	What makes you think that
+q_chitchat	3.96124	What were you doing yesterday
+q_chitchat	3.96124	Do you sing
+q_chitchat	3.96124	How much more awesome can you get
+q_chitchat	3.96124	Go away
+q_chitchat	3.96124	You seem happy
+q_chitchat	3.96124	Are you my assistant
+q_chitchat	3.96124	I am alone
+q_chitchat	3.96124	You're really boring
+q_chitchat	3.96124	Do you think I should ask her out
+q_chitchat	3.96124	What do you think about Cortana
+q_chitchat	3.96124	Ask me a question.
+q_chitchat	3.96124	I'm despondent
+q_chitchat	3.96124	Are you a girl or a boy
+q_chitchat	3.96124	There
+q_chitchat	3.96124	I'm joyous
+q_chitchat	3.96124	I'm just playing
+q_chitchat	3.96124	Aren't you awesome
+q_chitchat	3.96124	That's not true.
+q_chitchat	3.96124	Can you sleep
+q_chitchat	3.96124	What is the answer to the universe
+q_chitchat	3.96124	What's your dad's name
+q_chitchat	3.96124	You're dumb
+q_chitchat	3.96124	Can you hear me now
+q_chitchat	3.96124	Talk with me
+q_chitchat	3.96124	Your face is like a pancake.
+q_chitchat	3.96124	What kind of food do you like
+q_chitchat	3.96124	What do you think about bots
+q_chitchat	3.96124	That's right
+q_chitchat	3.96124	What's your opinion of me
+q_chitchat	3.96124	Do you know Google
+q_chitchat	3.96124	Thanks
+q_chitchat	3.96124	Do you eat
+q_chitchat	3.96124	You're the best
+q_chitchat	3.96124	I'm just kidding around
+q_chitchat	3.96124	What should I do
+q_chitchat	3.96124	Hello Google
+q_chitchat	3.96124	That's hilarious
+q_chitchat	3.96124	That wasn't true
+q_chitchat	3.96124	Who is your father
+q_chitchat	3.96124	I love music.
+q_chitchat	3.96124	How do you feel about working late
+q_chitchat	3.96124	Do I look good in blue
+q_chitchat	3.96124	Yes
+q_chitchat	3.96124	Are you free
+q_chitchat	3.96124	Chat with me
+q_chitchat	3.96124	Have you ever sung a song
+q_chitchat	3.96124	What do you think about Siri
+q_chitchat	3.96124	I am annoyed
+q_chitchat	3.96124	Inaccurate
+q_chitchat	3.96124	Here's a kiss for you
+q_chitchat	3.96124	That's awesome
+q_chitchat	3.96124	There's nothing to do
+q_chitchat	3.96124	Are you a lesbian
+q_chitchat	3.96124	I'm from there
+q_chitchat	3.96124	How long ago were you born
+q_chitchat	3.96124	Can't you change your answers
+q_chitchat	3.96124	Are you happy
+q_chitchat	3.96124	Just kidding
+q_chitchat	3.96124	Are you friends with other bots
+q_chitchat	3.96124	I am tired
+q_chitchat	3.96124	Happy Birthday!
+q_chitchat	3.96124	I'm so sorry
+q_chitchat	3.96124	Back in a minute
+q_chitchat	3.96124	What kinds of things can you do
+q_chitchat	3.96124	How smart are you
+q_chitchat	3.96124	Good night to you
+q_chitchat	3.96124	Are you asexual
+q_chitchat	3.96124	Are you better looking than me
+q_chitchat	3.96124	I want to be your friend.
+q_chitchat	3.96124	You're rad.
+q_chitchat	3.96124	I am hungry
+q_chitchat	3.96124	Do you love anyone
+q_chitchat	3.96124	Why
+q_chitchat	3.96124	I'm a fan.
+q_chitchat	3.96124	I'm so glad to meet you
+q_chitchat	3.96124	Who do you report to
+q_chitchat	3.96124	Say something dumb
+q_chitchat	3.96124	I am not your friend
+q_chitchat	3.96124	So tired
+q_chitchat	3.96124	You honestly could not be more uninteresting
+q_chitchat	3.96124	Do you like my hat
+q_chitchat	3.96124	What other bots do you know
+q_chitchat	3.96124	Great, thanks
+q_chitchat	3.96124	I'm not following
+q_chitchat	3.96124	I miss you
+q_chitchat	3.96124	I'm pissed
+q_chitchat	3.96124	I think you're so pretty
+q_chitchat	3.96124	That was right
+q_chitchat	3.96124	Who made you
+q_chitchat	3.96124	I'm so sad
+q_chitchat	3.96124	Do you not like me
+q_chitchat	3.96124	How smart you are
+q_chitchat	3.96124	So sorry
+q_chitchat	3.96124	Will you marry me
+q_chitchat	3.96124	Thank you so much
+q_chitchat	3.96124	You are my favorite
+q_chitchat	3.96124	Do you have a family
+q_chitchat	3.96124	That wasn't funny.
+q_chitchat	7.922481	I love you.
+q_chitchat	3.96124	I'm ready for bed
+q_chitchat	3.96124	Are you a fan of Alexa
+q_chitchat	3.96124	I'm afraid I'm gonna have to let you go.
+q_chitchat	3.96124	I'm chewing gum right now
+q_chitchat	3.96124	That was a stupid answer.
+q_chitchat	3.96124	What's your favorite color
+q_faq	51.1	What is the Enterprise Bot Template
+q_faq	51.1	What is the Enterprise Bot Template
+q_faq	51.1	What is the Enterprise Bot Template
+q_faq	51.1	What is the Enterprise Bot Template
+q_faq	51.1	What is the Enterprise Bot Template
+q_faq	51.1	What is the Enterprise Bot Template
+q_faq	51.1	What is the Enterprise Bot Template
+q_faq	51.1	What is the Enterprise Bot Template
+q_faq	51.1	What is the Enterprise Bot Template
+q_faq	51.1	What is the Enterprise Bot Template

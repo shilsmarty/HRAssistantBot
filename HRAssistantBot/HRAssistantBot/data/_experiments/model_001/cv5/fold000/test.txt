@@ -1,0 +1,207 @@
+Label	Weight	Text
+l_general	8.827586	start it over
+l_general	8.827586	finish
+l_general	8.827586	again
+l_general	8.827586	and after that
+l_general	8.827586	go back
+l_general	8.827586	is there any help
+l_general	8.827586	i want to choose the left one
+l_general	8.827586	select any
+l_general	8.827586	open help
+l_general	8.827586	select the first
+l_general	8.827586	choose the upper right one
+l_general	8.827586	say that again
+l_general	8.827586	what about next one
+l_general	8.827586	no no cancel
+l_general	8.827586	return
+l_general	8.827586	cancelled
+l_general	8.827586	what did you say
+l_general	8.827586	turn off
+l_general	8.827586	choose top right one
+l_general	8.827586	help
+l_general	8.827586	never mind cancel
+l_general	8.827586	select the right one
+l_general	8.827586	i want the first
+l_general	8.827586	go to the next one
+l_general	8.827586	go back please
+l_general	8.827586	show the previous one
+l_general	8.827586	return to the previous one
+l_general	8.827586	opt for the right
+l_general	8.827586	go back to
+l_general	8.827586	it's done
+l_general	8.827586	finished
+l_general	8.827586	opt for the last one
+l_general	8.827586	anyone is fine
+l_general	8.827586	no no go back to
+l_general	8.827586	choose top right
+l_general	8.827586	select any choice
+l_general	8.827586	choose the first choice
+l_general	8.827586	i want more
+l_general	8.827586	submit it
+l_general	8.827586	nowhere just be quiet
+l_general	8.827586	next
+l_general	8.827586	go forward
+l_general	8.827586	go back to previous
+l_general	8.827586	show the next 4 items
+l_general	8.827586	no no no no stop talking
+l_general	8.827586	customer service
+l_general	8.827586	i mean stop listening
+l_general	8.827586	human service
+l_general	8.827586	cancel
+l_general	8.827586	done
+l_general	8.827586	is there any real person
+l_general	8.827586	i said stop
+l_general	8.827586	i am finished
+l_general	8.827586	select third
+l_general	8.827586	no cancel that
+l_general	8.827586	is there any person i can talk to
+l_general	8.827586	no no cancel it
+l_general	8.827586	select fourth one
+None	51.2	all of them
+None	51.2	all of them
+None	51.2	all of them
+None	51.2	all of them
+None	51.2	all of them
+None	51.2	all of them
+None	51.2	all of them
+None	51.2	all of them
+None	51.2	all of them
+None	51.2	all of them
+q_chitchat	4	Aren't you awesome
+q_chitchat	4	You're so happy
+q_chitchat	4	Do you know who I am
+q_chitchat	4	You fucked up
+q_chitchat	4	Can't you change your answers
+q_chitchat	4	Who's your mom
+q_chitchat	4	Do you get tired
+q_chitchat	4	You're so smart
+q_chitchat	4	Yes
+q_chitchat	4	I will be back
+q_chitchat	4	That's not true.
+q_chitchat	4	I'm a fan.
+q_chitchat	4	Are you here
+q_chitchat	4	You're nice!
+q_chitchat	4	Are you gay
+q_chitchat	4	What's going on
+q_chitchat	4	Can you make me a sandwich
+q_chitchat	4	Are you smart
+q_chitchat	4	When were you born
+q_chitchat	4	Morning
+q_chitchat	4	I'm an engineer
+q_chitchat	4	Who is your mother
+q_chitchat	4	I'm giving you a pink slip
+q_chitchat	4	How are you
+q_chitchat	4	I am a Republican
+q_chitchat	4	Are you selling my data
+q_chitchat	4	Later
+q_chitchat	4	Fist bump!
+q_chitchat	4	I'm sorry
+q_chitchat	4	Hello Cortana
+q_chitchat	4	Am I a good person
+q_chitchat	4	Butterface.
+q_chitchat	4	How do I look today
+q_chitchat	4	Be my friend
+q_chitchat	4	Do you know any songs
+q_chitchat	4	What do you think about technology
+q_chitchat	4	I need a hug
+q_chitchat	4	Do you have a sister
+q_chitchat	4	You look ugly.
+q_chitchat	4	I'm starving
+q_chitchat	4	You're rad.
+q_chitchat	4	Do you have brothers
+q_chitchat	4	Are you free
+q_chitchat	4	Is this thing on
+q_chitchat	4	You keep saying the same thing all the time
+q_chitchat	4	Should I try out for soccer
+q_chitchat	4	That was a joke
+q_chitchat	4	What kinds of things can you do
+q_chitchat	4	Bingo
+q_chitchat	4	What's up
+q_chitchat	4	Are you happy
+q_chitchat	4	Who do you love
+q_chitchat	4	I wish I weren't so alone
+q_chitchat	4	Goodbye
+q_chitchat	4	You're lame
+q_chitchat	4	Are you queer
+q_chitchat	4	Do you know my name
+q_chitchat	4	Merry Christmas
+q_chitchat	4	Who's your daddy
+q_chitchat	4	You bore me
+q_chitchat	4	I wish I could hug you
+q_chitchat	4	ROFL
+q_chitchat	4	How do you feel about working late
+q_chitchat	4	Oops, sorry
+q_chitchat	4	You are useless
+q_chitchat	4	I don't get it
+q_chitchat	4	Thank you
+q_chitchat	4	What's your favorite activity
+q_chitchat	4	Which one of us is smarter
+q_chitchat	4	Should I get a new job
+q_chitchat	4	What's your favorite animal
+q_chitchat	4	Do you believe in love
+q_chitchat	4	You're a butterface.
+q_chitchat	4	What do you think about Siri
+q_chitchat	4	Go to hell
+q_chitchat	4	What do you like to sing best
+q_chitchat	4	Can you sing a song
+q_chitchat	4	What are you doing right now
+q_chitchat	4	Do you like Alexa
+q_chitchat	4	Why are you so boring
+q_chitchat	4	Be more fun
+q_chitchat	4	Can you chat with me
+q_chitchat	4	I'm so hungry
+q_chitchat	4	I am bored
+q_chitchat	4	What makes you think so
+q_chitchat	4	Are you a fan of Alexa
+q_chitchat	4	What's new
+q_chitchat	4	Are you smarter than me
+q_chitchat	4	Yes, that's true
+q_chitchat	4	Who made you
+q_chitchat	4	Do you like computers
+q_chitchat	4	Do you know any tunes
+q_chitchat	4	Chat with me
+q_chitchat	4	Do you like my hat
+q_chitchat	4	You honestly could not be more uninteresting
+q_chitchat	4	I'm really sad
+q_chitchat	4	What is love
+q_chitchat	4	I am alone
+q_chitchat	4	Do you know the meaning of life
+q_chitchat	4	Hello Alexa
+q_chitchat	4	Do you know Alexa
+q_chitchat	4	What do you go by
+q_chitchat	4	That made no sense
+q_chitchat	4	I love my family.
+q_chitchat	4	How are you today
+q_chitchat	4	Say something
+q_chitchat	4	Are you a boy
+q_chitchat	4	I hate you
+q_chitchat	4	What state are you in
+q_chitchat	4	Do you know Cortana
+q_chitchat	4	Happy Birthday!
+q_chitchat	4	You're so stupid
+q_chitchat	4	What's your boss' name
+q_chitchat	4	Can you ask me a question
+q_chitchat	4	Just kidding
+q_chitchat	4	Hello Siri
+q_chitchat	4	Do you know Google
+q_chitchat	4	Who am I
+q_chitchat	4	I think you hate me.
+q_chitchat	4	I am annoyed
+q_chitchat	4	What's your favorite food
+q_chitchat	4	Are you asexual
+q_chitchat	4	What's your favorite movie
+q_chitchat	4	Are you a robot
+q_chitchat	4	What's your job
+q_chitchat	4	What's your favorite song
+q_chitchat	4	BFFs forever
+q_chitchat	4	I like you
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template

@@ -1,0 +1,236 @@
+Label	Weight	Text
+l_general	6.156627	just be
+l_general	6.156627	stop talking
+l_general	6.156627	waffles recipe is my new note to be created
+l_general	6.156627	clear all items from the chores list .
+l_general	6.156627	choose the first choice
+l_general	6.156627	none of them thank you
+l_general	6.156627	come on stop
+l_general	6.156627	at grocery list add milk
+l_general	6.156627	sick oof
+l_general	6.156627	day off
+l_general	6.156627	no be quiet
+l_general	6.156627	add friends to party list in memos
+l_general	6.156627	back
+l_general	6.156627	add a new task finish assignment
+l_general	6.156627	check - in room three forty seven
+l_general	6.156627	neither of those
+l_general	6.156627	how can i get it
+l_general	6.156627	voice activated reading of appointments this week
+l_general	6.156627	i want to choose the last choice
+l_general	6.156627	" i want to create a note of title shopping list " " " " "
+l_general	6.156627	choose one of it randomly
+l_general	6.156627	end
+l_general	6.156627	add tasks to wunderlist
+l_general	6.156627	none of these
+l_general	6.156627	i want to talk to a human
+l_general	6.156627	return
+l_general	6.156627	how far is orlando from new york
+l_general	6.156627	show me samuel ' s availability for tuesday morning
+l_general	6.156627	help
+l_general	6.156627	i am confirming keeping all items on lists
+l_general	6.156627	end it
+l_general	6.156627	what's the next 2
+l_general	6.156627	do nothing
+l_general	6.156627	add fred george to onenote
+l_general	6.156627	opt for the right
+l_general	6.156627	opt for first one
+l_general	6.156627	i want to choose bottom one
+l_general	6.156627	go back to previous
+l_general	6.156627	show me the route to west avenue miami beach
+l_general	6.156627	restart
+l_general	6.156627	choose no.2
+l_general	6.156627	back to last step
+l_general	6.156627	select upper
+l_general	6.156627	i want the lower choice
+l_general	6.156627	is there any person i can talk to
+l_general	6.156627	i need some assist
+l_general	6.156627	talk to a human
+l_general	6.156627	ok stop stop
+l_general	6.156627	show me tomorrow ' s wedding party time
+l_general	6.156627	i like upper right
+l_general	6.156627	can i talk to a person
+l_general	6.156627	open help
+l_general	6.156627	i mean stop listening
+l_general	6.156627	that ' s good
+l_general	6.156627	select the third one
+l_general	6.156627	hey stop
+l_general	6.156627	i want the right one
+l_general	6.156627	no go back to
+l_general	6.156627	go to the previous one
+l_general	6.156627	show the next one
+l_general	6.156627	dunmore pa sonic sounds friday morning please
+l_general	6.156627	i like the third choice
+l_general	6.156627	quiet
+l_general	6.156627	health benefits
+l_general	6.156627	stayfit
+l_general	6.156627	put applebee ' s on favorite list
+l_general	6.156627	b forty nine bus map brooklyn
+l_general	6.156627	some help
+l_general	6.156627	choose the upper right one
+l_general	6.156627	show previous
+l_general	6.156627	holomap stockholm metro (3d map) please
+l_general	6.156627	none none
+l_general	6.156627	is there any real person
+l_general	6.156627	i like the top right one
+l_general	6.156627	cancel that
+l_general	6.156627	i want right one
+l_general	6.156627	schedule appointment for tomorrow please
+l_general	6.156627	display the fastest crossing across the sahara desert
+l_general	6.156627	back to the last one
+l_general	6.156627	tell me the event details
+l_general	6.156627	anything
+l_general	6.156627	it's done
+l_general	6.156627	view tom chros availability
+None	51.1	all of them
+None	51.1	all of them
+None	51.1	all of them
+None	51.1	all of them
+None	51.1	all of them
+None	51.1	all of them
+None	51.1	all of them
+None	51.1	all of them
+None	51.1	all of them
+None	51.1	all of them
+q_chitchat	3.96124	Are you attempting world domination
+q_chitchat	3.96124	How old are you
+q_chitchat	3.96124	Zip it!
+q_chitchat	3.96124	Do you have siblings
+q_chitchat	3.96124	Do you know any songs
+q_chitchat	3.96124	Are you male
+q_chitchat	3.96124	Do you spend time in your garden
+q_chitchat	3.96124	Why do you say the same thing all the time
+q_chitchat	3.96124	I am tall
+q_chitchat	3.96124	I'd like to take you out on a date
+q_chitchat	3.96124	Who are you
+q_chitchat	3.96124	Be funny
+q_chitchat	3.96124	Can you sleep
+q_chitchat	3.96124	Will you be my wife
+q_chitchat	3.96124	I hate everything about you
+q_chitchat	3.96124	I hate you
+q_chitchat	3.96124	I'm a fan.
+q_chitchat	3.96124	Useless
+q_chitchat	3.96124	Are you a fan of country music
+q_chitchat	3.96124	Do you have any other responses
+q_chitchat	7.922481	I love you.
+q_chitchat	3.96124	Are you a man
+q_chitchat	3.96124	What do you mean by that
+q_chitchat	3.96124	Are you Skynet
+q_chitchat	3.96124	Are you intelligent
+q_chitchat	3.96124	What are you doing later
+q_chitchat	3.96124	Are you trans
+q_chitchat	3.96124	I'm in love.
+q_chitchat	3.96124	Can you play sports
+q_chitchat	3.96124	Heya
+q_chitchat	3.96124	Yup
+q_chitchat	3.96124	I want to spend the rest of my life with you
+q_chitchat	3.96124	Do you think I should ask him out
+q_chitchat	3.96124	I'm famished
+q_chitchat	3.96124	Do you like Siri
+q_chitchat	3.96124	I am angry
+q_chitchat	3.96124	Quiet, you
+q_chitchat	3.96124	Hello Siri
+q_chitchat	3.96124	I think you're great
+q_chitchat	3.96124	What kind of food do you like
+q_chitchat	3.96124	Are you a fan of Alexa
+q_chitchat	3.96124	You're stupid
+q_chitchat	3.96124	Hello Cortana
+q_chitchat	3.96124	Which one of us is more beautiful
+q_chitchat	3.96124	You're smart
+q_chitchat	3.96124	Should I try out for soccer
+q_chitchat	3.96124	That's right
+q_chitchat	3.96124	Having a good day
+q_chitchat	3.96124	What do you like to sing best
+q_chitchat	3.96124	Are you smarter than me
+q_chitchat	3.96124	Good morning
+q_chitchat	3.96124	Do you not like me
+q_chitchat	3.96124	How smart you are
+q_chitchat	3.96124	I want to be your friend.
+q_chitchat	3.96124	Are you with the FBI
+q_chitchat	3.96124	Do you get tired
+q_chitchat	3.96124	What do you want to know about me
+q_chitchat	3.96124	Can I have a hug
+q_chitchat	3.96124	What do you do
+q_chitchat	3.96124	You are the love of my life
+q_chitchat	3.96124	Are you male or female
+q_chitchat	3.96124	Awesome
+q_chitchat	3.96124	How much more awesome can you get
+q_chitchat	3.96124	It's really nice to meet you
+q_chitchat	3.96124	I don't understand
+q_chitchat	3.96124	Can you hear me now
+q_chitchat	3.96124	Be silly
+q_chitchat	3.96124	You're right.
+q_chitchat	3.96124	You're dumb
+q_chitchat	3.96124	That's true
+q_chitchat	3.96124	Can you sing a song
+q_chitchat	3.96124	I love New York.
+q_chitchat	3.96124	Thank you
+q_chitchat	3.96124	What do you think about Siri
+q_chitchat	3.96124	Is this thing on
+q_chitchat	3.96124	What do you think about Cortana
+q_chitchat	3.96124	Inaccurate
+q_chitchat	3.96124	Are you with the NSA
+q_chitchat	3.96124	How are things
+q_chitchat	3.96124	What is love
+q_chitchat	3.96124	What's up
+q_chitchat	3.96124	You don't interest me at all
+q_chitchat	3.96124	Are you bisexual
+q_chitchat	3.96124	Can you make me a sandwich
+q_chitchat	3.96124	How do you feel about working late
+q_chitchat	3.96124	Go to hell
+q_chitchat	3.96124	You're so boring
+q_chitchat	3.96124	What do you mean
+q_chitchat	3.96124	You're rad.
+q_chitchat	3.96124	That's not true.
+q_chitchat	3.96124	Give me a fist bump
+q_chitchat	3.96124	Do you think I look good
+q_chitchat	3.96124	Can you sing
+q_chitchat	3.96124	What's your purpose
+q_chitchat	3.96124	Hello
+q_chitchat	3.96124	Yes
+q_chitchat	3.96124	How smart are you
+q_chitchat	3.96124	You're so stupid
+q_chitchat	3.96124	Are you in love with me
+q_chitchat	3.96124	How are you today
+q_chitchat	3.96124	Who's your mom
+q_chitchat	3.96124	What state are you from
+q_chitchat	3.96124	What do you think about bots
+q_chitchat	3.96124	Not funny.
+q_chitchat	3.96124	Do you think you're smarter than me
+q_chitchat	3.96124	You're so cool
+q_chitchat	3.96124	How are you doing
+q_chitchat	3.96124	How can you help me
+q_chitchat	3.96124	Who made you
+q_chitchat	3.96124	You're very intelligent
+q_chitchat	3.96124	I am alone
+q_chitchat	3.96124	Good night
+q_chitchat	3.96124	Which one of us is smarter
+q_chitchat	3.96124	I want you to like me
+q_chitchat	3.96124	You're lame
+q_chitchat	3.96124	Should I get a new job
+q_chitchat	3.96124	I'm not following
+q_chitchat	3.96124	are you real or fake
+q_chitchat	3.96124	I love my family.
+q_chitchat	3.96124	Have a good night
+q_chitchat	3.96124	You're funny
+q_chitchat	3.96124	What are you doing
+q_chitchat	3.96124	Nice to meet you
+q_chitchat	3.96124	Do you ever sing
+q_chitchat	3.96124	Happy Hannukah
+q_chitchat	3.96124	Talk with me
+q_chitchat	3.96124	I will be back
+q_chitchat	3.96124	I'm starving
+q_faq	36.5	Who should I contact if I have unanswered questions
+q_faq	36.5	How do I transfer my vested stock award shares
+q_faq	36.5	How do I report my vacation time
+q_faq	36.5	How do I report my jury duty time
+q_faq	36.5	How do I report my used sick leave or time away from work for a medical or dental appointment
+q_faq	36.5	Are MS Poll responses anonymous
+q_faq	36.5	Why do we expect individual rewards outcomes to vary year to year
+q_faq	36.5	Who should I contact if I have unanswered questions
+q_faq	36.5	How do I transfer my vested stock award shares
+q_faq	36.5	How do I report my vacation time
+q_faq	36.5	How do I report my jury duty time
+q_faq	36.5	How do I report my used sick leave or time away from work for a medical or dental appointment
+q_faq	36.5	Are MS Poll responses anonymous
+q_faq	36.5	Why do we expect individual rewards outcomes to vary year to year

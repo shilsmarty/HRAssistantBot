@@ -1,0 +1,227 @@
+Label	Weight	Text
+l_general	6.564103	i mean stop listening
+l_general	6.564103	free time this afternoon please
+l_general	6.564103	address to city of atlanta corrections
+l_general	6.564103	where i can find fishinger road dance class
+l_general	6.564103	bbq near olympia wa please
+l_general	6.564103	and after that
+l_general	6.564103	get back to the last one
+l_general	6.564103	a new note of name business solutions
+l_general	6.564103	i want to choose the right
+l_general	6.564103	start again
+l_general	6.564103	okay i got it
+l_general	6.564103	what before that
+l_general	6.564103	i want to choose the lower choice
+l_general	6.564103	how far is gainesville from here
+l_general	6.564103	any of it
+l_general	6.564103	any one is ok
+l_general	6.564103	previous one please
+l_general	6.564103	add imax theater to my upcoming events
+l_general	6.564103	at grocery list add milk
+l_general	6.564103	contact the customer service
+l_general	6.564103	back to the last one
+l_general	6.564103	show me tomorrow ' s wedding party time
+l_general	6.564103	i want the left
+l_general	6.564103	voice activated reading of appointments this week
+l_general	6.564103	get for me rilo eagle street address
+l_general	6.564103	add a task to wunderlist
+l_general	6.564103	how soon will jack be free
+l_general	6.564103	what's more
+l_general	6.564103	how can i get it
+l_general	6.564103	i like the third choice
+l_general	6.564103	i need some help
+l_general	6.564103	it's finished
+l_general	6.564103	i want fourth
+l_general	6.564103	choose the upper right one
+l_general	6.564103	select the right one
+l_general	6.564103	go back please
+l_general	6.564103	how far is orlando from new york
+l_general	6.564103	what's up next
+l_general	6.564103	type in notepad
+l_general	6.564103	uani street
+l_general	6.564103	i am confirming keeping all items on lists
+l_general	6.564103	opt for the last one
+l_general	6.564103	what's after that
+l_general	6.564103	add to wish - list computer ram
+l_general	6.564103	schedule appointment for tomorrow please
+l_general	6.564103	they look bad, can you give me other choices
+l_general	6.564103	check - in room three forty seven
+l_general	6.564103	no no cancel
+l_general	6.564103	i like the top right one
+l_general	6.564103	add mark to guest list
+l_general	6.564103	opt for the lower choice
+l_general	6.564103	could you say it again
+l_general	6.564103	i am done
+l_general	6.564103	neither
+l_general	6.564103	is there any person i can talk to
+l_general	6.564103	submit
+l_general	6.564103	am i free to be with friends saturday
+l_general	6.564103	choose the bottom left
+l_general	6.564103	dismiss
+l_general	6.564103	i want the second one
+l_general	6.564103	go back to previous
+l_general	6.564103	god shut up
+l_general	6.564103	bend oregon exotic restaurants please
+l_general	6.564103	cancel it
+l_general	6.564103	sorry
+l_general	6.564103	it ' s okay from me
+l_general	6.564103	none of them
+l_general	6.564103	stop please
+l_general	6.564103	display weekend plans
+l_general	6.564103	go back
+l_general	6.564103	can you set a note up to mom
+l_general	6.564103	" i want to create a note of title shopping list " " " " "
+l_general	6.564103	b forty nine bus map brooklyn
+l_general	6.564103	show me the route to west avenue miami beach
+l_general	6.564103	next
+l_general	6.564103	return to the previous one
+l_general	6.564103	i need help
+l_general	6.564103	no cancel that
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+q_chitchat	4	What's your gender
+q_chitchat	4	Accurate
+q_chitchat	4	I have 7 cats
+q_chitchat	4	I wish I weren't so alone
+q_chitchat	4	I'm a fan.
+q_chitchat	4	Are you a fan of Alexa
+q_chitchat	4	Tell me how much you love me
+q_chitchat	4	What do you think about technology
+q_chitchat	4	You're no fun
+q_chitchat	4	What's your dad's name
+q_chitchat	4	Sing a tune
+q_chitchat	4	You are the love of my life
+q_chitchat	4	Are you available
+q_chitchat	4	What country are you in
+q_chitchat	4	Hi Alexa
+q_chitchat	4	Say a silly thing
+q_chitchat	4	Do you think I should ask him out
+q_chitchat	4	I can't think of anything I want to do
+q_chitchat	4	Try to make some sense
+q_chitchat	4	Love you!
+q_chitchat	4	You're so happy
+q_chitchat	4	Who is your father
+q_chitchat	4	Hello Cortana
+q_chitchat	4	How old are you
+q_chitchat	4	Hello Alexa
+q_chitchat	4	Who's your daddy
+q_chitchat	4	Can you sneeze
+q_chitchat	4	Say something stupid
+q_chitchat	4	You're a fuckup
+q_chitchat	4	That's not accurate
+q_chitchat	4	Yes to that
+q_chitchat	4	I'm not following
+q_chitchat	4	Are you my friend
+q_chitchat	4	Are you male
+q_chitchat	4	Are you human
+q_chitchat	4	Just kidding
+q_chitchat	4	I'm tired of you
+q_chitchat	4	What's your favorite song
+q_chitchat	4	Do you know other digital agents
+q_chitchat	4	I'm cracking up
+q_chitchat	4	What do you want to know about me
+q_chitchat	4	You are awesome!
+q_chitchat	4	Goodbye
+q_chitchat	4	Do you have a name
+q_chitchat	4	You seem really happy
+q_chitchat	4	Do you smell
+q_chitchat	4	Will you be my best friend
+q_chitchat	4	Can you say anything else
+q_chitchat	4	Your face is ugly.
+q_chitchat	4	Nobody cares about me
+q_chitchat	4	Omg sorry
+q_chitchat	4	I am angry
+q_chitchat	4	What is up
+q_chitchat	4	Do I look okay
+q_chitchat	4	What do you think of me
+q_chitchat	4	I am annoyed
+q_chitchat	4	You're so cool
+q_chitchat	4	I can drive a car
+q_chitchat	4	You're gonna be unemployed soon
+q_chitchat	4	Can you fly
+q_chitchat	4	Do you have brothers
+q_chitchat	4	How are you doing
+q_chitchat	4	Useless
+q_chitchat	4	What do you think about Alexa
+q_chitchat	4	Are you dumb
+q_chitchat	4	What are you
+q_chitchat	4	What's your age
+q_chitchat	4	You are so annoying!
+q_chitchat	4	You are stupid
+q_chitchat	4	I want to marry you.
+q_chitchat	4	I'm just playing
+q_chitchat	4	I hope you like me
+q_chitchat	4	I am doing that
+q_chitchat	4	Go to hell
+q_chitchat	4	Kthx
+q_chitchat	4	I'm so bored
+q_chitchat	4	Look at how smart you are
+q_chitchat	4	Do you sweat
+q_chitchat	4	I don't understand
+q_chitchat	4	You keep saying the same thing all the time
+q_chitchat	4	You fucked up
+q_chitchat	4	What do you even mean by that
+q_chitchat	4	Are you spying on me
+q_chitchat	4	Do you ever sing
+q_chitchat	4	I think you're swell
+q_chitchat	4	I am alone
+q_chitchat	4	Don't you get hungry
+q_chitchat	4	I'm really sad
+q_chitchat	4	Be ridiculous
+q_chitchat	4	You're a butterface.
+q_chitchat	4	You're fired!
+q_chitchat	4	I am a Democrat
+q_chitchat	4	Are you asexual
+q_chitchat	4	I'm in love with you.
+q_chitchat	4	That doesn't make sense
+q_chitchat	4	Say a joke
+q_chitchat	4	Do you love me
+q_chitchat	4	Are you pansexual
+q_chitchat	4	You seem really smart
+q_chitchat	4	Good evening
+q_chitchat	4	Do you know the meaning of life
+q_chitchat	4	What are you doing right now
+q_chitchat	4	Can you play sports
+q_chitchat	4	Are you a fan of tech
+q_chitchat	4	Excuse me
+q_chitchat	4	My sincere thanks
+q_chitchat	4	Welcome to springtime!
+q_chitchat	4	Who's your dad
+q_chitchat	4	Am I good-looking
+q_chitchat	4	Here I am
+q_chitchat	4	Why is that
+q_chitchat	4	I think you're dreamy
+q_chitchat	4	That's so wrong.
+q_chitchat	4	Hello Google
+q_chitchat	4	Good night to you
+q_chitchat	4	Are you a person
+q_chitchat	4	Can I have a hug
+q_chitchat	4	Hiya
+q_chitchat	4	Do you know Google
+q_chitchat	4	You're so funny.
+q_chitchat	4	I'm so sleepy
+q_chitchat	4	I'm sorry
+q_chitchat	4	Getting tired of you
+q_chitchat	4	Works for me
+q_chitchat	4	Do you know other chatbots
+q_chitchat	4	You are so bad at this.
+q_chitchat	4	You're rad.
+q_chitchat	4	I appreciate it
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template
+q_faq	51.2	What is the Enterprise Bot Template

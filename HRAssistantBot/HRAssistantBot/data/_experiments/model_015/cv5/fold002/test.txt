@@ -1,0 +1,237 @@
+Label	Weight	Text
+l_general	6.095238	talk to a human
+l_general	6.095238	opt for the left one
+l_general	6.095238	no shut up
+l_general	6.095238	what was that again
+l_general	6.095238	what about the third one
+l_general	6.095238	give me some help
+l_general	6.095238	i want the second one
+l_general	6.095238	canceled
+l_general	6.095238	attorney information
+l_general	6.095238	repeat
+l_general	6.095238	exit stop
+l_general	6.095238	leave
+l_general	6.095238	i want the fourth choice
+l_general	6.095238	how far is gainesville from here
+l_general	6.095238	i like the third
+l_general	6.095238	calendar for november 1948
+l_general	6.095238	go to the previous one
+l_general	6.095238	neither
+l_general	6.095238	last step
+l_general	6.095238	please clear the untitled notes for me
+l_general	6.095238	where i am driving right now
+l_general	6.095238	back to
+l_general	6.095238	nothing never mind
+l_general	6.095238	show the previous one
+l_general	6.095238	no no cancel
+l_general	6.095238	okay i got it
+l_general	6.095238	sick oof
+l_general	6.095238	stop talking
+l_general	6.095238	i like left one
+l_general	6.095238	what before that
+l_general	6.095238	quiet now
+l_general	6.095238	quit
+l_general	6.095238	shut up be quiet
+l_general	6.095238	never mind cancel
+l_general	6.095238	i want third one
+l_general	6.095238	what is the previous
+l_general	6.095238	nowhere just be quiet
+l_general	6.095238	human service
+l_general	6.095238	be quiet
+l_general	6.095238	i like second
+l_general	6.095238	travel
+l_general	6.095238	add an event to visit 209 nashville gym
+l_general	6.095238	tell me the event details
+l_general	6.095238	please return
+l_general	6.095238	how to do it
+l_general	6.095238	save the current note
+l_general	6.095238	quiet
+l_general	6.095238	contact the customer service
+l_general	6.095238	i want to choose the right
+l_general	6.095238	what about next one
+l_general	6.095238	show the next two options
+l_general	6.095238	no be quiet
+l_general	6.095238	visa
+l_general	6.095238	start it over
+l_general	6.095238	i like the upper right
+l_general	6.095238	back to last step
+l_general	6.095238	let me clear all the notes created on last monday
+l_general	6.095238	show me the route to mother ' s home
+l_general	6.095238	select no.5
+l_general	6.095238	i want neither of them
+l_general	6.095238	say that again
+l_general	6.095238	check - in room three forty seven
+l_general	6.095238	go back to
+l_general	6.095238	none none of them
+l_general	6.095238	is there any person i can talk to
+l_general	6.095238	what
+l_general	6.095238	cancel it
+l_general	6.095238	no stop
+l_general	6.095238	opt for the right
+l_general	6.095238	end it
+l_general	6.095238	stay fit
+l_general	6.095238	is there any real human
+l_general	6.095238	i have not heard
+l_general	6.095238	affordable insurance washington ave albany ny 12222 please
+l_general	6.095238	my god shut up
+l_general	6.095238	choose last one
+l_general	6.095238	could you say it again
+l_general	6.095238	soda popinski sf
+l_general	6.095238	oh don't do that
+l_general	6.095238	benefits & rewards
+l_general	6.095238	time & absense
+l_general	6.095238	i don't want to choose any one
+l_general	6.095238	payway please
+l_general	6.095238	return
+None	51.2	all of them
+None	51.2	all of them
+None	51.2	all of them
+None	51.2	all of them
+None	51.2	all of them
+None	51.2	all of them
+None	51.2	all of them
+None	51.2	all of them
+None	51.2	all of them
+None	51.2	all of them
+q_chitchat	4	Go to hell
+q_chitchat	4	Do you think I look good
+q_chitchat	4	What country are you in
+q_chitchat	4	How's your day
+q_chitchat	4	You're such an asshole
+q_chitchat	4	Do you have sisters
+q_chitchat	4	I'm tired
+q_chitchat	4	BRB
+q_chitchat	4	I'm into it
+q_chitchat	4	Are you bisexual
+q_chitchat	4	Do you believe in love
+q_chitchat	4	So sorry
+q_chitchat	4	What's your favorite animal
+q_chitchat	4	Hold on a sec
+q_chitchat	4	Can you sing
+q_chitchat	4	You're way off.
+q_chitchat	4	You're really boring
+q_chitchat	4	You're not answering my question.
+q_chitchat	4	It's my pleasure
+q_chitchat	4	I'd like to take you out on a date
+q_chitchat	4	Till we meet again
+q_chitchat	4	What kind of food do you like
+q_chitchat	4	I want to eat something
+q_chitchat	4	You are the love of my life
+q_chitchat	4	Be funny
+q_chitchat	4	I'm lonely
+q_chitchat	4	Where are you
+q_chitchat	4	What's going on
+q_chitchat	4	Are you pansexual
+q_chitchat	4	When will you shut up
+q_chitchat	4	Excuse me
+q_chitchat	4	Having a good day
+q_chitchat	4	I am happy
+q_chitchat	4	Am I pretty
+q_chitchat	4	You seem really happy
+q_chitchat	4	You face sucks.
+q_chitchat	4	I am not your friend
+q_chitchat	4	Sounds good
+q_chitchat	4	You're boring
+q_chitchat	4	Say something ridiculous
+q_chitchat	4	I'm so glad to meet you
+q_chitchat	4	Your face is ugly.
+q_chitchat	4	What do you think about Cortana
+q_chitchat	4	You don't know anything.
+q_chitchat	4	See you later
+q_chitchat	4	Can I have a hug
+q_chitchat	4	Where'd you come from
+q_chitchat	4	Do you ever sing
+q_chitchat	4	Do you know Alexa
+q_chitchat	4	What do you think about Siri
+q_chitchat	4	I'm chewing gum right now
+q_chitchat	4	You're so boring
+q_chitchat	4	Oops, sorry
+q_chitchat	4	What kind of candy do you like
+q_chitchat	4	Do you and Cortana hang out
+q_chitchat	4	Hello Google
+q_chitchat	4	What is love
+q_chitchat	4	Yup, that's true
+q_chitchat	4	You're the best
+q_chitchat	4	False
+q_chitchat	4	I will be back
+q_chitchat	4	What's your name
+q_chitchat	4	Can you count to a million
+q_chitchat	4	Do you like Cortana
+q_chitchat	4	Are you a girl
+q_chitchat	4	Where's your house
+q_chitchat	4	What is the meaning of life
+q_chitchat	4	I'm really sad
+q_chitchat	4	Pardon
+q_chitchat	4	How's your day going
+q_chitchat	4	What's your favorite food
+q_chitchat	4	Happy Hannukah
+q_chitchat	4	I beg your pardon
+q_chitchat	4	Life is good
+q_chitchat	4	You're right.
+q_chitchat	4	Can you fly
+q_chitchat	4	Fist bump!
+q_chitchat	4	I'm your biggest fan
+q_chitchat	4	Hi Google
+q_chitchat	4	Goodbye
+q_chitchat	4	Say something dumb
+q_chitchat	4	I am tall
+q_chitchat	4	Are you awesome
+q_chitchat	4	I'm afraid I'm gonna have to let you go.
+q_chitchat	4	I despise you
+q_chitchat	4	That was correct
+q_chitchat	4	Are you happy
+q_chitchat	4	Do you think you're smarter than me
+q_chitchat	4	That was right
+q_chitchat	4	Fuck off
+q_chitchat	4	I adore you
+q_chitchat	4	Shush!
+q_chitchat	4	I love music.
+q_chitchat	4	I'm despondent
+q_chitchat	4	Thank you so much
+q_chitchat	4	You are a genius!
+q_chitchat	4	Later
+q_chitchat	4	Are you asexual
+q_chitchat	4	You keep saying the same thing all the time
+q_chitchat	4	Hi there!
+q_chitchat	4	That was a stupid answer.
+q_chitchat	4	I'm so sorry
+q_chitchat	4	What do you think about Alexa
+q_chitchat	4	You're not making sense
+q_chitchat	4	Yes, that's right
+q_chitchat	4	I feel so great
+q_chitchat	4	Just kidding
+q_chitchat	4	You suck
+q_chitchat	4	Are you a lesbian
+q_chitchat	4	Nobody likes me
+q_chitchat	4	How old are you
+q_chitchat	4	Not true
+q_chitchat	4	What is the answer to the universe
+q_chitchat	4	Thanks
+q_chitchat	4	You're fired!
+q_chitchat	4	I'm just playing
+q_chitchat	4	Give me a kiss
+q_chitchat	4	I can drive a car
+q_chitchat	4	What makes you think that
+q_chitchat	4	You're so basic
+q_chitchat	4	Are you with the CIA
+q_chitchat	4	Hey
+q_chitchat	4	I am going on a run
+q_chitchat	4	You're useless
+q_chitchat	4	I think you're dreamy
+q_chitchat	4	Awesome
+q_chitchat	4	Are you male
+q_chitchat	4	I am here
+q_faq	36.57143	How do I report a Microsoft paid holiday
+q_faq	36.57143	How will this policy impact the easy id: firstname.lastname@microsoft.com
+q_faq	36.57143	Why do we expect individual rewards outcomes to vary year to year
+q_faq	36.57143	What is this EmpAssist
+q_faq	36.57143	How do I request a leave of absence
+q_faq	36.57143	How should I think about zero rewards
+q_faq	36.57143	How can I understand what high performance versus low performance looks like
+q_faq	36.57143	How do I report a Microsoft paid holiday
+q_faq	36.57143	How will this policy impact the easy id: firstname.lastname@microsoft.com
+q_faq	36.57143	Why do we expect individual rewards outcomes to vary year to year
+q_faq	36.57143	What is this EmpAssist
+q_faq	36.57143	How do I request a leave of absence
+q_faq	36.57143	How should I think about zero rewards
+q_faq	36.57143	How can I understand what high performance versus low performance looks like

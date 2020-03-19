@@ -1,0 +1,2 @@
+#!/bin/bash
+az bot publish --resource-group fhl-hack-smartbot -n fhl-hack-smartbot --subscription 40a96863-a71f-496e-b8a2-35e8148c8ae7 -v v4 --proj-name "SmartAssistantBot.csproj" 

@@ -1,0 +1,237 @@
+Label	Weight	Text
+l_general	6.083333	opt for any of it
+l_general	6.083333	apply leave
+l_general	6.083333	no go back to
+l_general	6.083333	yep
+l_general	6.083333	add oatmeal to shopping list .
+l_general	6.083333	what about the last
+l_general	6.083333	tesco ' s catterick garrison address please
+l_general	6.083333	who can help me
+l_general	6.083333	add a new task finish assignment
+l_general	6.083333	what after that
+l_general	6.083333	travel advisory
+l_general	6.083333	come on stop
+l_general	6.083333	go to the previous
+l_general	6.083333	a new note please
+l_general	6.083333	yes .
+l_general	6.083333	i need help
+l_general	6.083333	baby just be quiet
+l_general	6.083333	drive me to the fast one
+l_general	6.083333	back to the last one
+l_general	6.083333	select a random choice
+l_general	6.083333	turn off stop
+l_general	6.083333	cancel never mind
+l_general	6.083333	start again
+l_general	6.083333	i need some help
+l_general	6.083333	add mark to guest list
+l_general	6.083333	please help
+l_general	6.083333	bbq near olympia wa please
+l_general	6.083333	" cancel all entries in the people to call " " note " " "
+l_general	6.083333	what did you say
+l_general	6.083333	want to apply sick off
+l_general	6.083333	i don't want to select any one
+l_general	6.083333	where i can find fishinger road dance class
+l_general	6.083333	get back to last
+l_general	6.083333	what's the next 2
+l_general	6.083333	how far is orlando from new york
+l_general	6.083333	sorry, don't do it
+l_general	6.083333	choose one of it randomly
+l_general	6.083333	sick off
+l_general	6.083333	cancelled
+l_general	6.083333	select any of it
+l_general	6.083333	i want to choose right
+l_general	6.083333	search for meetings with chris
+l_general	6.083333	never mind
+l_general	6.083333	add a new event on 27 - apr
+l_general	6.083333	waffles recipe is my new note to be created
+l_general	6.083333	am i free to be with friends saturday
+l_general	6.083333	choose top right one
+l_general	6.083333	pardon
+l_general	6.083333	go forward
+l_general	6.083333	select the right one
+l_general	6.083333	i ' m at home
+l_general	6.083333	anyone is fine
+l_general	6.083333	any of it
+l_general	6.083333	i want to talk to a human
+l_general	6.083333	can i talk to a person
+l_general	6.083333	choose last
+l_general	6.083333	turn over a new leaf
+l_general	6.083333	i need manual customer service
+l_general	6.083333	select third
+l_general	6.083333	anything
+l_general	6.083333	display the fastest crossing across the sahara desert
+l_general	6.083333	how can i clear my notes
+l_general	6.083333	show me the road to the church
+l_general	6.083333	opt for the second
+l_general	6.083333	clear for me all the dummy notes
+l_general	6.083333	get back please
+l_general	6.083333	what's before that
+l_general	6.083333	it finished
+l_general	6.083333	do i have anything on wednesday
+l_general	6.083333	what's more
+l_general	6.083333	forget about it
+l_general	6.083333	choose the fourth one
+l_general	6.083333	boudoir photo shoot ballard
+l_general	6.083333	can you clear mom note
+l_general	6.083333	tar
+l_general	6.083333	add my current location as home
+l_general	6.083333	finished with
+l_general	6.083333	i want the lower choice
+l_general	6.083333	back please
+l_general	6.083333	done
+l_general	6.083333	select any
+l_general	6.083333	end
+l_general	6.083333	opt for right one
+l_general	6.083333	is the distance betwee the zoo and my current location thirteen miles
+None	51.1	all of them
+None	51.1	all of them
+None	51.1	all of them
+None	51.1	all of them
+None	51.1	all of them
+None	51.1	all of them
+None	51.1	all of them
+None	51.1	all of them
+None	51.1	all of them
+None	51.1	all of them
+q_chitchat	3.96124	Do you love anyone
+q_chitchat	3.96124	Happy Halloween!
+q_chitchat	3.96124	Do you have boogers
+q_chitchat	3.96124	Do you know Siri
+q_chitchat	3.96124	Which people made you
+q_chitchat	3.96124	Am I a good person
+q_chitchat	3.96124	Do you know any tunes
+q_chitchat	3.96124	Are you male or female
+q_chitchat	3.96124	Are you a man or a woman
+q_chitchat	3.96124	You seem happy
+q_chitchat	3.96124	Which one of us is smarter
+q_chitchat	3.96124	Are you HAL
+q_chitchat	3.96124	Have a good night
+q_chitchat	3.96124	I hope you like me
+q_chitchat	3.96124	Sorry about that
+q_chitchat	3.96124	You're such a smarty-pants
+q_chitchat	3.96124	Hi
+q_chitchat	3.96124	Do you like Alexa
+q_chitchat	3.96124	How do you feel about working late
+q_chitchat	3.96124	I hate you
+q_chitchat	3.96124	That's not funny.
+q_chitchat	3.96124	What's your favorite color
+q_chitchat	3.96124	You're so stupid
+q_chitchat	3.96124	How high can you jump
+q_chitchat	3.96124	What's your dad's name
+q_chitchat	3.96124	Why not
+q_chitchat	3.96124	Later alligator
+q_chitchat	3.96124	Who is your father
+q_chitchat	3.96124	Are you attempting world domination
+q_chitchat	3.96124	Say something stupid
+q_chitchat	3.96124	Do you play games
+q_chitchat	3.96124	Are you a girl or a boy
+q_chitchat	3.96124	Who's your dad
+q_chitchat	3.96124	What's your favorite activity
+q_chitchat	3.96124	Youâ€™re ugly.
+q_chitchat	3.96124	I need a kiss
+q_chitchat	3.96124	I'm tired of you
+q_chitchat	3.96124	Good night
+q_chitchat	3.96124	Where do you come from
+q_chitchat	3.96124	I'm pissed
+q_chitchat	3.96124	You're lame
+q_chitchat	3.96124	Night
+q_chitchat	3.96124	Do you get hungry
+q_chitchat	3.96124	I am alone
+q_chitchat	3.96124	What do you want to know about me
+q_chitchat	3.96124	I thank you
+q_chitchat	3.96124	Can you play sports
+q_chitchat	3.96124	I am annoyed
+q_chitchat	3.96124	Aren't you awesome
+q_chitchat	3.96124	Do you know Google
+q_chitchat	3.96124	You're not funny.
+q_chitchat	3.96124	That's awesome
+q_chitchat	3.96124	Hello
+q_chitchat	7.922481	I love you.
+q_chitchat	3.96124	I'm bored out of my mind
+q_chitchat	3.96124	I love my family.
+q_chitchat	3.96124	Where are you from
+q_chitchat	3.96124	Are you a robot
+q_chitchat	3.96124	You are my favorite
+q_chitchat	3.96124	You're welcome
+q_chitchat	3.96124	Look at how smart you are
+q_chitchat	3.96124	What's your opinion of me
+q_chitchat	3.96124	Do you dream
+q_chitchat	3.96124	Thank you
+q_chitchat	3.96124	Tell me how much you love me
+q_chitchat	3.96124	I miss you
+q_chitchat	3.96124	Do you love me
+q_chitchat	3.96124	Everything you told me was false.
+q_chitchat	3.96124	Are you dumb
+q_chitchat	3.96124	Sing a song
+q_chitchat	3.96124	I'm ticked off
+q_chitchat	3.96124	You're a fuckup
+q_chitchat	3.96124	Where did you come from
+q_chitchat	3.96124	You are so unfunny.
+q_chitchat	3.96124	What do you think of me
+q_chitchat	3.96124	Thnx
+q_chitchat	3.96124	Do you pee
+q_chitchat	3.96124	That made no sense
+q_chitchat	3.96124	Hum a tune
+q_chitchat	3.96124	Are you straight
+q_chitchat	3.96124	I'm feeling blue
+q_chitchat	3.96124	Do you know any songs
+q_chitchat	3.96124	Shut up
+q_chitchat	3.96124	You're dumb
+q_chitchat	3.96124	Joke's on you
+q_chitchat	3.96124	Kthx
+q_chitchat	3.96124	I'm all tuckered out
+q_chitchat	3.96124	You are no longer employed
+q_chitchat	3.96124	How much do you love me
+q_chitchat	3.96124	Will you be my best friend
+q_chitchat	3.96124	I'm a lesbian
+q_chitchat	3.96124	You're so happy
+q_chitchat	3.96124	I'm so sleepy
+q_chitchat	3.96124	You fucked up
+q_chitchat	3.96124	Can you sing a song
+q_chitchat	3.96124	Be my friend
+q_chitchat	3.96124	What makes you think so
+q_chitchat	3.96124	I'm sorry
+q_chitchat	3.96124	Nighty night
+q_chitchat	3.96124	I think you're great
+q_chitchat	3.96124	Am I a fool
+q_chitchat	3.96124	Do you have a sister
+q_chitchat	3.96124	What state are you from
+q_chitchat	3.96124	Can you sneeze
+q_chitchat	3.96124	What do you think about me
+q_chitchat	3.96124	Do you spend time in your garden
+q_chitchat	3.96124	You're a butterface.
+q_chitchat	3.96124	Why do you think that
+q_chitchat	3.96124	Do I look good in blue
+q_chitchat	3.96124	What can you help me with
+q_chitchat	3.96124	You made no sense
+q_chitchat	3.96124	Talk with me
+q_chitchat	3.96124	Do I look okay
+q_chitchat	3.96124	You are my best friend
+q_chitchat	3.96124	What were you doing yesterday
+q_chitchat	3.96124	Why is that
+q_chitchat	3.96124	I'm so madqw  b
+q_chitchat	3.96124	I'm starving
+q_chitchat	3.96124	Do you eat
+q_chitchat	3.96124	Which baseball teams do you like
+q_chitchat	3.96124	That's not accurate
+q_chitchat	3.96124	What's your favorite song
+q_chitchat	3.96124	You don't interest me at all
+q_chitchat	3.96124	Are you my assistant
+q_chitchat	3.96124	Nope, false
+q_chitchat	3.96124	What do you even mean by that
+q_chitchat	3.96124	Where do you live
+q_chitchat	3.96124	Sing something
+q_faq	36.5	Are MS Poll responses anonymous
+q_faq	36.5	What confidentiality rules are in place for reporting
+q_faq	36.5	"If I am out of sick, vacation or floating holidays, what are my options?"
+q_faq	36.5	What is Microsoft Policy on travel letter
+q_faq	36.5	Why is there a deadline for making a broker election
+q_faq	36.5	My manager changed recently and MS Poll shows my previous manager. How should I respond
+q_faq	36.5	How do my rewards compare with those of my peers
+q_faq	36.5	Are MS Poll responses anonymous
+q_faq	36.5	What confidentiality rules are in place for reporting
+q_faq	36.5	"If I am out of sick, vacation or floating holidays, what are my options?"
+q_faq	36.5	What is Microsoft Policy on travel letter
+q_faq	36.5	Why is there a deadline for making a broker election
+q_faq	36.5	My manager changed recently and MS Poll shows my previous manager. How should I respond
+q_faq	36.5	How do my rewards compare with those of my peers

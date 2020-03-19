@@ -1,0 +1,237 @@
+Label	Weight	Text
+l_general	6.095238	none of those
+l_general	6.095238	how to do it
+l_general	6.095238	what after that
+l_general	6.095238	show me samuel ' s availability for tuesday morning
+l_general	6.095238	add imax theater to my upcoming events
+l_general	6.095238	repeat
+l_general	6.095238	go to the previous one
+l_general	6.095238	it's finished
+l_general	6.095238	please help
+l_general	6.095238	go back to
+l_general	6.095238	" cancel all entries in the people to call " " note " " "
+l_general	6.095238	say that again
+l_general	6.095238	where i am driving right now
+l_general	6.095238	mark state parks as favorite
+l_general	6.095238	any of it
+l_general	6.095238	pardon
+l_general	6.095238	select the last choice
+l_general	6.095238	is there any help
+l_general	6.095238	exit stop
+l_general	6.095238	add mark to guest list
+l_general	6.095238	how can i clear my notes
+l_general	6.095238	display the fastest way to san antonio from austin
+l_general	6.095238	never mind cancel
+l_general	6.095238	move to the next one
+l_general	6.095238	neither one
+l_general	6.095238	i want third one
+l_general	6.095238	select no.5
+l_general	6.095238	tar
+l_general	6.095238	i want left
+l_general	6.095238	time & absense
+l_general	6.095238	i want the left
+l_general	6.095238	legal
+l_general	6.095238	no no cancel it
+l_general	6.095238	i like the first one
+l_general	6.095238	go to the next one
+l_general	6.095238	select the upper right
+l_general	6.095238	add oatmeal to shopping list .
+l_general	6.095238	choose last one
+l_general	6.095238	please clear the untitled notes for me
+l_general	6.095238	waffles recipe is my new note to be created
+l_general	6.095238	get back
+l_general	6.095238	choose one of it randomly
+l_general	6.095238	discounts
+l_general	6.095238	bend oregon exotic restaurants please
+l_general	6.095238	it ' s okay from me
+l_general	6.095238	attorney
+l_general	6.095238	go back please
+l_general	6.095238	i have not heard
+l_general	6.095238	b forty nine bus map brooklyn
+l_general	6.095238	be quiet
+l_general	6.095238	choose no.2
+l_general	6.095238	return
+l_general	6.095238	display the fastest crossing across the sahara desert
+l_general	6.095238	exit exit
+l_general	6.095238	none none of them
+l_general	6.095238	do i have anything on wednesday
+l_general	6.095238	baby just be quiet
+l_general	6.095238	i need some help
+l_general	6.095238	i want to choose the fourth
+l_general	6.095238	save the current note
+l_general	6.095238	view tom chros availability
+l_general	6.095238	what is the previous
+l_general	6.095238	travel suggestions
+l_general	6.095238	cancel it
+l_general	6.095238	finished with
+l_general	6.095238	show the next two options
+l_general	6.095238	don't do that anymore
+l_general	6.095238	no stop
+l_general	6.095238	bbq near olympia wa please
+l_general	6.095238	day off
+l_general	6.095238	none of these
+l_general	6.095238	start again
+l_general	6.095238	type in notepad
+l_general	6.095238	show previous
+l_general	6.095238	what was that again
+l_general	6.095238	i am finished
+l_general	6.095238	tacoma please
+l_general	6.095238	clear for me all the dummy notes
+l_general	6.095238	add fred george to onenote
+l_general	6.095238	i need to go to the next one
+l_general	6.095238	opt for the second
+l_general	6.095238	what about the last
+l_general	6.095238	show me the next
+l_general	6.095238	repeat please
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+None	51.2	i want them all
+q_chitchat	4	I want you to like me
+q_chitchat	4	Hug me
+q_chitchat	4	Shut up
+q_chitchat	4	LOL
+q_chitchat	4	There's nothing to do
+q_chitchat	4	Do you play games
+q_chitchat	4	Do you have sisters
+q_chitchat	4	You're dumb
+q_chitchat	4	Hi Google
+q_chitchat	4	Are you in love with me
+q_chitchat	4	I'm chewing gum right now
+q_chitchat	4	Thanks
+q_chitchat	4	Say something
+q_chitchat	4	What's going on
+q_chitchat	4	What makes you think that
+q_chitchat	4	What's your mom's name
+q_chitchat	4	Hi Alexa
+q_chitchat	4	I need a hug
+q_chitchat	4	Who's your dad
+q_chitchat	4	What's happening
+q_chitchat	4	Do you have a sister
+q_chitchat	4	What's your favorite song
+q_chitchat	4	Where are you located
+q_chitchat	4	What's your opinion of me
+q_chitchat	4	That was funny
+q_chitchat	4	You're lame
+q_chitchat	4	You're awful
+q_chitchat	4	Are you my assistant
+q_chitchat	4	You look ugly.
+q_chitchat	4	Later
+q_chitchat	4	Do I look okay
+q_chitchat	4	You're no fun
+q_chitchat	4	You honestly could not be more uninteresting
+q_chitchat	4	Sing a tune
+q_chitchat	4	Who's your boss
+q_chitchat	4	What kind of candy do you like
+q_chitchat	4	Are you a fan of tech
+q_chitchat	4	It's my pleasure
+q_chitchat	4	Aren't you cheerful
+q_chitchat	4	You're smart
+q_chitchat	4	I am hungry
+q_chitchat	4	Are you a fan of country music
+q_chitchat	4	I think you hate me.
+q_chitchat	4	That's not accurate
+q_chitchat	4	Who's your master
+q_chitchat	4	Do you pee
+q_chitchat	4	Are you a man or a woman
+q_chitchat	4	Are you pansexual
+q_chitchat	4	Be my friend
+q_chitchat	4	I'm really sad
+q_chitchat	4	Ask me something.
+q_chitchat	4	How much more awesome can you get
+q_chitchat	4	Sing a song
+q_chitchat	4	I hate you
+q_chitchat	4	You are so bad at this.
+q_chitchat	4	I miss you
+q_chitchat	4	Do you get tired
+q_chitchat	4	Go to hell
+q_chitchat	4	You're stupid
+q_chitchat	4	Do you have brothers
+q_chitchat	4	Are you queer
+q_chitchat	4	Welcome to springtime!
+q_chitchat	4	I'm tired of you
+q_chitchat	4	Give me some sugar
+q_chitchat	4	How old are you
+q_chitchat	4	Who do you love
+q_chitchat	4	Morning
+q_chitchat	4	Can you chat with me
+q_chitchat	4	Are you with the NSA
+q_chitchat	4	Are you intelligent
+q_chitchat	4	Do you know any jokes
+q_chitchat	4	Why don't you ever stop talking
+q_chitchat	4	Good night
+q_chitchat	4	You're gonna be unemployed soon
+q_chitchat	4	That's awesome
+q_chitchat	4	I miss you so much!
+q_chitchat	4	I'm in such a good mood
+q_chitchat	4	What do you even mean by that
+q_chitchat	4	Who made you
+q_chitchat	4	Do you think I look good
+q_chitchat	4	Are you bisexual
+q_chitchat	4	I'm starving
+q_chitchat	4	Haha
+q_chitchat	4	Human or robot
+q_chitchat	4	Do you like Cortana
+q_chitchat	4	Oops, sorry
+q_chitchat	4	Say something funny
+q_chitchat	4	Are you a spy
+q_chitchat	4	You keep saying the same thing all the time
+q_chitchat	4	I thank you
+q_chitchat	4	Tell me a joke
+q_chitchat	4	Who am I
+q_chitchat	4	Where did you come from
+q_chitchat	4	What state are you from
+q_chitchat	4	Are you spying on me
+q_chitchat	4	Say something ridiculous
+q_chitchat	4	Why not
+q_chitchat	4	Sing something
+q_chitchat	4	That was a stupid answer.
+q_chitchat	4	How intelligent are you
+q_chitchat	4	Are you a robot
+q_chitchat	4	Are you trans
+q_chitchat	4	Are you my friend
+q_chitchat	4	are you real or fake
+q_chitchat	4	You're such a sweetheart
+q_chitchat	4	What's your favorite color
+q_chitchat	4	Do you know Cortana
+q_chitchat	4	I'm just playing
+q_chitchat	4	What kinds of things can you do
+q_chitchat	4	Where'd you come from
+q_chitchat	4	Butterface.
+q_chitchat	4	There
+q_chitchat	4	You're really boring
+q_chitchat	4	Sounds good
+q_chitchat	4	You're not funny.
+q_chitchat	4	You're way off.
+q_chitchat	4	How smart you are
+q_chitchat	4	You can't work for me anymore
+q_chitchat	4	I'm so sleepy
+q_chitchat	4	I am tall
+q_chitchat	4	You're so cool
+q_chitchat	4	Are you friends with other bots
+q_chitchat	4	Your face is ugly.
+q_chitchat	4	I'm into it
+q_chitchat	4	Do you like my hat
+q_chitchat	4	I am going on a run
+q_chitchat	4	How's your day
+q_chitchat	4	What do you think about Cortana
+q_faq	36.57143	What leave of absence policies does Microsoft have
+q_faq	36.57143	What can I do to get promoted
+q_faq	36.57143	How do I report my vacation time
+q_faq	36.57143	What is this EmpAssist
+q_faq	36.57143	My manager changed recently and MS Poll shows my previous manager. How should I respond
+q_faq	36.57143	Does Microsoft provide tax seminars to employees to educate them about the financial impact of stock awards
+q_faq	36.57143	What confidentiality rules are in place for reporting
+q_faq	36.57143	What leave of absence policies does Microsoft have
+q_faq	36.57143	What can I do to get promoted
+q_faq	36.57143	How do I report my vacation time
+q_faq	36.57143	What is this EmpAssist
+q_faq	36.57143	My manager changed recently and MS Poll shows my previous manager. How should I respond
+q_faq	36.57143	Does Microsoft provide tax seminars to employees to educate them about the financial impact of stock awards
+q_faq	36.57143	What confidentiality rules are in place for reporting

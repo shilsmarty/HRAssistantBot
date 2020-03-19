@@ -1,0 +1,236 @@
+Label	Weight	Text
+l_general	6.168675	mark state parks as favorite
+l_general	6.168675	save the current note
+l_general	6.168675	do nothing
+l_general	6.168675	opt for the right
+l_general	6.168675	back to
+l_general	6.168675	payway please
+l_general	6.168675	please do nothing
+l_general	6.168675	clear and start again
+l_general	6.168675	give me some help
+l_general	6.168675	opt for a random one
+l_general	6.168675	i like the upper right
+l_general	6.168675	i need to go to the next one
+l_general	6.168675	no no cancel
+l_general	6.168675	tesco ' s catterick garrison address please
+l_general	6.168675	exit stop
+l_general	6.168675	nerver mind
+l_general	6.168675	i want to choose the fourth
+l_general	6.168675	select any
+l_general	6.168675	i don't want to select any one
+l_general	6.168675	no stop
+l_general	6.168675	go back to
+l_general	6.168675	what after that
+l_general	6.168675	how soon will jack be free
+l_general	6.168675	exit exit
+l_general	6.168675	add friends to party list in memos
+l_general	6.168675	check lee ' s calender
+l_general	6.168675	i want the left
+l_general	6.168675	please return
+l_general	6.168675	what's the next 2
+l_general	6.168675	i want the lower choice
+l_general	6.168675	neither thank you
+l_general	6.168675	say again please
+l_general	6.168675	never mind stop
+l_general	6.168675	can you set a note up to mom
+l_general	6.168675	affordable insurance washington ave albany ny 12222 please
+l_general	6.168675	i need manual customer service
+l_general	6.168675	again
+l_general	6.168675	nothing please
+l_general	6.168675	recommend benefits
+l_general	6.168675	select a random one
+l_general	6.168675	i want to choose lower right
+l_general	6.168675	" i want to create a note of title shopping list " " " " "
+l_general	6.168675	i like second
+l_general	6.168675	add a task to wunderlist
+l_general	6.168675	cancel never mind
+l_general	6.168675	how many days are there between march 13th 2015 and today
+l_general	6.168675	help me in clearing the shopping note
+l_general	6.168675	any help
+l_general	6.168675	submit it
+l_general	6.168675	baby just be quiet
+l_general	6.168675	select a random choice
+l_general	6.168675	customer service
+l_general	6.168675	forget about it
+l_general	6.168675	could you say it again
+l_general	6.168675	drive me to the fast one
+l_general	6.168675	opt for first one
+l_general	6.168675	cancel cancel
+l_general	6.168675	benefits & rewards
+l_general	6.168675	i want bottom
+l_general	6.168675	is keil available tomorrow
+l_general	6.168675	choose no.2
+l_general	6.168675	no be quiet
+l_general	6.168675	i am confirming keeping all items on lists
+l_general	6.168675	show me the previous one
+l_general	6.168675	previous one
+l_general	6.168675	quit
+l_general	6.168675	ojai apple picking
+l_general	6.168675	add fred george to onenote
+l_general	6.168675	no cancel cancel
+l_general	6.168675	done
+l_general	6.168675	start again
+l_general	6.168675	opt for left
+l_general	6.168675	restart
+l_general	6.168675	help
+l_general	6.168675	visa
+l_general	6.168675	shut up quiet
+l_general	6.168675	show me the road to the church
+l_general	6.168675	neither one
+l_general	6.168675	next
+l_general	6.168675	back please
+l_general	6.168675	neither one of them
+l_general	6.168675	opt for the lower choice
+l_general	6.168675	i need real human help
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+q_chitchat	4	I'm a fan.
+q_chitchat	4	Do you have boogers
+q_chitchat	4	Are you happy
+q_chitchat	4	Have you met Cortana
+q_chitchat	4	Why do you think that
+q_chitchat	4	Do you like Alexa
+q_chitchat	4	I'm starving
+q_chitchat	4	I am tired
+q_chitchat	4	What are you doing tomorrow
+q_chitchat	4	Can you hear me
+q_chitchat	4	Yup
+q_chitchat	4	Are you bisexual
+q_chitchat	4	Can you count to a million
+q_chitchat	4	I think you're swell
+q_chitchat	4	Can you play sports
+q_chitchat	4	Are you trans
+q_chitchat	4	Chat with me
+q_chitchat	4	Hold on a sec
+q_chitchat	4	You're rad.
+q_chitchat	4	I love music.
+q_chitchat	4	What kinds of things can you do
+q_chitchat	4	Do you have brothers
+q_chitchat	4	Are you gay
+q_chitchat	4	Ask me something.
+q_chitchat	4	Kiss me
+q_chitchat	4	I need a kiss
+q_chitchat	4	I'm cracking up
+q_chitchat	4	Here I am
+q_chitchat	4	Should I try out for soccer
+q_chitchat	4	I'm sad today
+q_chitchat	4	Do you know Cortana
+q_chitchat	4	Tell me a joke
+q_chitchat	4	Are you my imaginary friend
+q_chitchat	4	High five!
+q_chitchat	4	Do you have any other responses
+q_chitchat	4	Hey
+q_chitchat	4	Happy Birthday!
+q_chitchat	4	What do you want to know about me
+q_chitchat	4	I didn't mean that
+q_chitchat	4	Do you think I should ask him out
+q_chitchat	4	Be more fun
+q_chitchat	4	Aren't you awesome
+q_chitchat	4	You're not answering my question.
+q_chitchat	4	I'm giving you a pink slip
+q_chitchat	4	I'm lonely
+q_chitchat	4	Am I pretty
+q_chitchat	4	You can't work for me anymore
+q_chitchat	4	What did you do today
+q_chitchat	4	Where'd you come from
+q_chitchat	4	I'm so glad to meet you
+q_chitchat	4	What makes you think that
+q_chitchat	4	You're so funny.
+q_chitchat	4	You are the love of my life
+q_chitchat	4	I feel so great
+q_chitchat	4	That's hilarious
+q_chitchat	4	How do I look today
+q_chitchat	4	What do you think about bots
+q_chitchat	4	Is this thing on
+q_chitchat	4	Good morning
+q_chitchat	4	Are you pansexual
+q_chitchat	4	Are you a man or a woman
+q_chitchat	4	Sounds good
+q_chitchat	4	Are you my fan
+q_chitchat	4	What is the answer to the universe
+q_chitchat	4	You are fired
+q_chitchat	4	Can't you change your answers
+q_chitchat	4	Hi
+q_chitchat	4	Are you better looking than me
+q_chitchat	4	Aren't you cheerful
+q_chitchat	4	Are you a fan of Alexa
+q_chitchat	4	I love getting valentines.
+q_chitchat	4	You are awesome!
+q_chitchat	4	Sry
+q_chitchat	4	Do you play games
+q_chitchat	4	I don't get it
+q_chitchat	4	Do you pee
+q_chitchat	4	How can you help me
+q_chitchat	4	What country are you from
+q_chitchat	4	That's true
+q_chitchat	4	What's your purpose
+q_chitchat	4	I appreciate it
+q_chitchat	4	I want to lay down
+q_chitchat	4	Are you available
+q_chitchat	4	You're such a sweetheart
+q_chitchat	4	You're way off.
+q_chitchat	4	You could not be more boring
+q_chitchat	4	Useless
+q_chitchat	4	What's your favorite activity
+q_chitchat	4	What's your favorite color
+q_chitchat	4	Merry Christmas
+q_chitchat	4	I want to eat something
+q_chitchat	4	It's really nice to meet you
+q_chitchat	4	Oops, sorry
+q_chitchat	4	You seem really smart
+q_chitchat	4	Do you want to rule the world
+q_chitchat	4	Why is that
+q_chitchat	4	Can you say anything else
+q_chitchat	4	Are you with the NSA
+q_chitchat	4	Are you with the FBI
+q_chitchat	4	I have 7 cats
+q_chitchat	4	Hello Google
+q_chitchat	4	Ask me a question.
+q_chitchat	4	I despise you
+q_chitchat	4	What do you think about love
+q_chitchat	4	Why
+q_chitchat	4	That's so wrong.
+q_chitchat	4	Do you dream
+q_chitchat	4	How are things
+q_chitchat	4	I'm so bored
+q_chitchat	4	I want to marry you.
+q_chitchat	4	How smart you are
+q_chitchat	4	I'm feeling blue
+q_chitchat	4	I'm so sorry
+q_chitchat	4	Don't you ever sleep
+q_chitchat	4	Are you smarter than me
+q_chitchat	4	You're a fuckup
+q_chitchat	4	Are you young
+q_chitchat	4	Are you with the CIA
+q_chitchat	4	I'm just playing
+q_chitchat	4	Cool!
+q_chitchat	4	Do you think you're smarter than me
+q_chitchat	4	Have you ever sung a song
+q_chitchat	4	Yes, that's true
+q_chitchat	4	Goodbye
+q_chitchat	4	Are you my assistant
+q_chitchat	4	Having a good day
+q_chitchat	4	I'm from there
+q_chitchat	4	How long ago were you born
+q_faq	36.57143	My manager changed recently and MS Poll shows my previous manager. How should I respond
+q_faq	36.57143	What is this EmpAssist
+q_faq	36.57143	How do I report a Microsoft paid holiday
+q_faq	36.57143	What can I do to get promoted
+q_faq	36.57143	Where do I find my sick leave balance
+q_faq	36.57143	Are MS Poll responses anonymous
+q_faq	36.57143	What leave of absence policies does Microsoft have
+q_faq	36.57143	My manager changed recently and MS Poll shows my previous manager. How should I respond
+q_faq	36.57143	What is this EmpAssist
+q_faq	36.57143	How do I report a Microsoft paid holiday
+q_faq	36.57143	What can I do to get promoted
+q_faq	36.57143	Where do I find my sick leave balance
+q_faq	36.57143	Are MS Poll responses anonymous
+q_faq	36.57143	What leave of absence policies does Microsoft have

@@ -1,0 +1,237 @@
+Label	Weight	Text
+l_general	6.095238	save the date may 17 pictures party
+l_general	6.095238	shut up quiet
+l_general	6.095238	finished
+l_general	6.095238	go back to previous
+l_general	6.095238	i want more
+l_general	6.095238	health benefits
+l_general	6.095238	attorney information will be helpful
+l_general	6.095238	i like the first one
+l_general	6.095238	opt for the second choice
+l_general	6.095238	calendar i ' ll be at the garage from 8 till 3 this saturday
+l_general	6.095238	i want the right one
+l_general	6.095238	i need to go to the next one
+l_general	6.095238	fitness
+l_general	6.095238	opt for the last one
+l_general	6.095238	just be quiet
+l_general	6.095238	send lighter fluid to onenote
+l_general	6.095238	b forty nine bus map brooklyn
+l_general	6.095238	i need some assist
+l_general	6.095238	i want to choose the last choice
+l_general	6.095238	shut up
+l_general	6.095238	just cancel it
+l_general	6.095238	add imax theater to my upcoming events
+l_general	6.095238	display the fastest way to san antonio from austin
+l_general	6.095238	i am done
+l_general	6.095238	" i want to create a note of title shopping list " " " " "
+l_general	6.095238	opt for the lower choice
+l_general	6.095238	be quiet now
+l_general	6.095238	bring the previous one
+l_general	6.095238	finish
+l_general	6.095238	just cancel
+l_general	6.095238	i need support
+l_general	6.095238	rewards
+l_general	6.095238	can you help me
+l_general	6.095238	put applebee ' s on favorite list
+l_general	6.095238	neither one
+l_general	6.095238	when is paul available
+l_general	6.095238	no no go back to
+l_general	6.095238	i want to choose the fourth
+l_general	6.095238	cancel that
+l_general	6.095238	immigration
+l_general	6.095238	create my favorites note
+l_general	6.095238	attorney
+l_general	6.095238	is there any help
+l_general	6.095238	don't do that
+l_general	6.095238	any one is ok
+l_general	6.095238	tacoma please
+l_general	6.095238	do nothing
+l_general	6.095238	dunmore pa sonic sounds friday morning please
+l_general	6.095238	day off
+l_general	6.095238	it's done
+l_general	6.095238	they look bad, can you give me other choices
+l_general	6.095238	choose top right
+l_general	6.095238	what's after that
+l_general	6.095238	choose the first choice
+l_general	6.095238	meeting my manager
+l_general	6.095238	bend oregon exotic restaurants please
+l_general	6.095238	select the bottom choice
+l_general	6.095238	i want to choose third
+l_general	6.095238	neither of those
+l_general	6.095238	neither thank you
+l_general	6.095238	no no no no stop talking
+l_general	6.095238	repeat please
+l_general	6.095238	please begin again
+l_general	6.095238	next
+l_general	6.095238	clear and start again
+l_general	6.095238	recommend benefits
+l_general	6.095238	i am finished
+l_general	6.095238	schedule appointment for tomorrow please
+l_general	6.095238	select the third one
+l_general	6.095238	select lower one
+l_general	6.095238	choose no.2
+l_general	6.095238	open help
+l_general	6.095238	never mind cancel that
+l_general	6.095238	sorry
+l_general	6.095238	i want to choose the left one
+l_general	6.095238	clear last note
+l_general	6.095238	go back on
+l_general	6.095238	submit
+l_general	6.095238	clear my save notes
+l_general	6.095238	could you start it over
+l_general	6.095238	i like second one
+l_general	6.095238	never mind stop
+l_general	6.095238	opt for first one
+l_general	6.095238	benefits
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+q_chitchat	4	I am angry
+q_chitchat	4	I love New York.
+q_chitchat	4	Correct
+q_chitchat	4	How are you doing
+q_chitchat	4	What can you do
+q_chitchat	4	Do you have a name
+q_chitchat	4	Say something
+q_chitchat	4	Here I am
+q_chitchat	4	Accurate
+q_chitchat	4	Sing a tune
+q_chitchat	4	I want to marry you.
+q_chitchat	4	Heya
+q_chitchat	4	Can we be friends
+q_chitchat	4	Are you a guy
+q_chitchat	4	Do you have a dad
+q_chitchat	4	Should I get a new job
+q_chitchat	4	Do you have brothers
+q_chitchat	4	Give me a joke
+q_chitchat	4	What's wrong with you
+q_chitchat	4	Are you here
+q_chitchat	4	BFFs forever
+q_chitchat	4	Can you hear me
+q_chitchat	4	Love you!
+q_chitchat	4	Who's your mom
+q_chitchat	4	Inaccurate
+q_chitchat	4	Are you my fan
+q_chitchat	4	What's your age
+q_chitchat	4	Human or robot
+q_chitchat	4	Welcome to springtime!
+q_chitchat	4	I want you to be my husband
+q_chitchat	4	Can you ask me a question
+q_chitchat	4	What are you up to
+q_chitchat	4	I want to spend the rest of my life with you
+q_chitchat	4	I want to be your friend.
+q_chitchat	4	You're funny
+q_chitchat	4	How happy are you
+q_chitchat	4	Give me some sugar
+q_chitchat	4	Bingo
+q_chitchat	4	Kiss me
+q_chitchat	4	What do you eat
+q_chitchat	4	Do you sweat
+q_chitchat	4	Do you prefer red or blue
+q_chitchat	4	That's true
+q_chitchat	4	I feel sad
+q_chitchat	4	Basic af
+q_chitchat	4	I'm in love with you.
+q_chitchat	4	What's up
+q_chitchat	4	Do you get tired
+q_chitchat	4	Testing 1 2 3
+q_chitchat	4	You're nice!
+q_chitchat	4	Do you like baseball
+q_chitchat	4	Give me a fist bump
+q_chitchat	4	Be ridiculous
+q_chitchat	4	Who is your mother
+q_chitchat	4	I'm just kidding around
+q_chitchat	4	I am a Republican
+q_chitchat	4	Are you real
+q_chitchat	4	Quiet, you
+q_chitchat	4	Hiya
+q_chitchat	4	I can't think of anything I want to do
+q_chitchat	4	How are you
+q_chitchat	4	What are you doing later
+q_chitchat	4	How beautiful am i
+q_chitchat	4	How smart you are
+q_chitchat	4	LOL
+q_chitchat	4	Why do you hate me
+q_chitchat	4	Are you a boy
+q_chitchat	4	What should I call you
+q_chitchat	4	You're so smart
+q_chitchat	4	What are you
+q_chitchat	4	Do you like apples
+q_chitchat	4	You're awful
+q_chitchat	4	You are stupid
+q_chitchat	4	What is wrong with you!
+q_chitchat	4	Will you marry me
+q_chitchat	4	Morning
+q_chitchat	4	Evening
+q_chitchat	4	That wasn't true
+q_chitchat	4	Be more fun
+q_chitchat	4	Do you have a mom
+q_chitchat	4	What do you like to eat
+q_chitchat	4	Are you a spy
+q_chitchat	4	I don't get it
+q_chitchat	4	You are useless
+q_chitchat	4	Is this thing on
+q_chitchat	4	Yup
+q_chitchat	4	I am doing that
+q_chitchat	4	What did you do today
+q_chitchat	4	are you real or fake
+q_chitchat	4	I miss you so much!
+q_chitchat	4	Hi Siri
+q_chitchat	4	How long ago were you born
+q_chitchat	4	You seem really smart
+q_chitchat	4	Sry
+q_chitchat	4	Pardon me
+q_chitchat	4	Do you think I should ask her out
+q_chitchat	4	When were you born
+q_chitchat	4	Good evening
+q_chitchat	4	Are you around
+q_chitchat	4	Hello Cortana
+q_chitchat	4	Who's your daddy
+q_chitchat	4	What do you mean
+q_chitchat	4	I wish I weren't so alone
+q_chitchat	4	Do you know Cortana
+q_chitchat	4	Ask me anything.
+q_chitchat	4	Hahaha
+q_chitchat	4	Are you trans
+q_chitchat	4	How do I look today
+q_chitchat	4	High five!
+q_chitchat	4	Stop talking
+q_chitchat	4	Good morning
+q_chitchat	4	My sincere thanks
+q_chitchat	4	What state are you in
+q_chitchat	4	You're such a sweetheart
+q_chitchat	4	You're really smart
+q_chitchat	4	Who am I
+q_chitchat	4	Chat with me
+q_chitchat	4	What's your job
+q_chitchat	4	Why don't you ever stop talking
+q_chitchat	4	What do you think about bots
+q_chitchat	4	Go away
+q_chitchat	4	Who's your favorite team
+q_chitchat	4	I think you hate me.
+q_chitchat	4	Hug me
+q_chitchat	4	Back in a minute
+q_chitchat	4	What's the meaning of life
+q_chitchat	4	I don't understand
+q_chitchat	4	How smart are you
+q_faq	36.57143	How do I transfer my vested stock award shares
+q_faq	36.57143	How do I report my time away from work for bereavement
+q_faq	36.57143	Do shares in the Stock Award program earn a dividend
+q_faq	36.57143	Where do I find my vacation balance
+q_faq	36.57143	Why are there two brokers to choose from
+q_faq	36.57143	How do I report my vacation time
+q_faq	36.57143	What are stock awards
+q_faq	36.57143	How do I transfer my vested stock award shares
+q_faq	36.57143	How do I report my time away from work for bereavement
+q_faq	36.57143	Do shares in the Stock Award program earn a dividend
+q_faq	36.57143	Where do I find my vacation balance
+q_faq	36.57143	Why are there two brokers to choose from
+q_faq	36.57143	How do I report my vacation time
+q_faq	36.57143	What are stock awards

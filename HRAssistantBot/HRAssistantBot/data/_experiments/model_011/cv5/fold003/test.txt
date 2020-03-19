@@ -1,0 +1,231 @@
+Label	Weight	Text
+l_general	6.564103	what's up next
+l_general	6.564103	choose one of it randomly
+l_general	6.564103	at grocery list add milk
+l_general	6.564103	get back please
+l_general	6.564103	uani street
+l_general	6.564103	what before that
+l_general	6.564103	it ' s okay from me
+l_general	6.564103	add to wish - list computer ram
+l_general	6.564103	i need manual customer service
+l_general	6.564103	create note with notepad
+l_general	6.564103	select the last choice
+l_general	6.564103	show the next 4 items
+l_general	6.564103	say again please
+l_general	6.564103	forget about it
+l_general	6.564103	select the bottom choice
+l_general	6.564103	i want the second one
+l_general	6.564103	don't do that
+l_general	6.564103	choose no.2
+l_general	6.564103	pull up my appointment find out how much time i have before my next appointment
+l_general	6.564103	affordable insurance washington ave albany ny 12222 please
+l_general	6.564103	oh cancel
+l_general	6.564103	go back
+l_general	6.564103	show me the previous one
+l_general	6.564103	what about the third one
+l_general	6.564103	i want to choose the last choice
+l_general	6.564103	i want left
+l_general	6.564103	choose top right one
+l_general	6.564103	what is the previous
+l_general	6.564103	help me in clearing the shopping note
+l_general	6.564103	previous one please
+l_general	6.564103	start over it
+l_general	6.564103	add tasks to wunderlist
+l_general	6.564103	is there any real human
+l_general	6.564103	again
+l_general	6.564103	what's more
+l_general	6.564103	god shut up
+l_general	6.564103	select a random choice
+l_general	6.564103	yep
+l_general	6.564103	calendar for november 1948
+l_general	6.564103	neither of those
+l_general	6.564103	is there any person i can talk to
+l_general	6.564103	save the date may 17 pictures party
+l_general	6.564103	give me some help
+l_general	6.564103	start it over
+l_general	6.564103	show me tomorrow ' s wedding party time
+l_general	6.564103	add an event to visit 209 nashville gym
+l_general	6.564103	exit stop
+l_general	6.564103	hey stop
+l_general	6.564103	distance from taco bell to my location
+l_general	6.564103	who can help me
+l_general	6.564103	submit it
+l_general	6.564103	i want to choose second one
+l_general	6.564103	i ' m at home
+l_general	6.564103	cancel cancel
+l_general	6.564103	none of them thank you
+l_general	6.564103	none none
+l_general	6.564103	no cancel
+l_general	6.564103	cancel never mind
+l_general	6.564103	check if i have time for a meeting tonight
+l_general	6.564103	type in notepad
+l_general	6.564103	let me clear all the notes created on last monday
+l_general	6.564103	yes .
+l_general	6.564103	can you help me
+l_general	6.564103	add my current location as home
+l_general	6.564103	display weekend plans
+l_general	6.564103	tacoma please
+l_general	6.564103	i want none of them
+l_general	6.564103	i want to choose right
+l_general	6.564103	cancelled
+l_general	6.564103	i need some help
+l_general	6.564103	no no no no stop talking
+l_general	6.564103	send lighter fluid to onenote
+l_general	6.564103	soda popinski sf
+l_general	6.564103	all finished
+l_general	6.564103	how can i get it
+l_general	6.564103	show me the next
+l_general	6.564103	finished with
+l_general	6.564103	return to the previous one
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+q_chitchat	4	Thnx
+q_chitchat	4	Yup, that's true
+q_chitchat	4	That's not accurate
+q_chitchat	4	You're not answering my question.
+q_chitchat	4	Where are you from
+q_chitchat	4	I'm all tuckered out
+q_chitchat	4	You're an asshole
+q_chitchat	4	Hi there!
+q_chitchat	4	Are you male or female
+q_chitchat	4	Are you bisexual
+q_chitchat	4	I am angry
+q_chitchat	4	I am a Republican
+q_chitchat	4	How high can you count
+q_chitchat	4	Be silly
+q_chitchat	4	Can you read my mind
+q_chitchat	4	Hey
+q_chitchat	4	Who are you
+q_chitchat	4	Hello Cortana
+q_chitchat	4	Do you have boogers
+q_chitchat	4	What are you doing tomorrow
+q_chitchat	4	What makes you think that
+q_chitchat	4	Who's your mom
+q_chitchat	4	What kind of candy do you like
+q_chitchat	4	I'm into it
+q_chitchat	4	I am going on a run
+q_chitchat	4	What do you think about bots
+q_chitchat	4	Do you have any other responses
+q_chitchat	4	I am alone
+q_chitchat	4	Do you have a name
+q_chitchat	4	How happy are you
+q_chitchat	4	What is wrong with you!
+q_chitchat	4	Will you be my best friend
+q_chitchat	4	Morning
+q_chitchat	4	Good evening to you
+q_chitchat	4	Cool!
+q_chitchat	4	Are you smarter than me
+q_chitchat	4	Say something stupid
+q_chitchat	4	What do you mean
+q_chitchat	4	Are you smart
+q_chitchat	4	Excuse me
+q_chitchat	4	I beg your pardon
+q_chitchat	4	Do you have sisters
+q_chitchat	4	Are you happy
+q_chitchat	4	That doesn't make sense
+q_chitchat	4	You look ugly.
+q_chitchat	4	How are things
+q_chitchat	4	You're such a smarty-pants
+q_chitchat	4	What's my name
+q_chitchat	4	Are you a girl or a boy
+q_chitchat	4	What state are you from
+q_chitchat	4	Are you selling my data
+q_chitchat	4	I think you're great
+q_chitchat	4	I'm so madqw  b
+q_chitchat	4	Are you awesome
+q_chitchat	4	I'm chewing gum right now
+q_chitchat	4	Can you sing a song
+q_chitchat	4	That's not funny.
+q_chitchat	4	That was a stupid answer.
+q_chitchat	4	You're funny
+q_chitchat	4	What do you think about me
+q_chitchat	4	You seem happy
+q_chitchat	4	Can we be friends
+q_chitchat	4	Where'd you come from
+q_chitchat	4	Do you like my hat
+q_chitchat	4	Can you sleep
+q_chitchat	4	You bore me
+q_chitchat	4	Are you a man or a woman
+q_chitchat	4	Why don't you ever stop talking
+q_chitchat	4	I am a Democrat
+q_chitchat	4	What do you think of me
+q_chitchat	4	Getting tired of you
+q_chitchat	4	Joke's on you
+q_chitchat	4	Sounds good
+q_chitchat	4	Useless
+q_chitchat	4	Who is your father
+q_chitchat	4	You are my best friend
+q_chitchat	4	What's your favorite animal
+q_chitchat	4	Do you have siblings
+q_chitchat	4	That's not true.
+q_chitchat	4	Later
+q_chitchat	4	There
+q_chitchat	4	What should I do
+q_chitchat	4	You are now unemployed
+q_chitchat	4	Good evening
+q_chitchat	4	I'm feeling blue
+q_chitchat	4	Why do you think that
+q_chitchat	4	So tired
+q_chitchat	4	You're a butterface.
+q_chitchat	4	I can't think of anything I want to do
+q_chitchat	4	Which people made you
+q_chitchat	4	I just want to go to sleep
+q_chitchat	4	Do you pee
+q_chitchat	4	I'm so lonely
+q_chitchat	4	I thank you
+q_chitchat	4	I think you hate me.
+q_chitchat	4	What do you do
+q_chitchat	4	Do you know any jokes
+q_chitchat	4	What's up
+q_chitchat	4	Merry Christmas
+q_chitchat	4	I miss you so much!
+q_chitchat	4	I'm sorry
+q_chitchat	4	Do you like apples
+q_chitchat	4	Who is your creator
+q_chitchat	4	Can you sneeze
+q_chitchat	4	Where do you come from
+q_chitchat	4	I'm lonely
+q_chitchat	4	I'm in love with you.
+q_chitchat	4	Say a joke
+q_chitchat	4	What's your name
+q_chitchat	4	Are you my imaginary friend
+q_chitchat	4	What are you doing right now
+q_chitchat	4	Where are you
+q_chitchat	4	What's the meaning of life
+q_chitchat	4	How was your day
+q_chitchat	4	You are a genius!
+q_chitchat	4	Sing something
+q_chitchat	4	It's my pleasure
+q_chitchat	4	You are fired
+q_chitchat	4	I think you're dreamy
+q_chitchat	4	Do you like Alexa
+q_chitchat	4	Are you a robot
+q_chitchat	4	Works for me
+q_chitchat	4	Night
+q_chitchat	4	Don't you get hungry
+q_chitchat	4	That was correct
+q_chitchat	4	Say something
+q_chitchat	4	You're useless
+q_chitchat	4	I'm so hungry
+q_faq	36.57143	Do shares in the Stock Award program earn a dividend
+q_faq	36.57143	My manager changed recently and MS Poll shows my previous manager. How should I respond
+q_faq	36.57143	How do my rewards compare with those of my peers
+q_faq	36.57143	How do I request a leave of absence
+q_faq	36.57143	In New Hire When can a specific alias be requested
+q_faq	36.57143	Why are there two brokers to choose from
+q_faq	36.57143	What is this EmpAssist
+q_faq	36.57143	Do shares in the Stock Award program earn a dividend
+q_faq	36.57143	My manager changed recently and MS Poll shows my previous manager. How should I respond
+q_faq	36.57143	How do my rewards compare with those of my peers
+q_faq	36.57143	How do I request a leave of absence
+q_faq	36.57143	In New Hire When can a specific alias be requested
+q_faq	36.57143	Why are there two brokers to choose from
+q_faq	36.57143	What is this EmpAssist

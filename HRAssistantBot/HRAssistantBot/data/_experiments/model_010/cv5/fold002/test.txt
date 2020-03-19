@@ -1,0 +1,227 @@
+Label	Weight	Text
+l_general	6.564103	i like second
+l_general	6.564103	i don't want to choose any one
+l_general	6.564103	i like left one
+l_general	6.564103	create my favorites note
+l_general	6.564103	i need help
+l_general	6.564103	i need some help
+l_general	6.564103	ojai apple picking
+l_general	6.564103	i want the fourth choice
+l_general	6.564103	bring the previous one
+l_general	6.564103	never mind cancel that
+l_general	6.564103	add a task to wunderlist
+l_general	6.564103	select the right one
+l_general	6.564103	choose one of it randomly
+l_general	6.564103	nothing please
+l_general	6.564103	who can help me
+l_general	6.564103	affordable insurance washington ave albany ny 12222 please
+l_general	6.564103	give me some help
+l_general	6.564103	clear all items from the chores list .
+l_general	6.564103	repeat
+l_general	6.564103	select a random one
+l_general	6.564103	add imax theater to my upcoming events
+l_general	6.564103	it ' s okay from me
+l_general	6.564103	b forty nine bus map brooklyn
+l_general	6.564103	how far is gainesville from here
+l_general	6.564103	back
+l_general	6.564103	come on stop
+l_general	6.564103	they look bad, can you give me other choices
+l_general	6.564103	cancel
+l_general	6.564103	am i free to be with friends saturday
+l_general	6.564103	select third
+l_general	6.564103	clear and start again
+l_general	6.564103	select upper
+l_general	6.564103	can you clear mom note
+l_general	6.564103	do i have anything on wednesday
+l_general	6.564103	i want to choose the right
+l_general	6.564103	cancel that
+l_general	6.564103	show me tomorrow ' s wedding party time
+l_general	6.564103	i like the first one
+l_general	6.564103	select any choice
+l_general	6.564103	go to the previous
+l_general	6.564103	what's next
+l_general	6.564103	clear my save notes
+l_general	6.564103	is there any real person
+l_general	6.564103	i need to go to the next one
+l_general	6.564103	last step
+l_general	6.564103	select fourth one
+l_general	6.564103	talk to a human
+l_general	6.564103	oh don't do that
+l_general	6.564103	how can i clear my notes
+l_general	6.564103	show previous
+l_general	6.564103	sorry, don't do it
+l_general	6.564103	forget about it
+l_general	6.564103	send lighter fluid to onenote
+l_general	6.564103	clear for me all the dummy notes
+l_general	6.564103	back to last
+l_general	6.564103	show me the route to west avenue miami beach
+l_general	6.564103	it's finished
+l_general	6.564103	waffles recipe is my new note to be created
+l_general	6.564103	none none
+l_general	6.564103	never mind cancel
+l_general	6.564103	tacoma please
+l_general	6.564103	again
+l_general	6.564103	add friends to party list in memos
+l_general	6.564103	i want fourth
+l_general	6.564103	what's the next 2
+l_general	6.564103	exit exit
+l_general	6.564103	choose no.2
+l_general	6.564103	i need support
+l_general	6.564103	get back to the last one
+l_general	6.564103	can you set a note up to mom
+l_general	6.564103	select the third one
+l_general	6.564103	no cancel it
+l_general	6.564103	cancel cancel
+l_general	6.564103	what did you say
+l_general	6.564103	none of them thank you
+l_general	6.564103	stop please
+l_general	6.564103	how can i get it
+l_general	6.564103	say again
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+None	51.2	i want to all of them
+q_chitchat	4	I am a Democrat
+q_chitchat	4	BRB
+q_chitchat	4	Happy Birthday!
+q_chitchat	4	Can you play sports
+q_chitchat	4	Can you sleep
+q_chitchat	4	What are you up to
+q_chitchat	4	Are you straight
+q_chitchat	4	Cool!
+q_chitchat	4	Here I am
+q_chitchat	4	I'm so madqw  b
+q_chitchat	4	It's my pleasure
+q_chitchat	4	Hi Google
+q_chitchat	4	Tell me how much you love me
+q_chitchat	4	Why
+q_chitchat	4	You seem happy
+q_chitchat	4	Cook me something
+q_chitchat	4	You're such a smarty-pants
+q_chitchat	4	Who's your favorite singer
+q_chitchat	4	Do you like Cortana
+q_chitchat	4	Are you busy
+q_chitchat	4	Yes
+q_chitchat	4	Fist bump!
+q_chitchat	4	Are you spying on me
+q_chitchat	4	Sing a tune
+q_chitchat	4	I'm in such a good mood
+q_chitchat	4	Do you know Cortana
+q_chitchat	4	Are you a girl
+q_chitchat	4	Are you hungry
+q_chitchat	4	Bingo
+q_chitchat	4	You keep saying the same thing all the time
+q_chitchat	4	Do you know who I am
+q_chitchat	4	Can you make me a sandwich
+q_chitchat	4	You're gonna be unemployed soon
+q_chitchat	4	Sing something
+q_chitchat	4	You seem really happy
+q_chitchat	4	Have you met Cortana
+q_chitchat	4	I'm bored out of my mind
+q_chitchat	4	What do you want to know about me
+q_chitchat	4	Hello Alexa
+q_chitchat	4	I want to lay down
+q_chitchat	4	I want you to be my husband
+q_chitchat	4	I'm so lonely
+q_chitchat	4	Tell a joke
+q_chitchat	4	I can't think of anything I want to do
+q_chitchat	4	I'm really sad
+q_chitchat	4	What were you doing yesterday
+q_chitchat	4	Are you available
+q_chitchat	4	ROFL
+q_chitchat	4	Talk to me
+q_chitchat	4	You're hilarious
+q_chitchat	4	How are you doing
+q_chitchat	4	Ask me anything.
+q_chitchat	4	Do you know any tunes
+q_chitchat	4	I am bored
+q_chitchat	4	Be silly
+q_chitchat	4	Who's your favorite team
+q_chitchat	4	What country are you from
+q_chitchat	4	Can you fly
+q_chitchat	4	Why do you think that
+q_chitchat	4	You are fired
+q_chitchat	4	You are stupid
+q_chitchat	4	Do you like me
+q_chitchat	4	Excuse me
+q_chitchat	4	Ask me something.
+q_chitchat	4	You're lame
+q_chitchat	4	I'm all tuckered out
+q_chitchat	4	I am alone
+q_chitchat	4	That wasn't funny.
+q_chitchat	4	Do you have siblings
+q_chitchat	4	Do I look good in blue
+q_chitchat	4	You're fired!
+q_chitchat	4	What color do you like
+q_chitchat	4	Do you like Siri
+q_chitchat	4	Are you with the FBI
+q_chitchat	4	Are you smarter than me
+q_chitchat	4	What's up
+q_chitchat	4	I'm joyous
+q_chitchat	4	Are you human
+q_chitchat	4	Don't you get hungry
+q_chitchat	4	I'm starving
+q_chitchat	4	Can you read my mind
+q_chitchat	4	Do you know Google
+q_chitchat	4	Do you know Alexa
+q_chitchat	4	You're really smart
+q_chitchat	4	Where are you from
+q_chitchat	4	Are you male or female
+q_chitchat	4	You suck
+q_chitchat	4	Are you free
+q_chitchat	4	Do you know the meaning of life
+q_chitchat	4	You can't work for me anymore
+q_chitchat	4	What do you think about Siri
+q_chitchat	4	What do you think about technology
+q_chitchat	4	You're a fuckup
+q_chitchat	4	I think you're swell
+q_chitchat	4	I'm giving you a pink slip
+q_chitchat	4	Testing
+q_chitchat	4	Hahaha
+q_chitchat	4	I adore you
+q_chitchat	4	That's so wrong.
+q_chitchat	4	I'm your biggest fan
+q_chitchat	4	Not funny.
+q_chitchat	4	Are you a fan of tech
+q_chitchat	4	Are you the singularity
+q_chitchat	4	That was a stupid answer.
+q_chitchat	4	What's your opinion of me
+q_chitchat	4	are you real or fake
+q_chitchat	4	You are the love of my life
+q_chitchat	4	Pardon me
+q_chitchat	4	Omg sorry
+q_chitchat	4	Do you know any songs
+q_chitchat	4	What's your gender
+q_chitchat	4	Aren't you awesome
+q_chitchat	4	I'm just kidding around
+q_chitchat	4	I wish you just go away.
+q_chitchat	4	Are you dumb
+q_chitchat	4	I am tall
+q_chitchat	4	What's your name
+q_chitchat	4	Say something
+q_chitchat	4	Are you a woman
+q_chitchat	4	I hate you
+q_chitchat	4	Thanks
+q_chitchat	4	Fuck off
+q_chitchat	4	Chat with me
+q_chitchat	4	I love New York.
+q_chitchat	4	I miss you
+q_chitchat	4	What country are you in
+q_chitchat	4	Do you think I look good
+q_chitchat	4	Sry
+q_faq	51.2	What confidentiality rules are in place for reporting
+q_faq	51.2	What are stock awards
+q_faq	51.2	Who should I contact if I have unanswered questions
+q_faq	51.2	How do I report my jury duty time
+q_faq	51.2	Are MS Poll responses anonymous
+q_faq	51.2	What confidentiality rules are in place for reporting
+q_faq	51.2	What are stock awards
+q_faq	51.2	Who should I contact if I have unanswered questions
+q_faq	51.2	How do I report my jury duty time
+q_faq	51.2	Are MS Poll responses anonymous
